@@ -1,65 +1,86 @@
-import Image from "next/image";
+import Header from '@/components/layout/Header';
+import Footer from '@/components/layout/Footer';
+import Hero from '@/components/home/Hero';
+import BentoGrid from '@/components/home/BentoGrid';
 
 export default function Home() {
   return (
-    <div className="flex flex-col flex-1 items-center justify-center bg-zinc-50 font-sans dark:bg-black">
-      <main className="flex flex-1 w-full max-w-3xl flex-col items-center justify-between py-32 px-16 bg-white dark:bg-black sm:items-start">
-        <Image
-          className="dark:invert"
-          src="/next.svg"
-          alt="Next.js logo"
-          width={100}
-          height={20}
-          priority
-        />
-        <div className="flex flex-col items-center gap-6 text-center sm:items-start sm:text-left">
-          <h1 className="max-w-xs text-3xl font-semibold leading-10 tracking-tight text-black dark:text-zinc-50">
-            To get started, edit the page.tsx file.
-          </h1>
-          <p className="max-w-md text-lg leading-8 text-zinc-600 dark:text-zinc-400">
-            Looking for a starting point or more instructions? Head over to{" "}
-            <a
-              href="https://vercel.com/templates?framework=next.js&utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-              className="font-medium text-zinc-950 dark:text-zinc-50"
-            >
-              Templates
-            </a>{" "}
-            or the{" "}
-            <a
-              href="https://nextjs.org/learn?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-              className="font-medium text-zinc-950 dark:text-zinc-50"
-            >
-              Learning
-            </a>{" "}
-            center.
-          </p>
+    <main className="min-h-screen bg-background">
+      <Header />
+      <Hero />
+      <BentoGrid />
+      
+      {/* Why Choose Us Section */}
+      <section className="py-24 border-y border-white/5 bg-white/[0.01]">
+        <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-16 items-center">
+            <div>
+              <h2 className="text-3xl font-bold tracking-tight text-white sm:text-4xl mb-6">
+                Intelligence that drives <br />
+                <span className="text-primary">market dominance.</span>
+              </h2>
+              <div className="space-y-8 mt-10">
+                <div className="flex gap-4">
+                  <div className="mt-1 flex h-10 w-10 shrink-0 items-center justify-center rounded-lg bg-primary/10">
+                    <div className="h-2 w-2 rounded-full bg-primary" />
+                  </div>
+                  <div>
+                    <h4 className="font-semibold text-white">Triple-Verified Contacts</h4>
+                    <p className="text-sm text-muted-foreground mt-1">Every email is checked against live mail servers and social profiles within 24 hours of delivery.</p>
+                  </div>
+                </div>
+                <div className="flex gap-4">
+                  <div className="mt-1 flex h-10 w-10 shrink-0 items-center justify-center rounded-lg bg-primary/10">
+                    <div className="h-2 w-2 rounded-full bg-primary" />
+                  </div>
+                  <div>
+                    <h4 className="font-semibold text-white">Firmographic Depth</h4>
+                    <p className="text-sm text-muted-foreground mt-1">Filter by actual spend, technology adoption date, and specific job functions (e.g. DevOps vs SecOps).</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+            
+            <div className="glass-panel p-8 relative overflow-hidden">
+              <div className="flex items-center justify-between mb-8">
+                <div className="flex space-x-2">
+                  <div className="h-3 w-3 rounded-full bg-red-500/50" />
+                  <div className="h-3 w-3 rounded-full bg-yellow-500/50" />
+                  <div className="h-3 w-3 rounded-full bg-green-500/50" />
+                </div>
+                <span className="text-xs font-mono text-muted-foreground">data-visualization.v1</span>
+              </div>
+              
+              <div className="space-y-4">
+                {[
+                  { name: 'CRM', value: 85, color: 'bg-primary' },
+                  { name: 'ERP', value: 65, color: 'bg-blue-400' },
+                  { name: 'Cloud', value: 92, color: 'bg-emerald-400' },
+                  { name: 'SecOps', value: 45, color: 'bg-purple-400' },
+                ].map((item) => (
+                  <div key={item.name} className="space-y-2">
+                    <div className="flex justify-between text-xs font-medium text-white">
+                      <span>{item.name} Market Share</span>
+                      <span>{item.value}%</span>
+                    </div>
+                    <div className="h-2 w-full bg-white/5 rounded-full overflow-hidden">
+                      <div 
+                        className={`h-full ${item.color} rounded-full transition-all duration-1000`} 
+                        style={{ width: `${item.value}%` }} 
+                      />
+                    </div>
+                  </div>
+                ))}
+              </div>
+              
+              {/* Decorative Circle */}
+              <div className="absolute -right-20 -top-20 h-64 w-64 rounded-full bg-primary/10 blur-[80px]" />
+            </div>
+          </div>
         </div>
-        <div className="flex flex-col gap-4 text-base font-medium sm:flex-row">
-          <a
-            className="flex h-12 w-full items-center justify-center gap-2 rounded-full bg-foreground px-5 text-background transition-colors hover:bg-[#383838] dark:hover:bg-[#ccc] md:w-[158px]"
-            href="https://vercel.com/new?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            <Image
-              className="dark:invert"
-              src="/vercel.svg"
-              alt="Vercel logomark"
-              width={16}
-              height={16}
-            />
-            Deploy Now
-          </a>
-          <a
-            className="flex h-12 w-full items-center justify-center rounded-full border border-solid border-black/[.08] px-5 transition-colors hover:border-transparent hover:bg-black/[.04] dark:border-white/[.145] dark:hover:bg-[#1a1a1a] md:w-[158px]"
-            href="https://nextjs.org/docs?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Documentation
-          </a>
-        </div>
-      </main>
-    </div>
+      </section>
+
+      <Footer />
+    </main>
   );
 }
