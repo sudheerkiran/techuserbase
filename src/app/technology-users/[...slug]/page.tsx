@@ -88,19 +88,19 @@ export default async function TechnologyPage({ params }: PageProps) {
               <div className="grid grid-cols-2 md:grid-cols-4 gap-4 mb-12">
                 <div className="glass-panel p-4">
                   <div className="text-2xl font-bold text-white">{techData.accounts}</div>
-                  <div className="text-[10px] text-muted-foreground uppercase tracking-widest mt-1">Companies</div>
+                  <div className="text-[10px] text-muted-foreground uppercase tracking-widest mt-1 text-primary">Companies Using</div>
                 </div>
                 <div className="glass-panel p-4">
                   <div className="text-2xl font-bold text-white">{techData.contacts}</div>
-                  <div className="text-[10px] text-muted-foreground uppercase tracking-widest mt-1">Contacts</div>
+                  <div className="text-[10px] text-muted-foreground uppercase tracking-widest mt-1 text-primary">Contacts Available</div>
                 </div>
                 <div className="glass-panel p-4">
-                  <div className="text-2xl font-bold text-white">99%</div>
+                  <div className="text-2xl font-bold text-white">99.8%</div>
                   <div className="text-[10px] text-muted-foreground uppercase tracking-widest mt-1">Accuracy</div>
                 </div>
-                <div className="glass-panel p-4 border-primary/20">
-                  <div className="text-2xl font-bold text-primary">GDPR</div>
-                  <div className="text-[10px] text-muted-foreground uppercase tracking-widest mt-1">Compliant</div>
+                <div className="glass-panel p-4">
+                  <div className="text-sm font-bold text-white">May 13, 2026</div>
+                  <div className="text-[10px] text-muted-foreground uppercase tracking-widest mt-1">Last Updated</div>
                 </div>
               </div>
             </div>
