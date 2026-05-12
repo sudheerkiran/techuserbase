@@ -31,8 +31,8 @@ export default async function TechnologyPage({ params }: PageProps) {
   
   const techData = {
     name: displayName,
-    accounts: product?.estimated_accounts ? product.estimated_accounts.toLocaleString() : "1,200+",
-    contacts: product?.estimated_contacts ? product.estimated_contacts.toLocaleString() : "5,000+",
+    accounts: product?.estimated_accounts ? product.estimated_accounts.toLocaleString() : "---",
+    contacts: product?.estimated_contacts ? product.estimated_contacts.toLocaleString() : "---",
     description: product?.description || `Target high-value decision makers using ${displayName} across various industries. Our list is verified every 30 days for maximum deliverability.`,
     personas: [
       { title: "VP of Sales", count: "1,200", selected: true },
