@@ -31,7 +31,8 @@ export default async function TechnologyPage({ params }: PageProps) {
   
   const techData = {
     name: displayName,
-    count: product?.verified_users_count ? product.verified_users_count.toLocaleString() : "5,000+",
+    accounts: product?.estimated_accounts ? product.estimated_accounts.toLocaleString() : "1,200+",
+    contacts: product?.estimated_contacts ? product.estimated_contacts.toLocaleString() : "5,000+",
     description: product?.description || `Target high-value decision makers using ${displayName} across various industries. Our list is verified every 30 days for maximum deliverability.`,
     personas: [
       { title: "VP of Sales", count: "1,200", selected: true },
@@ -86,16 +87,16 @@ export default async function TechnologyPage({ params }: PageProps) {
               
               <div className="grid grid-cols-2 md:grid-cols-4 gap-4 mb-12">
                 <div className="glass-panel p-4">
-                  <div className="text-2xl font-bold text-white">{techData.count}</div>
-                  <div className="text-[10px] text-muted-foreground uppercase tracking-widest mt-1">Prospects</div>
+                  <div className="text-2xl font-bold text-white">{techData.accounts}</div>
+                  <div className="text-[10px] text-muted-foreground uppercase tracking-widest mt-1">Companies</div>
+                </div>
+                <div className="glass-panel p-4">
+                  <div className="text-2xl font-bold text-white">{techData.contacts}</div>
+                  <div className="text-[10px] text-muted-foreground uppercase tracking-widest mt-1">Contacts</div>
                 </div>
                 <div className="glass-panel p-4">
                   <div className="text-2xl font-bold text-white">99%</div>
                   <div className="text-[10px] text-muted-foreground uppercase tracking-widest mt-1">Accuracy</div>
-                </div>
-                <div className="glass-panel p-4">
-                  <div className="text-2xl font-bold text-white">24h</div>
-                  <div className="text-[10px] text-muted-foreground uppercase tracking-widest mt-1">Delivery</div>
                 </div>
                 <div className="glass-panel p-4 border-primary/20">
                   <div className="text-2xl font-bold text-primary">GDPR</div>
