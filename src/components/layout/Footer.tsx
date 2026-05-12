@@ -1,6 +1,6 @@
 import React from 'react';
 import Link from 'next/link';
-import { Database, Twitter, Linkedin, Github, Mail } from 'lucide-react';
+import { Database, Mail, Globe, Share2 } from 'lucide-react';
 
 const Footer = () => {
   return (
@@ -21,9 +21,8 @@ const Footer = () => {
               Premium technology installbase intelligence and verified professional email lists for high-growth sales and marketing teams.
             </p>
             <div className="flex space-x-4">
-              <Link href="#" className="text-muted-foreground transition-colors hover:text-white"><Twitter className="h-5 w-5" /></Link>
-              <Link href="#" className="text-muted-foreground transition-colors hover:text-white"><Linkedin className="h-5 w-5" /></Link>
-              <Link href="#" className="text-muted-foreground transition-colors hover:text-white"><Github className="h-5 w-5" /></Link>
+              <Link href="#" className="text-muted-foreground transition-colors hover:text-white"><Globe className="h-5 w-5" /></Link>
+              <Link href="#" className="text-muted-foreground transition-colors hover:text-white"><Share2 className="h-5 w-5" /></Link>
             </div>
           </div>
 
