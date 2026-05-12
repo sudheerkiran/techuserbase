@@ -1,11 +1,11 @@
 import React from 'react';
 import Header from '@/components/layout/Header';
 import Footer from '@/components/layout/Footer';
+import LeadForm from '@/components/tech/LeadForm';
 import { notFound } from 'next/navigation';
-import { Check, Users, Database, TrendingUp, Download, ShieldCheck, Mail, Globe } from 'lucide-react';
+import { Check, Users, Database, TrendingUp, Download, Mail, Globe } from 'lucide-react';
 import { supabase } from '@/lib/supabase';
 import { getTechLogo } from '@/lib/logos';
-import Image from 'next/image';
 
 interface PageProps {
   params: {
@@ -18,7 +18,7 @@ export default async function TechnologyPage({ params }: PageProps) {
   const techSlug = slug[slug.length - 1]; 
 
   // Fetch product data from Supabase
-  const { data: product, error } = await supabase
+  const { data: product } = await supabase
     .from('products')
     .select('*, sub_categories(*, categories(*))')
     .eq('slug', techSlug)
@@ -167,23 +167,7 @@ export default async function TechnologyPage({ params }: PageProps) {
           <h2 className="text-3xl font-bold text-white mb-6">Need a custom {techData.name} list?</h2>
           <p className="text-muted-foreground mb-10">Tell us your specific requirements (revenue range, location, seniority) and we'll build it for you.</p>
           
-          <form className="grid grid-cols-1 md:grid-cols-2 gap-4 text-left">
-            <div className="space-y-2">
-              <label className="text-xs font-semibold text-muted-foreground uppercase">Work Email</label>
-              <input type="email" className="w-full rounded-xl border border-white/10 bg-white/5 p-4 text-white focus:border-primary focus:outline-none" placeholder="name@company.com" />
-            </div>
-            <div className="space-y-2">
-              <label className="text-xs font-semibold text-muted-foreground uppercase">Phone Number</label>
-              <input type="tel" className="w-full rounded-xl border border-white/10 bg-white/5 p-4 text-white focus:border-primary focus:outline-none" placeholder="+1 (555) 000-0000" />
-            </div>
-            <div className="md:col-span-2 space-y-2">
-              <label className="text-xs font-semibold text-muted-foreground uppercase">Custom Requirements</label>
-              <textarea className="w-full rounded-xl border border-white/10 bg-white/5 p-4 text-white focus:border-primary focus:outline-none h-32" placeholder="I need Salesforce users in Healthcare with revenue > $50M..." />
-            </div>
-            <button className="md:col-span-2 rounded-xl bg-primary py-4 font-bold text-white transition-all hover:bg-primary/90 shadow-xl shadow-primary/20 mt-4">
-              Send Requirements
-            </button>
-          </form>
+          <LeadForm techName={techData.name} productId={product?.id} />
         </div>
       </section>
 
