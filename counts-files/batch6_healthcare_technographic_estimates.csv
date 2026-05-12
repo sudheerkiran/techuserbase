@@ -1,0 +1,26 @@
+Technology,Primary_Vendor,Estimated_Accounts,Estimated_Contacts,Geography,Source_Type,Confidence_Score,Last_Verified,Research_Batch
+Epic EHR,Epic Systems,3200,180000,Global,Healthcare Market Estimate,High,2026-05-12,6
+Cerner,Oracle Health,27000,350000,Global,Public Customer Statements,High,2026-05-12,6
+athenahealth,athenahealth,160000,520000,Global,Public Customer Statements,High,2026-05-12,6
+eClinicalWorks,eClinicalWorks,130000,420000,Global,Healthcare Market Estimate,Medium,2026-05-12,6
+NextGen Healthcare,NextGen Healthcare,155000,360000,Global,Healthcare Market Estimate,Medium,2026-05-12,6
+Allscripts,Veradigm,180000,480000,Global,Healthcare IT Estimate,Medium,2026-05-12,6
+MEDITECH,MEDITECH,2300,85000,Global,Hospital Market Estimate,Medium,2026-05-12,6
+Greenway Health,Greenway Health,75000,220000,Global,Healthcare Market Estimate,Medium,2026-05-12,6
+CareCloud,CareCloud,40000,120000,Global,Healthcare SaaS Estimate,Low,2026-05-12,6
+DrChrono,EverHealth,35000,95000,Global,SMB Healthcare Estimate,Low,2026-05-12,6
+AdvancedMD,AdvancedMD,45000,140000,Global,Healthcare SaaS Estimate,Medium,2026-05-12,6
+Kareo,Tebra,75000,180000,Global,Healthcare SMB Estimate,Medium,2026-05-12,6
+Practice Fusion,Veradigm,30000,90000,Global,Healthcare SaaS Estimate,Low,2026-05-12,6
+Dentrix,Henry Schein,45000,110000,Global,Dental Software Estimate,Medium,2026-05-12,6
+OpenDental,Open Dental,18000,42000,Global,Dental Practice Estimate,Low,2026-05-12,6
+Netsmart,Netsmart,25000,95000,Global,Behavioral Health Estimate,Medium,2026-05-12,6
+PointClickCare,PointClickCare,27000,130000,Global,Senior Care Estimate,Medium,2026-05-12,6
+McKesson,McKesson,30000,280000,Global,Healthcare Distribution Estimate,Medium,2026-05-12,6
+GE Healthcare,GE Healthcare,45000,380000,Global,Healthcare Enterprise Estimate,Medium,2026-05-12,6
+Philips Healthcare,Philips,35000,310000,Global,Healthcare Enterprise Estimate,Medium,2026-05-12,6
+Siemens Healthineers,Siemens,28000,260000,Global,Healthcare Enterprise Estimate,Medium,2026-05-12,6
+Labcorp,Labcorp,6000,85000,Global,Diagnostics Estimate,Low,2026-05-12,6
+Quest Diagnostics,Quest Diagnostics,8500,95000,Global,Diagnostics Estimate,Low,2026-05-12,6
+Teladoc Health,Teladoc,12000,85000,Global,Telehealth Estimate,Medium,2026-05-12,6
+Amwell,Amwell,2500,18000,Global,Telehealth Estimate,Low,2026-05-12,6

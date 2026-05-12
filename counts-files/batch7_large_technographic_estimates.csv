@@ -1,0 +1,49 @@
+Technology,Primary_Vendor,Estimated_Accounts,Estimated_Contacts,Geography,Source_Type,Confidence_Score,Last_Verified,Research_Batch
+Microsoft 365,Microsoft,4000000,28000000,Global,Public Usage Estimates,High,2026-05-12,7
+Google Workspace,Google,9000000,45000000,Global,Public Usage Estimates,High,2026-05-12,7
+Slack,Salesforce,200000,2200000,Global,Public Customer Statements,Medium,2026-05-12,7
+Microsoft Teams,Microsoft,1000000,18000000,Global,Public Usage Estimates,High,2026-05-12,7
+Zoom,Zoom,350000,4200000,Global,Public Customer Statements,Medium,2026-05-12,7
+Cisco Webex,Cisco,180000,1500000,Global,Collaboration Estimate,Medium,2026-05-12,7
+Asana,Asana,150000,850000,Global,Public Customer Statements,Medium,2026-05-12,7
+Monday.com,Monday.com,225000,1400000,Global,Public Customer Statements,High,2026-05-12,7
+Notion,Notion,400000,3200000,Global,Productivity Estimate,Medium,2026-05-12,7
+Atlassian Jira,Atlassian,300000,2600000,Global,Developer Platform Estimate,High,2026-05-12,7
+Confluence,Atlassian,280000,2200000,Global,Developer Platform Estimate,Medium,2026-05-12,7
+Trello,Atlassian,2000000,8500000,Global,Public Usage Estimates,Low,2026-05-12,7
+ClickUp,ClickUp,800000,5200000,Global,Productivity Estimate,Medium,2026-05-12,7
+Smartsheet,Smartsheet,85000,620000,Global,Public Customer Statements,Medium,2026-05-12,7
+Dropbox Business,Dropbox,600000,3200000,Global,Cloud Collaboration Estimate,Medium,2026-05-12,7
+Shopify,Shopify,4500000,12000000,Global,Public Merchant Estimates,High,2026-05-12,7
+WooCommerce,Automattic,6000000,15000000,Global,Open Source Estimate,Low,2026-05-12,7
+Magento,Adobe,250000,1200000,Global,Ecommerce Estimate,Medium,2026-05-12,7
+BigCommerce,BigCommerce,60000,320000,Global,Public Customer Statements,Medium,2026-05-12,7
+Salesforce Commerce Cloud,Salesforce,4500,65000,Global,Enterprise Commerce Estimate,Medium,2026-05-12,7
+Adobe Experience Manager,Adobe,12000,140000,Global,Enterprise CMS Estimate,Medium,2026-05-12,7
+WordPress,Automattic,45000000,120000000,Global,CMS Usage Estimate,Low,2026-05-12,7
+Drupal,Open Source,650000,2600000,Global,CMS Usage Estimate,Low,2026-05-12,7
+Contentful,Contentful,38000,210000,Global,Headless CMS Estimate,Medium,2026-05-12,7
+Sitecore,Sitecore,5200,55000,Global,Enterprise CMS Estimate,Medium,2026-05-12,7
+ServiceNow ITSM,ServiceNow,8500,150000,Global,Public Customer Statements,High,2026-05-12,7
+BMC Remedy,BMC,18000,110000,Global,ITSM Estimate,Medium,2026-05-12,7
+Freshservice,Freshworks,60000,260000,Global,ITSM Estimate,Medium,2026-05-12,7
+Zendesk Support,Zendesk,160000,1200000,Global,Public Customer Statements,High,2026-05-12,7
+ManageEngine,Zoho,280000,1800000,Global,IT Operations Estimate,Medium,2026-05-12,7
+SolarWinds,SolarWinds,300000,1600000,Global,IT Infrastructure Estimate,Medium,2026-05-12,7
+Ivanti,Ivanti,34000,180000,Global,ITSM Estimate,Medium,2026-05-12,7
+Cherwell,Ivanti,4500,28000,Global,ITSM Estimate,Low,2026-05-12,7
+OpenAI API,OpenAI,3000000,12000000,Global,AI Developer Estimate,Medium,2026-05-12,7
+Azure OpenAI,Microsoft,250000,1800000,Global,Cloud AI Estimate,Medium,2026-05-12,7
+AWS SageMaker,AWS,120000,850000,Global,ML Platform Estimate,Medium,2026-05-12,7
+Google Vertex AI,Google Cloud,90000,620000,Global,ML Platform Estimate,Medium,2026-05-12,7
+DataRobot,DataRobot,4500,38000,Global,Enterprise AI Estimate,Medium,2026-05-12,7
+Hugging Face,Hugging Face,500000,3200000,Global,AI Developer Estimate,Low,2026-05-12,7
+LangChain,LangChain,350000,1800000,Global,AI Framework Estimate,Low,2026-05-12,7
+Amazon Web Services,AWS,2500000,22000000,Global,Cloud Infrastructure Estimate,High,2026-05-12,7
+Microsoft Azure,Microsoft,1800000,16000000,Global,Cloud Infrastructure Estimate,High,2026-05-12,7
+Google Cloud Platform,Google Cloud,950000,8500000,Global,Cloud Infrastructure Estimate,High,2026-05-12,7
+VMware vSphere,VMware,350000,2800000,Global,Virtualization Estimate,Medium,2026-05-12,7
+Citrix,Citrix,400000,2200000,Global,Virtual Workspace Estimate,Medium,2026-05-12,7
+F5 BIG-IP,F5,95000,620000,Global,Networking Estimate,Medium,2026-05-12,7
+Nutanix,Nutanix,26000,180000,Global,Hyperconverged Infrastructure Estimate,Medium,2026-05-12,7
+Arista Networks,Arista,12000,95000,Global,Networking Estimate,Medium,2026-05-12,7

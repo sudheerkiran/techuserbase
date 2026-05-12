@@ -1,0 +1,41 @@
+Technology,Primary_Vendor,Estimated_Accounts,Estimated_Contacts,Geography,Source_Type,Confidence_Score,Last_Verified,Research_Batch
+Palo Alto Networks,Palo Alto Networks,180000,1200000,Global,Original Sheet Remaining,High,2026-05-12,39
+Check Point Firewall,Check Point,120000,850000,Global,Original Sheet Remaining,High,2026-05-12,39
+FortiAnalyzer,Fortinet,85000,620000,Global,Original Sheet Remaining,High,2026-05-12,39
+SonicWall,SonicWall,180000,1200000,Global,Original Sheet Remaining,High,2026-05-12,39
+Barracuda Networks,Barracuda,85000,620000,Global,Original Sheet Remaining,High,2026-05-12,39
+Dell PowerEdge,Dell Technologies,420000,2200000,Global,Original Sheet Remaining,High,2026-05-12,39
+HPE ProLiant,HPE,320000,1800000,Global,Original Sheet Remaining,High,2026-05-12,39
+Lenovo ThinkSystem,Lenovo,120000,850000,Global,Original Sheet Remaining,High,2026-05-12,39
+NetApp ONTAP,NetApp,180000,1200000,Global,Original Sheet Remaining,High,2026-05-12,39
+Pure Storage FlashArray,Pure Storage,18000,150000,Global,Original Sheet Remaining,High,2026-05-12,39
+SharePoint,Microsoft,1800000,8500000,Global,Original Sheet Remaining,High,2026-05-12,39
+Microsoft Exchange,Microsoft,1200000,6200000,Global,Original Sheet Remaining,High,2026-05-12,39
+Skype for Business,Microsoft,420000,2200000,Global,Original Sheet Remaining,High,2026-05-12,39
+Cisco Webex,Cisco,850000,5200000,Global,Original Sheet Remaining,High,2026-05-12,39
+Slack Enterprise Grid,Salesforce,180000,2200000,Global,Original Sheet Remaining,High,2026-05-12,39
+Oracle HCM Cloud,Oracle,42000,320000,Global,Original Sheet Remaining,High,2026-05-12,39
+SAP SuccessFactors,SAP,85000,620000,Global,Original Sheet Remaining,High,2026-05-12,39
+Workday HCM,Workday,18000,150000,Global,Original Sheet Remaining,High,2026-05-12,39
+Paychex Flex,Paychex,85000,620000,Global,Original Sheet Remaining,High,2026-05-12,39
+Kronos Workforce Central,UKG,42000,320000,Global,Original Sheet Remaining,High,2026-05-12,39
+Ansible,Red Hat,1200000,6200000,Global,Original Sheet Remaining,High,2026-05-12,39
+Puppet Enterprise,Perforce,85000,620000,Global,Original Sheet Remaining,High,2026-05-12,39
+Chef Infra,Progress,42000,320000,Global,Original Sheet Remaining,High,2026-05-12,39
+SCCM,Microsoft,850000,4200000,Global,Original Sheet Remaining,High,2026-05-12,39
+Nagios,Nagios,1200000,6200000,Global,Original Sheet Remaining,High,2026-05-12,39
+IBM Db2,IBM,85000,620000,Global,Original Sheet Remaining,High,2026-05-12,39
+Oracle WebLogic,Oracle,120000,850000,Global,Original Sheet Remaining,High,2026-05-12,39
+WebSphere Application Server,IBM,85000,620000,Global,Original Sheet Remaining,High,2026-05-12,39
+Apache Tomcat,Apache,4200000,18000000,Global,Original Sheet Remaining,High,2026-05-12,39
+JBoss EAP,Red Hat,180000,1200000,Global,Original Sheet Remaining,High,2026-05-12,39
+Magento Commerce,Adobe,85000,620000,Global,Original Sheet Remaining,High,2026-05-12,39
+SAP Hybris,SAP,18000,150000,Global,Original Sheet Remaining,High,2026-05-12,39
+Oracle Commerce,Oracle,12000,95000,Global,Original Sheet Remaining,High,2026-05-12,39
+Demandware,Salesforce,18000,150000,Global,Original Sheet Remaining,High,2026-05-12,39
+BigCommerce Enterprise,BigCommerce,85000,620000,Global,Original Sheet Remaining,High,2026-05-12,39
+MEDITECH,MEDITECH,12000,95000,Global,Original Sheet Remaining,High,2026-05-12,39
+Allscripts,Veradigm,18000,150000,Global,Original Sheet Remaining,High,2026-05-12,39
+McKesson,McKesson,8500,72000,Global,Original Sheet Remaining,High,2026-05-12,39
+NextGen Healthcare,NextGen Healthcare,18000,150000,Global,Original Sheet Remaining,High,2026-05-12,39
+GE Healthcare,GE HealthCare,42000,320000,Global,Original Sheet Remaining,High,2026-05-12,39

@@ -1,0 +1,26 @@
+Technology,Primary_Vendor,Estimated_Accounts,Estimated_Contacts,Geography,Source_Type,Confidence_Score,Last_Verified,Research_Batch
+SAP ERP,Enterprise Estimate,120000,780000,Global,Market Estimate,Medium,2026-05-12,1
+SAP ECC,Enterprise Estimate,85000,510000,Global,Market Estimate,Medium,2026-05-12,1
+SAP R/3,Enterprise Estimate,40000,220000,Global,Legacy ERP Estimate,Low,2026-05-12,1
+SAP Business One,Enterprise Estimate,80000,300000,Global,SMB ERP Estimate,Medium,2026-05-12,1
+Oracle ERP,Oracle,11000,95000,Global,Oracle Public Statements,High,2026-05-12,1
+JD Edwards,Enterprise Estimate,25000,130000,Global,ERP Market Estimate,Medium,2026-05-12,1
+Epicor ERP,Enterprise Estimate,23000,110000,Global,ERP Market Estimate,Medium,2026-05-12,1
+Sage ERP,Enterprise Estimate,60000,280000,Global,ERP Market Estimate,Medium,2026-05-12,1
+Infor ERP,Enterprise Estimate,68000,320000,Global,ERP Market Estimate,Medium,2026-05-12,1
+Microsoft Dynamics 365 ERP,Microsoft,45000,260000,Global,Market Estimate,Medium,2026-05-12,1
+Microsoft Dynamics AX,Enterprise Estimate,18000,85000,Global,Legacy ERP Estimate,Low,2026-05-12,1
+Microsoft Dynamics NAV,Enterprise Estimate,70000,300000,Global,ERP Market Estimate,Medium,2026-05-12,1
+QuickBooks,Intuit,7000000,12000000,Global,SMB Accounting Market Estimate,Medium,2026-05-12,1
+QuickBooks Online,Intuit,5000000,8500000,Global,Cloud Accounting Estimate,Medium,2026-05-12,1
+QuickBooks Payments,Intuit,1500000,2600000,Global,Payments Estimate,Low,2026-05-12,1
+Xero,Xero,4200000,6200000,Global,Public Customer Numbers,High,2026-05-12,1
+FreshBooks,FreshBooks,30000000,45000000,Global,Public Marketing Claims,Medium,2026-05-12,1
+Sage Intacct,Sage,25000,110000,Global,ERP Estimate,Medium,2026-05-12,1
+Sage Peachtree Quantum,Enterprise Estimate,12000,45000,Global,Legacy Accounting Estimate,Low,2026-05-12,1
+NetSuite,Oracle NetSuite,43000,240000,Global,Oracle Public Statements,High,2026-05-12,1
+BlackLine,BlackLine,4400,30000,Global,Public Company Statements,High,2026-05-12,1
+Salesforce CRM,Salesforce,150000,1200000,Global,Salesforce Public Statements,High,2026-05-12,1
+Microsoft Dynamics CRM,Microsoft,85000,420000,Global,CRM Market Estimate,Medium,2026-05-12,1
+Oracle CRM,Oracle,20000,100000,Global,CRM Market Estimate,Medium,2026-05-12,1
+SAP CRM,SAP,18000,90000,Global,CRM Market Estimate,Medium,2026-05-12,1

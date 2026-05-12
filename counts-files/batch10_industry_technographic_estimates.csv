@@ -1,0 +1,41 @@
+Technology,Primary_Vendor,Estimated_Accounts,Estimated_Contacts,Geography,Source_Type,Confidence_Score,Last_Verified,Research_Batch
+Twilio,Twilio,320000,2600000,Global,CPaaS Estimate,Medium,2026-05-12,10
+RingCentral,RingCentral,400000,1800000,Global,UCaaS Estimate,Medium,2026-05-12,10
+8x8,8x8,55000,320000,Global,Business Communications Estimate,Medium,2026-05-12,10
+Vonage Business,Ericsson,120000,620000,Global,VoIP Platform Estimate,Medium,2026-05-12,10
+Genesys Cloud,Genesys,8500,95000,Global,Contact Center Estimate,Medium,2026-05-12,10
+Five9,Five9,3000,42000,Global,CCaaS Estimate,Medium,2026-05-12,10
+Dialpad,Dialpad,35000,180000,Global,AI Communications Estimate,Medium,2026-05-12,10
+Fiserv,Fiserv,12000,180000,Global,Financial Infrastructure Estimate,Medium,2026-05-12,10
+FIS,FIS,20000,260000,Global,Core Banking Estimate,Medium,2026-05-12,10
+Temenos,Temenos,3000,45000,Global,Banking Platform Estimate,Medium,2026-05-12,10
+Mambu,Mambu,300,6000,Global,Cloud Banking Estimate,Low,2026-05-12,10
+nCino,nCino,1800,22000,Global,Banking SaaS Estimate,Medium,2026-05-12,10
+Plaid,Plaid,12000,95000,Global,Fintech API Estimate,Medium,2026-05-12,10
+Square POS,Block,4000000,12000000,Global,POS Platform Estimate,High,2026-05-12,10
+Toast POS,Toast,130000,520000,Global,Restaurant Tech Estimate,Medium,2026-05-12,10
+Lightspeed Retail,Lightspeed,165000,620000,Global,Retail Platform Estimate,Medium,2026-05-12,10
+Clover POS,Fiserv,900000,2800000,Global,POS Ecosystem Estimate,Medium,2026-05-12,10
+Shopkeep,Lightspeed,25000,85000,Global,Retail POS Estimate,Low,2026-05-12,10
+Samsara,Samsara,25000,220000,Global,Fleet Platform Estimate,Medium,2026-05-12,10
+Project44,Project44,1300,18000,Global,Supply Chain Visibility Estimate,Medium,2026-05-12,10
+FourKites,FourKites,1600,22000,Global,Logistics Intelligence Estimate,Medium,2026-05-12,10
+Descartes,Descartes,26000,140000,Global,Logistics Software Estimate,Medium,2026-05-12,10
+MercuryGate,MercuryGate,1200,12000,Global,Transportation Management Estimate,Low,2026-05-12,10
+Oracle Opera PMS,Oracle,45000,320000,Global,Hospitality Platform Estimate,Medium,2026-05-12,10
+Amadeus,Amadeus,19000,140000,Global,Travel Technology Estimate,Medium,2026-05-12,10
+Sabre,Sabre,22000,160000,Global,Travel Infrastructure Estimate,Medium,2026-05-12,10
+Cloudbeds,Cloudbeds,25000,85000,Global,Hotel Management Estimate,Low,2026-05-12,10
+Mews,Mews,5000,32000,Global,Hospitality SaaS Estimate,Medium,2026-05-12,10
+Clio,Clio,150000,420000,Global,Legal Practice Estimate,Medium,2026-05-12,10
+Relativity,Relativity,13000,95000,Global,Legal Discovery Estimate,Medium,2026-05-12,10
+Litify,Litify,2500,18000,Global,Legal CRM Estimate,Low,2026-05-12,10
+iManage,iManage,4000,42000,Global,Document Management Estimate,Medium,2026-05-12,10
+Veeva CRM,Veeva,1000,22000,Global,Life Sciences CRM Estimate,Medium,2026-05-12,10
+IQVIA,IQVIA,8500,95000,Global,Healthcare Data Estimate,Medium,2026-05-12,10
+Phreesia,Phreesia,4000,28000,Global,Patient Intake Estimate,Medium,2026-05-12,10
+Luma Health,Luma Health,1200,8500,Global,Patient Engagement Estimate,Low,2026-05-12,10
+OneLogin,One Identity,6000,42000,Global,Identity Platform Estimate,Medium,2026-05-12,10
+Ping Identity,Ping Identity,3000,38000,Global,Identity Security Estimate,Medium,2026-05-12,10
+Duo Security,Cisco,40000,280000,Global,MFA Platform Estimate,Medium,2026-05-12,10
+Auth0,Okta,120000,620000,Global,Developer Identity Estimate,Medium,2026-05-12,10

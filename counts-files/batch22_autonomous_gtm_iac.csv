@@ -1,0 +1,42 @@
+Technology,Primary_Vendor,Estimated_Accounts,Estimated_Contacts,Geography,Source_Type,Confidence_Score,Last_Verified,Research_Batch
+OpenDevin,OpenDevin,85000,420000,Global,Autonomous Dev Agent Estimate,Low,2026-05-12,22
+Devin AI,Cognition,12000,62000,Global,AI Software Engineer Estimate,Low,2026-05-12,22
+Open Interpreter,Open Interpreter,180000,850000,Global,Local AI Agent Estimate,Low,2026-05-12,22
+SuperAGI,SuperAGI,35000,180000,Global,Agent Framework Estimate,Low,2026-05-12,22
+FlowiseAI,Flowise,120000,620000,Global,Visual AI Workflow Estimate,Low,2026-05-12,22
+Talon.One,Talon.One,2500,18000,Global,Promotion Infrastructure Estimate,Low,2026-05-12,22
+Reltio,Reltio,1800,12000,Global,Master Data Management Estimate,Medium,2026-05-12,22
+Precisely,Precisely,8500,52000,Global,Data Integrity Estimate,Medium,2026-05-12,22
+Profisee,Profisee,1200,8500,Global,MDM Platform Estimate,Low,2026-05-12,22
+Boomi DataHub,Boomi,5000,32000,Global,Data Hub Estimate,Medium,2026-05-12,22
+Teleport Enterprise,Teleport,12000,62000,Global,Infrastructure Access Estimate,Medium,2026-05-12,22
+Akeyless,Akeyless,3500,22000,Global,Secrets Management Estimate,Low,2026-05-12,22
+StrongDM Zero Trust,StrongDM,5000,32000,Global,Zero Trust Infra Estimate,Medium,2026-05-12,22
+Descope,Descope,18000,85000,Global,CIAM Estimate,Medium,2026-05-12,22
+Stytch,Stytch,45000,220000,Global,Developer Auth Estimate,Low,2026-05-12,22
+Omni,Omni Analytics,1800,12000,Global,Warehouse BI Estimate,Low,2026-05-12,22
+Lightdash,Lightdash,85000,420000,Global,Open Source BI Estimate,Low,2026-05-12,22
+Metabase,Metabase,650000,3200000,Global,Analytics Platform Estimate,Low,2026-05-12,22
+Apache Superset,Apache,450000,2200000,Global,Open Source Analytics Estimate,Low,2026-05-12,22
+Preset,Preset,12000,62000,Global,Cloud Analytics Estimate,Low,2026-05-12,22
+Common Room,Common Room,2500,18000,Global,Community Intelligence Estimate,Low,2026-05-12,22
+Clay,Clay,85000,420000,Global,AI GTM Enrichment Estimate,Medium,2026-05-12,22
+Warmly,Warmly,18000,85000,Global,Buyer Intent Estimate,Low,2026-05-12,22
+UserGems,UserGems,12000,62000,Global,Signal-Based Selling Estimate,Medium,2026-05-12,22
+Koala,Koala,5000,32000,Global,Product-Led Sales Estimate,Low,2026-05-12,22
+Metaplane,Metaplane,2500,18000,Global,Data Observability Estimate,Low,2026-05-12,22
+Acceldata,Acceldata,1800,12000,Global,Data Reliability Estimate,Low,2026-05-12,22
+Observe,Observe,12000,62000,Global,Observability Platform Estimate,Medium,2026-05-12,22
+Chronicle SIEM,Google Cloud,8500,52000,Global,Cloud SIEM Estimate,Medium,2026-05-12,22
+FastSpring,FastSpring,18000,85000,Global,Merchant of Record Estimate,Medium,2026-05-12,22
+Lemon Squeezy,Stripe,85000,420000,Global,Creator Commerce Estimate,Low,2026-05-12,22
+Plausible Analytics,Plausible,180000,850000,Global,Privacy Analytics Estimate,Low,2026-05-12,22
+Pirsch,Pirsch,35000,180000,Global,Lightweight Analytics Estimate,Low,2026-05-12,22
+Mem.ai,Mem,25000,120000,Global,AI Notes Estimate,Low,2026-05-12,22
+Granola,Granola,12000,62000,Global,AI Meeting Notes Estimate,Low,2026-05-12,22
+Fireflies.ai,Fireflies,180000,850000,Global,Meeting Intelligence Estimate,Medium,2026-05-12,22
+Otter.ai,Otter,450000,2200000,Global,Voice Notes Estimate,Medium,2026-05-12,22
+Atlantis,Runatlantis,85000,420000,Global,Terraform Automation Estimate,Low,2026-05-12,22
+Spacelift,Spacelift,12000,62000,Global,Infrastructure Automation Estimate,Medium,2026-05-12,22
+Terraform Cloud,HashiCorp,180000,850000,Global,IaC Platform Estimate,Medium,2026-05-12,22
+OpenTofu,Linux Foundation,120000,620000,Global,Open Source IaC Estimate,Low,2026-05-12,22

@@ -1,0 +1,26 @@
+Technology,Primary_Vendor,Estimated_Accounts,Estimated_Contacts,Geography,Source_Type,Confidence_Score,Last_Verified,Research_Batch
+Snowflake,Snowflake,11000,180000,Global,Public Customer Statements,High,2026-05-12,3
+Databricks,Databricks,12000,220000,Global,Public Customer Statements,High,2026-05-12,3
+MongoDB,MongoDB,49000,420000,Global,Public Customer Statements,High,2026-05-12,3
+Redis,Redis,10000,95000,Global,Database Market Estimate,Medium,2026-05-12,3
+Couchbase,Couchbase,700,12000,Global,Enterprise Database Estimate,Medium,2026-05-12,3
+PostgreSQL,Open Source,3500000,7000000,Global,Open Source Usage Estimate,Low,2026-05-12,3
+MySQL,Oracle,6000000,12000000,Global,Open Source Usage Estimate,Low,2026-05-12,3
+Microsoft SQL Server,Microsoft,650000,3200000,Global,Database Market Estimate,Medium,2026-05-12,3
+Oracle Database,Oracle,430000,2600000,Global,Database Market Estimate,Medium,2026-05-12,3
+Amazon Redshift,AWS,45000,380000,Global,Cloud Data Warehouse Estimate,Medium,2026-05-12,3
+Google BigQuery,Google Cloud,120000,950000,Global,Cloud Data Warehouse Estimate,Medium,2026-05-12,3
+Azure Synapse,Microsoft,35000,280000,Global,Cloud Analytics Estimate,Medium,2026-05-12,3
+Tableau,Salesforce,86000,650000,Global,BI Market Estimate,Medium,2026-05-12,3
+Power BI,Microsoft,350000,4500000,Global,Public Usage Estimates,Medium,2026-05-12,3
+Looker,Google Cloud,10000,85000,Global,BI Platform Estimate,Medium,2026-05-12,3
+Qlik,Qlik,40000,320000,Global,BI Market Estimate,Medium,2026-05-12,3
+Alteryx,Alteryx,8500,65000,Global,Analytics Platform Estimate,Medium,2026-05-12,3
+Apache Hadoop,Open Source,250000,1800000,Global,Big Data Estimate,Low,2026-05-12,3
+Apache Spark,Open Source,900000,4500000,Global,Open Source Usage Estimate,Low,2026-05-12,3
+Kubernetes,Cloud Native Computing Foundation,1800000,7200000,Global,Cloud Native Estimate,Low,2026-05-12,3
+Docker,Docker,13000000,22000000,Global,Developer Usage Estimate,Low,2026-05-12,3
+Terraform,HashiCorp,180000,850000,Global,DevOps Market Estimate,Medium,2026-05-12,3
+Ansible,Red Hat,220000,1100000,Global,Automation Market Estimate,Medium,2026-05-12,3
+GitLab,GitLab,300000,2400000,Global,Public Usage Statements,Medium,2026-05-12,3
+Jenkins,Open Source,1600000,7500000,Global,CI/CD Usage Estimate,Low,2026-05-12,3

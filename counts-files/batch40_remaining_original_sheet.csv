@@ -1,0 +1,41 @@
+Technology,Primary_Vendor,Estimated_Accounts,Estimated_Contacts,Geography,Source_Type,Confidence_Score,Last_Verified,Research_Batch
+SAP Ariba,SAP,85000,620000,Global,Original Sheet Remaining,High,2026-05-12,40
+Oracle SCM Cloud,Oracle,42000,320000,Global,Original Sheet Remaining,High,2026-05-12,40
+Kinaxis RapidResponse,Kinaxis,12000,95000,Global,Original Sheet Remaining,High,2026-05-12,40
+Blue Yonder,Blue Yonder,18000,150000,Global,Original Sheet Remaining,High,2026-05-12,40
+Manhattan Associates,Manhattan Associates,18000,150000,Global,Original Sheet Remaining,High,2026-05-12,40
+OpenStack,OpenInfra Foundation,420000,2200000,Global,Original Sheet Remaining,High,2026-05-12,40
+Citrix XenApp,Cloud Software Group,85000,620000,Global,Original Sheet Remaining,High,2026-05-12,40
+Citrix XenDesktop,Cloud Software Group,85000,620000,Global,Original Sheet Remaining,High,2026-05-12,40
+Nutanix,Nutanix,85000,620000,Global,Original Sheet Remaining,High,2026-05-12,40
+VxRail,Dell Technologies,18000,150000,Global,Original Sheet Remaining,High,2026-05-12,40
+McAfee ePO,Trellix,120000,850000,Global,Original Sheet Remaining,High,2026-05-12,40
+Symantec Endpoint Protection,Broadcom,420000,2200000,Global,Original Sheet Remaining,High,2026-05-12,40
+CrowdStrike Falcon Insight,CrowdStrike,42000,320000,Global,Original Sheet Remaining,High,2026-05-12,40
+Carbon Black,VMware,85000,620000,Global,Original Sheet Remaining,High,2026-05-12,40
+Qualys VMDR,Qualys,85000,620000,Global,Original Sheet Remaining,High,2026-05-12,40
+SAP HANA,SAP,85000,620000,Global,Original Sheet Remaining,High,2026-05-12,40
+Teradata Vantage,Teradata,12000,95000,Global,Original Sheet Remaining,High,2026-05-12,40
+Vertica,OpenText,18000,150000,Global,Original Sheet Remaining,High,2026-05-12,40
+Greenplum,VMware,18000,150000,Global,Original Sheet Remaining,High,2026-05-12,40
+Cloudera Data Platform,Cloudera,42000,320000,Global,Original Sheet Remaining,High,2026-05-12,40
+PRTG Network Monitor,Paessler,180000,1200000,Global,Original Sheet Remaining,High,2026-05-12,40
+Zabbix,Zabbix,850000,4200000,Global,Original Sheet Remaining,High,2026-05-12,40
+WhatsUp Gold,Progress,85000,620000,Global,Original Sheet Remaining,High,2026-05-12,40
+LogicMonitor,LogicMonitor,18000,150000,Global,Original Sheet Remaining,High,2026-05-12,40
+ScienceLogic,ScienceLogic,12000,95000,Global,Original Sheet Remaining,High,2026-05-12,40
+OpenText Content Suite,OpenText,18000,150000,Global,Original Sheet Remaining,High,2026-05-12,40
+Alfresco,Hyland,85000,620000,Global,Original Sheet Remaining,High,2026-05-12,40
+M-Files,M-Files,42000,320000,Global,Original Sheet Remaining,High,2026-05-12,40
+Egnyte,Egnyte,85000,620000,Global,Original Sheet Remaining,High,2026-05-12,40
+Dropbox Enterprise,Dropbox,180000,1200000,Global,Original Sheet Remaining,High,2026-05-12,40
+Oracle MICROS,Oracle,42000,320000,Global,Original Sheet Remaining,High,2026-05-12,40
+NCR Silver,NCR,18000,150000,Global,Original Sheet Remaining,High,2026-05-12,40
+Lightspeed Retail,Lightspeed,120000,850000,Global,Original Sheet Remaining,High,2026-05-12,40
+Toast POS,Toast,180000,1200000,Global,Original Sheet Remaining,High,2026-05-12,40
+Shopify POS,Shopify,420000,2200000,Global,Original Sheet Remaining,High,2026-05-12,40
+eClinicalWorks,eClinicalWorks,85000,620000,Global,Original Sheet Remaining,High,2026-05-12,40
+CareCloud,CareCloud,18000,150000,Global,Original Sheet Remaining,High,2026-05-12,40
+DrChrono,EverHealth,42000,320000,Global,Original Sheet Remaining,High,2026-05-12,40
+athenaClinicals,athenahealth,85000,620000,Global,Original Sheet Remaining,High,2026-05-12,40
+Practice Fusion,Veradigm,120000,850000,Global,Original Sheet Remaining,High,2026-05-12,40

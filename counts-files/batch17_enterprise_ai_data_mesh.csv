@@ -1,0 +1,41 @@
+Technology,Primary_Vendor,Estimated_Accounts,Estimated_Contacts,Geography,Source_Type,Confidence_Score,Last_Verified,Research_Batch
+ServiceNow Now Assist,ServiceNow,8500,62000,Global,Enterprise AI Estimate,Medium,2026-05-12,17
+Salesforce Einstein,Salesforce,120000,850000,Global,AI CRM Estimate,Medium,2026-05-12,17
+Oracle AI,Oracle,18000,120000,Global,Enterprise AI Estimate,Medium,2026-05-12,17
+SAP Joule,SAP,12000,85000,Global,ERP AI Estimate,Medium,2026-05-12,17
+Box AI,Box,25000,180000,Global,Content AI Estimate,Medium,2026-05-12,17
+Monte Carlo,Monte Carlo,2500,22000,Global,Data Reliability Estimate,Medium,2026-05-12,17
+Datafold,Datafold,1200,12000,Global,Data Quality Estimate,Low,2026-05-12,17
+Great Expectations,GX,180000,850000,Global,Open Source Data Quality Estimate,Low,2026-05-12,17
+Atlan,Atlan,3500,28000,Global,Modern Data Catalog Estimate,Medium,2026-05-12,17
+Secoda,Secoda,5000,32000,Global,AI Data Catalog Estimate,Medium,2026-05-12,17
+Sysdig Secure,Sysdig,2500,18000,Global,Cloud Runtime Security Estimate,Medium,2026-05-12,17
+Aqua Trivy,Aqua,220000,950000,Global,Open Source Security Estimate,Low,2026-05-12,17
+Tigera Calico,Tigera,180000,850000,Global,Kubernetes Networking Estimate,Low,2026-05-12,17
+Chainguard,Chainguard,1200,12000,Global,Supply Chain Security Estimate,Low,2026-05-12,17
+Snyk Container,Snyk,18000,120000,Global,Container Security Estimate,Medium,2026-05-12,17
+Mutiny,Mutiny,2500,18000,Global,Website Personalization Estimate,Low,2026-05-12,17
+6sense Revenue AI,6sense,1800,12000,Global,ABM AI Estimate,Medium,2026-05-12,17
+Dreamdata,Dreamdata,3500,22000,Global,B2B Attribution Estimate,Low,2026-05-12,17
+Triple Whale,Triple Whale,18000,85000,Global,Ecommerce Attribution Estimate,Medium,2026-05-12,17
+Northbeam,Northbeam,8500,52000,Global,Attribution Platform Estimate,Medium,2026-05-12,17
+Anaplan,Anaplan,2500,22000,Global,Planning Platform Estimate,Medium,2026-05-12,17
+Board,Board,1800,18000,Global,Enterprise Planning Estimate,Low,2026-05-12,17
+Pigment,Pigment,1200,12000,Global,AI Planning Estimate,Low,2026-05-12,17
+Planful,Planful,5000,32000,Global,Financial Planning Estimate,Medium,2026-05-12,17
+ON24,ON24,3500,28000,Global,Webinar Platform Estimate,Medium,2026-05-12,17
+Hopin,RingCentral,1800,12000,Global,Virtual Event Estimate,Low,2026-05-12,17
+Livestorm,Livestorm,25000,120000,Global,Webinar SaaS Estimate,Medium,2026-05-12,17
+Demio,Banzai,12000,62000,Global,Marketing Webinar Estimate,Medium,2026-05-12,17
+Clerk,Clerk,120000,620000,Global,Developer Auth Estimate,Low,2026-05-12,17
+Auth.js,Better Auth,180000,850000,Global,Open Source Auth Estimate,Low,2026-05-12,17
+WorkOS,WorkOS,25000,120000,Global,Enterprise Auth Estimate,Medium,2026-05-12,17
+FusionAuth,FusionAuth,45000,180000,Global,Identity Platform Estimate,Medium,2026-05-12,17
+Retool,Retool,120000,620000,Global,Internal Tooling Estimate,Medium,2026-05-12,17
+Backstage,Spotify,180000,850000,Global,Developer Portal Estimate,Low,2026-05-12,17
+Linear,Linear,250000,1200000,Global,Developer Workflow Estimate,Medium,2026-05-12,17
+Raycast,Raycast,180000,850000,Global,Developer Productivity Estimate,Low,2026-05-12,17
+Chargebee,Chargebee,18000,85000,Global,Subscription Billing Estimate,Medium,2026-05-12,17
+Recurly,Recurly,8500,52000,Global,Subscription Platform Estimate,Medium,2026-05-12,17
+Zuora,Zuora,12000,72000,Global,Enterprise Billing Estimate,Medium,2026-05-12,17
+Paddle,Paddle,45000,220000,Global,Merchant of Record Estimate,Medium,2026-05-12,17

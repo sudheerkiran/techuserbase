@@ -1,0 +1,44 @@
+Technology,Primary_Vendor,Estimated_Accounts,Estimated_Contacts,Geography,Source_Type,Confidence_Score,Last_Verified,Research_Batch
+RingCentral,RingCentral,420000,2200000,Global,Business Communications Estimate,High,2026-05-12,32
+8x8,8x8,180000,1200000,Global,UCaaS Estimate,High,2026-05-12,32
+Dialpad,Dialpad,85000,620000,Global,AI Communications Estimate,High,2026-05-12,32
+Five9,Five9,18000,150000,Global,Cloud Contact Center Estimate,High,2026-05-12,32
+Genesys Cloud,Genesys,12000,95000,Global,Customer Experience Estimate,High,2026-05-12,32
+Jamf,Jamf,85000,620000,Global,Apple Device Management Estimate,High,2026-05-12,32
+Microsoft Intune,Microsoft,850000,5200000,Global,Endpoint Management Estimate,High,2026-05-12,32
+VMware Workspace ONE,VMware,120000,850000,Global,Unified Endpoint Estimate,High,2026-05-12,32
+Kandji,Kandji,18000,120000,Global,Apple Endpoint Estimate,High,2026-05-12,32
+NinjaOne,NinjaOne,120000,850000,Global,IT Operations Estimate,High,2026-05-12,32
+Veeam,Veeam,520000,3200000,Global,Backup & Recovery Estimate,High,2026-05-12,32
+Rubrik,Rubrik,18000,150000,Global,Cyber Recovery Estimate,High,2026-05-12,32
+Cohesity,Cohesity,12000,95000,Global,Data Security Estimate,High,2026-05-12,32
+Acronis,Acronis,850000,4200000,Global,Backup Platform Estimate,High,2026-05-12,32
+Zapier,Zapier,2200000,12000000,Global,Workflow Automation Estimate,High,2026-05-12,32
+Make.com,Celonis,420000,2200000,Global,No-code Automation Estimate,High,2026-05-12,32
+Workato,Workato,18000,150000,Global,Enterprise Automation Estimate,High,2026-05-12,32
+Boomi,Boomi,85000,620000,Global,Integration Platform Estimate,High,2026-05-12,32
+Tray.io,Tray.io,12000,95000,Global,Workflow Integration Estimate,High,2026-05-12,32
+Magento,Adobe,850000,4200000,Global,Commerce Platform Estimate,High,2026-05-12,32
+PrestaShop,PrestaShop,1800000,8500000,Global,Open Source Commerce Estimate,High,2026-05-12,32
+OpenCart,OpenCart,1200000,6200000,Global,Commerce Software Estimate,High,2026-05-12,32
+Ecwid,Lightspeed,420000,2200000,Global,Embedded Commerce Estimate,High,2026-05-12,32
+GoTo Webinar,GoTo,180000,1200000,Global,Webinar Platform Estimate,High,2026-05-12,32
+Webex,Cisco,850000,5200000,Global,Enterprise Meetings Estimate,High,2026-05-12,32
+Hopin,RingCentral,18000,120000,Global,Virtual Events Estimate,Medium,2026-05-12,32
+Livestorm,Livestorm,85000,620000,Global,Video Engagement Estimate,High,2026-05-12,32
+LinkedIn Recruiter,LinkedIn,850000,5200000,Global,Recruiting Intelligence Estimate,High,2026-05-12,32
+Indeed Employer,Indeed,1800000,8500000,Global,Hiring Platform Estimate,High,2026-05-12,32
+SmartRecruiters,SmartRecruiters,18000,150000,Global,Recruitment Platform Estimate,High,2026-05-12,32
+iCIMS,iCIMS,12000,95000,Global,Talent Cloud Estimate,High,2026-05-12,32
+Grafana,Grafana Labs,1800000,8500000,Global,Monitoring Platform Estimate,High,2026-05-12,32
+Prometheus,CNCF,4200000,18000000,Global,Metrics Monitoring Estimate,High,2026-05-12,32
+Elastic Stack,Elastic,1200000,6200000,Global,Search & Logging Estimate,High,2026-05-12,32
+Sentry,Functional Software,850000,4200000,Global,Error Monitoring Estimate,High,2026-05-12,32
+Firebase,Google,4200000,18000000,Global,Backend Platform Estimate,High,2026-05-12,32
+Supabase,Supabase,850000,4200000,Global,Open Source Backend Estimate,High,2026-05-12,32
+PlanetScale,PlanetScale,120000,850000,Global,Serverless Database Estimate,High,2026-05-12,32
+Neon,Neon,180000,1200000,Global,Serverless PostgreSQL Estimate,High,2026-05-12,32
+GitHub Copilot,GitHub,1800000,8500000,Global,AI Coding Estimate,High,2026-05-12,32
+Cursor AI,Anysphere,350000,2200000,Global,AI IDE Estimate,High,2026-05-12,32
+Replit,Replit,4200000,18000000,Global,Cloud Development Estimate,High,2026-05-12,32
+Bolt.new,StackBlitz,180000,1200000,Global,AI App Builder Estimate,High,2026-05-12,32

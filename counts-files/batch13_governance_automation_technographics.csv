@@ -1,0 +1,40 @@
+Technology,Primary_Vendor,Estimated_Accounts,Estimated_Contacts,Geography,Source_Type,Confidence_Score,Last_Verified,Research_Batch
+OneTrust,OneTrust,14000,180000,Global,Privacy Platform Estimate,Medium,2026-05-12,13
+BigID,BigID,2200,28000,Global,Data Security Estimate,Medium,2026-05-12,13
+Collibra,Collibra,1500,22000,Global,Data Governance Estimate,Medium,2026-05-12,13
+Alation,Alation,1200,18000,Global,Data Catalog Estimate,Medium,2026-05-12,13
+Immuta,Immuta,700,8500,Global,Data Access Estimate,Low,2026-05-12,13
+SailPoint,SailPoint,8000,95000,Global,Identity Governance Estimate,Medium,2026-05-12,13
+Acumatica,Acumatica,12000,65000,Global,Mid-market ERP Estimate,Medium,2026-05-12,13
+IFS ERP,IFS,10000,72000,Global,Enterprise ERP Estimate,Medium,2026-05-12,13
+SYSPRO,SYSPRO,18000,85000,Global,Manufacturing ERP Estimate,Medium,2026-05-12,13
+Deltek,Deltek,30000,180000,Global,Project ERP Estimate,Medium,2026-05-12,13
+Unit4,Unit4,4500,38000,Global,ERP Estimate,Low,2026-05-12,13
+Epicor Kinetic,Epicor,22000,110000,Global,Manufacturing ERP Estimate,Medium,2026-05-12,13
+Jaggaer,Jaggaer,2500,22000,Global,Procurement Estimate,Low,2026-05-12,13
+Ivalua,Ivalua,1800,18000,Global,Spend Management Estimate,Low,2026-05-12,13
+SAP Fieldglass,SAP,12000,85000,Global,Vendor Management Estimate,Medium,2026-05-12,13
+Beeline,Beeline,1400,12000,Global,Workforce Procurement Estimate,Low,2026-05-12,13
+Optimizely,Optimizely,120000,620000,Global,Experimentation Estimate,Medium,2026-05-12,13
+Dynamic Yield,Mastercard,2500,22000,Global,Personalization Estimate,Low,2026-05-12,13
+Bloomreach,Bloomreach,1800,18000,Global,Commerce Experience Estimate,Low,2026-05-12,13
+Contentsquare,Contentsquare,3500,32000,Global,Digital Experience Estimate,Medium,2026-05-12,13
+FullStory,FullStory,5000,42000,Global,Session Analytics Estimate,Medium,2026-05-12,13
+Elastic Enterprise Search,Elastic,18000,120000,Global,Enterprise Search Estimate,Medium,2026-05-12,13
+Glean,Glean,1200,18000,Global,Enterprise AI Search Estimate,Medium,2026-05-12,13
+Coveo,Coveo,2500,22000,Global,AI Search Estimate,Low,2026-05-12,13
+Algolia,Algolia,17000,95000,Global,Search Infrastructure Estimate,Medium,2026-05-12,13
+Sumo Logic,Sumo Logic,2200,28000,Global,Cloud SIEM Estimate,Medium,2026-05-12,13
+Exabeam,Exabeam,1800,22000,Global,SIEM Estimate,Low,2026-05-12,13
+LogRhythm,LogRhythm,5000,42000,Global,Security Analytics Estimate,Medium,2026-05-12,13
+Devo,Devo,1200,12000,Global,Cloud SIEM Estimate,Low,2026-05-12,13
+Hunters,Hunters,600,6500,Global,SOC Platform Estimate,Low,2026-05-12,13
+Starburst,Starburst,1800,18000,Global,Data Lakehouse Estimate,Low,2026-05-12,13
+Dremio,Dremio,3500,32000,Global,Lakehouse Estimate,Medium,2026-05-12,13
+ClickHouse,ClickHouse,250000,1200000,Global,Open Source Analytics Estimate,Low,2026-05-12,13
+SingleStore,SingleStore,1200,12000,Global,Real-time Database Estimate,Low,2026-05-12,13
+UiPath,UiPath,10000,120000,Global,RPA Platform Estimate,Medium,2026-05-12,13
+Automation Anywhere,Automation Anywhere,5000,52000,Global,RPA Estimate,Medium,2026-05-12,13
+Blue Prism,SS&C,3000,32000,Global,RPA Estimate,Low,2026-05-12,13
+Workato,Workato,12000,85000,Global,Enterprise Automation Estimate,Medium,2026-05-12,13
+Tray.io,Tray.io,2500,18000,Global,Automation Platform Estimate,Low,2026-05-12,13

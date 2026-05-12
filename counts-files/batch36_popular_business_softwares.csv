@@ -1,0 +1,48 @@
+Technology,Primary_Vendor,Estimated_Accounts,Estimated_Contacts,Geography,Source_Type,Confidence_Score,Last_Verified,Research_Batch
+Microsoft Office 365,Microsoft,15000000,72000000,Global,Office Productivity Estimate,High,2026-05-12,36
+Google Docs,Google,18000000,85000000,Global,Document Collaboration Estimate,High,2026-05-12,36
+Dropbox Business,Dropbox,2200000,12000000,Global,Business File Sharing Estimate,High,2026-05-12,36
+Box,Box,420000,2200000,Global,Enterprise Content Management Estimate,High,2026-05-12,36
+Evernote Teams,Evernote,850000,4200000,Global,Team Productivity Estimate,Medium,2026-05-12,36
+Freshsales,Freshworks,180000,1200000,Global,CRM Estimate,High,2026-05-12,36
+Keap,Keap,85000,620000,Global,SMB CRM Estimate,High,2026-05-12,36
+Insightly,Unbounce,120000,850000,Global,Relationship Management Estimate,High,2026-05-12,36
+SugarCRM,SugarCRM,18000,150000,Global,Enterprise CRM Estimate,High,2026-05-12,36
+Close CRM,Close,85000,620000,Global,Sales CRM Estimate,High,2026-05-12,36
+WooCommerce Subscriptions,Automattic,850000,4200000,Global,Subscription Commerce Estimate,High,2026-05-12,36
+Shopware,Shopware,180000,1200000,Global,Commerce Platform Estimate,High,2026-05-12,36
+VTEX,VTEX,18000,150000,Global,Enterprise Commerce Estimate,High,2026-05-12,36
+Salesforce Commerce Cloud,Salesforce,12000,95000,Global,Digital Commerce Estimate,High,2026-05-12,36
+Marketo,Adobe,85000,620000,Global,Marketing Automation Estimate,High,2026-05-12,36
+Iterable,Iterable,18000,150000,Global,Customer Messaging Estimate,High,2026-05-12,36
+MoEngage,MoEngage,42000,320000,Global,Customer Engagement Estimate,High,2026-05-12,36
+CleverTap,CleverTap,85000,620000,Global,Mobile Engagement Estimate,High,2026-05-12,36
+Omnisend,Omnisend,180000,1200000,Global,Ecommerce Marketing Estimate,High,2026-05-12,36
+MariaDB,MariaDB,4200000,18000000,Global,Open Source Database Estimate,High,2026-05-12,36
+SQLite,SQLite,18000000,85000000,Global,Embedded Database Estimate,High,2026-05-12,36
+Cassandra,Apache,850000,4200000,Global,Distributed Database Estimate,High,2026-05-12,36
+Redis Enterprise,Redis,180000,1200000,Global,Enterprise In-memory Database Estimate,High,2026-05-12,36
+Hostinger,Hostinger,5200000,22000000,Global,Web Hosting Estimate,High,2026-05-12,36
+Bluehost,Newfold Digital,4200000,18000000,Global,Shared Hosting Estimate,High,2026-05-12,36
+GoDaddy Hosting,GoDaddy,8500000,42000000,Global,Website Hosting Estimate,High,2026-05-12,36
+WP Engine,WP Engine,180000,1200000,Global,Managed WordPress Estimate,High,2026-05-12,36
+Intercom Fin,Intercom,18000,150000,Global,AI Support Estimate,High,2026-05-12,36
+Drift Conversational AI,Salesloft,12000,95000,Global,Conversational AI Estimate,High,2026-05-12,36
+Tawk.to,tawk.to,1800000,8500000,Global,Live Chat Estimate,High,2026-05-12,36
+Olark,Olark,180000,1200000,Global,Customer Chat Estimate,High,2026-05-12,36
+Metabase,Metabase,850000,4200000,Global,Open Source BI Estimate,High,2026-05-12,36
+Apache Superset,Apache,420000,2200000,Global,Analytics Dashboard Estimate,High,2026-05-12,36
+Domo,Domo,18000,150000,Global,Cloud BI Estimate,High,2026-05-12,36
+ThoughtSpot,ThoughtSpot,12000,95000,Global,Search Analytics Estimate,High,2026-05-12,36
+Azure DevOps,Microsoft,850000,4200000,Global,Developer Lifecycle Estimate,High,2026-05-12,36
+JFrog,JFrog,180000,1200000,Global,Artifact Management Estimate,High,2026-05-12,36
+Sonatype Nexus,Sonatype,420000,2200000,Global,Repository Management Estimate,High,2026-05-12,36
+Octopus Deploy,Octopus Deploy,85000,620000,Global,Deployment Automation Estimate,High,2026-05-12,36
+Sophos,Sophos,850000,4200000,Global,Endpoint Security Estimate,High,2026-05-12,36
+Trend Micro,Trend Micro,420000,2200000,Global,Cybersecurity Estimate,High,2026-05-12,36
+Bitdefender GravityZone,Bitdefender,180000,1200000,Global,Endpoint Protection Estimate,High,2026-05-12,36
+WatchGuard,WatchGuard,120000,850000,Global,Network Security Estimate,High,2026-05-12,36
+Jasper AI,Jasper,180000,1200000,Global,AI Content Estimate,High,2026-05-12,36
+Copy.ai,Copy.ai,850000,4200000,Global,AI Writing Estimate,High,2026-05-12,36
+Surfer SEO,Surfer,180000,1200000,Global,SEO Optimization Estimate,High,2026-05-12,36
+Writesonic,Writesonic,420000,2200000,Global,AI Content Platform Estimate,High,2026-05-12,36

@@ -1,0 +1,40 @@
+Technology,Primary_Vendor,Estimated_Accounts,Estimated_Contacts,Geography,Source_Type,Confidence_Score,Last_Verified,Research_Batch
+Lindy AI,Lindy,18000,85000,Global,AI Workflow Assistant Estimate,Low,2026-05-12,24
+Adept ACT-1,Adept,1200,8500,Global,Action Model Estimate,Low,2026-05-12,24
+Aomni,Aomni,5000,32000,Global,AI Sales Research Estimate,Low,2026-05-12,24
+Ema,Ema,2500,18000,Global,Enterprise AI Employee Estimate,Low,2026-05-12,24
+Sierra AI,Sierra,3500,22000,Global,Customer AI Agent Estimate,Low,2026-05-12,24
+vLLM,vLLM,250000,1200000,Global,Inference Infrastructure Estimate,Low,2026-05-12,24
+Ollama,Ollama,850000,4200000,Global,Local LLM Runtime Estimate,Low,2026-05-12,24
+TensorRT-LLM,NVIDIA,120000,620000,Global,Inference Optimization Estimate,Medium,2026-05-12,24
+BentoML,BentoML,85000,420000,Global,ML Serving Estimate,Low,2026-05-12,24
+Ray Serve,Anyscale,180000,850000,Global,Distributed Inference Estimate,Low,2026-05-12,24
+Workato AI,Workato,5000,32000,Global,AI Automation Estimate,Medium,2026-05-12,24
+Tray AI,Tray.io,2500,18000,Global,AI Workflow Automation Estimate,Low,2026-05-12,24
+Tines,Tines,18000,85000,Global,Security Workflow Estimate,Medium,2026-05-12,24
+Torq,Torq,3500,22000,Global,SOAR Automation Estimate,Low,2026-05-12,24
+BlinkOps,BlinkOps,1200,8500,Global,Security Automation Estimate,Low,2026-05-12,24
+SentinelOne Purple AI,SentinelOne,12000,62000,Global,AI SOC Estimate,Medium,2026-05-12,24
+CrowdStrike Charlotte AI,CrowdStrike,18000,95000,Global,Security AI Estimate,Medium,2026-05-12,24
+Wiz AI,Wiz,3500,22000,Global,Cloud Security AI Estimate,Low,2026-05-12,24
+Palo Alto Cortex XSIAM,Palo Alto Networks,5000,32000,Global,Autonomous SOC Estimate,Medium,2026-05-12,24
+Maven AGI,Maven,2500,18000,Global,AI Customer Support Estimate,Low,2026-05-12,24
+Regie.ai,Regie.ai,8500,52000,Global,AI Sales Engagement Estimate,Medium,2026-05-12,24
+Lavender,Lavender,35000,180000,Global,AI Email Coaching Estimate,Low,2026-05-12,24
+Unify,Unify,12000,62000,Global,Signal-based GTM Estimate,Low,2026-05-12,24
+Trino,Trino,350000,1800000,Global,Distributed Query Engine Estimate,Low,2026-05-12,24
+Presto,Presto Foundation,450000,2200000,Global,SQL Query Engine Estimate,Low,2026-05-12,24
+Apache Druid,Apache,180000,850000,Global,Realtime Analytics Estimate,Low,2026-05-12,24
+Pinot,Apache,85000,420000,Global,OLAP Infrastructure Estimate,Low,2026-05-12,24
+Knative,CNCF,120000,620000,Global,Serverless Kubernetes Estimate,Low,2026-05-12,24
+OpenFaaS,OpenFaaS,85000,420000,Global,Functions Platform Estimate,Low,2026-05-12,24
+Dapr,CNCF,180000,850000,Global,Distributed Runtime Estimate,Low,2026-05-12,24
+Crossplane Enterprise,Upbound,12000,62000,Global,Cloud Control Plane Estimate,Medium,2026-05-12,24
+MadKudu,MadKudu,2500,18000,Global,Lead Scoring Estimate,Low,2026-05-12,24
+HockeyStack,HockeyStack,12000,62000,Global,Revenue Attribution Estimate,Low,2026-05-12,24
+CaliberMind,CaliberMind,3500,22000,Global,Marketing Analytics Estimate,Low,2026-05-12,24
+Dreamdata AI,Dreamdata,1800,12000,Global,Revenue AI Estimate,Low,2026-05-12,24
+Tana,Tana,85000,420000,Global,Knowledge Graph Workspace Estimate,Low,2026-05-12,24
+Reflect Notes,Reflect,18000,85000,Global,AI Notes Estimate,Low,2026-05-12,24
+Capacities,Capacities,120000,620000,Global,Connected Notes Estimate,Low,2026-05-12,24
+Anytype,Anytype,250000,1200000,Global,Local-first Knowledge Estimate,Low,2026-05-12,24

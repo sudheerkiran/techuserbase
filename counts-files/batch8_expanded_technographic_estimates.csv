@@ -1,0 +1,41 @@
+Technology,Primary_Vendor,Estimated_Accounts,Estimated_Contacts,Geography,Source_Type,Confidence_Score,Last_Verified,Research_Batch
+GitHub Enterprise,GitHub,150000,2200000,Global,Developer Platform Estimate,High,2026-05-12,8
+Bitbucket,Atlassian,450000,3200000,Global,Developer Tool Estimate,Medium,2026-05-12,8
+CircleCI,CircleCI,35000,280000,Global,CI/CD Platform Estimate,Medium,2026-05-12,8
+Travis CI,Travis CI,180000,950000,Global,CI/CD Usage Estimate,Low,2026-05-12,8
+PagerDuty,PagerDuty,25000,180000,Global,Incident Management Estimate,Medium,2026-05-12,8
+Snyk,Snyk,30000,240000,Global,Developer Security Estimate,Medium,2026-05-12,8
+JFrog,JFrog,7000,85000,Global,DevOps Platform Estimate,Medium,2026-05-12,8
+SonarQube,Sonar,500000,2800000,Global,Code Quality Estimate,Low,2026-05-12,8
+MuleSoft,Salesforce,18000,120000,Global,Enterprise Integration Estimate,Medium,2026-05-12,8
+Boomi,Boomi,22000,140000,Global,Integration Platform Estimate,Medium,2026-05-12,8
+Segment,Twilio,25000,220000,Global,Customer Data Platform Estimate,Medium,2026-05-12,8
+Fivetran,Fivetran,6000,58000,Global,Data Integration Estimate,Medium,2026-05-12,8
+Airbyte,Airbyte,180000,750000,Global,Open Source Estimate,Low,2026-05-12,8
+Informatica,Informatica,85000,620000,Global,Enterprise Data Estimate,Medium,2026-05-12,8
+Talend,Qlik,45000,320000,Global,Data Integration Estimate,Medium,2026-05-12,8
+Freshdesk,Freshworks,65000,420000,Global,Customer Support Estimate,Medium,2026-05-12,8
+Intercom Support,Intercom,25000,170000,Global,Customer Messaging Estimate,Medium,2026-05-12,8
+Help Scout,Help Scout,15000,85000,Global,Support Platform Estimate,Low,2026-05-12,8
+Gainsight,Gainsight,4000,42000,Global,Customer Success Estimate,Medium,2026-05-12,8
+Totango,Totango,5000,32000,Global,Customer Success Estimate,Low,2026-05-12,8
+Coupa,Coupa,3000,45000,Global,Procurement Platform Estimate,Medium,2026-05-12,8
+Bill.com,Bill.com,460000,1800000,Global,SMB Finance Estimate,Medium,2026-05-12,8
+Expensify,Expensify,800000,3200000,Global,Expense Management Estimate,Medium,2026-05-12,8
+Concur,SAP,48000,520000,Global,Travel & Expense Estimate,Medium,2026-05-12,8
+Stripe,Stripe,4000000,15000000,Global,Payments Infrastructure Estimate,High,2026-05-12,8
+PayPal Braintree,PayPal,350000,1800000,Global,Payment Gateway Estimate,Medium,2026-05-12,8
+LinkedIn Sales Navigator,LinkedIn,1500000,6500000,Global,Sales Intelligence Estimate,Medium,2026-05-12,8
+ZoomInfo,ZoomInfo,35000,280000,Global,Public Customer Statements,High,2026-05-12,8
+Clearbit,HubSpot,25000,180000,Global,Enrichment Platform Estimate,Medium,2026-05-12,8
+6sense,6sense,1800,28000,Global,ABM Platform Estimate,Medium,2026-05-12,8
+Demandbase,Demandbase,2500,32000,Global,ABM Platform Estimate,Medium,2026-05-12,8
+Airtable,Airtable,450000,2600000,Global,Productivity Estimate,Medium,2026-05-12,8
+Zapier,Zapier,2200000,8500000,Global,Automation Platform Estimate,Medium,2026-05-12,8
+Make.com,Celonis,650000,2800000,Global,Automation Estimate,Medium,2026-05-12,8
+Bubble,Bubble,180000,850000,Global,No-Code Estimate,Low,2026-05-12,8
+Webflow,Webflow,300000,1200000,Global,Website Platform Estimate,Medium,2026-05-12,8
+Grafana,Grafana Labs,950000,4200000,Global,Open Source Monitoring Estimate,Low,2026-05-12,8
+Prometheus,CNCF,1500000,6200000,Global,Cloud Native Monitoring Estimate,Low,2026-05-12,8
+Dynatrace,Dynatrace,4200,52000,Global,Observability Estimate,Medium,2026-05-12,8
+AppDynamics,Cisco,18000,140000,Global,Application Monitoring Estimate,Medium,2026-05-12,8

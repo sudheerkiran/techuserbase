@@ -1,0 +1,40 @@
+Technology,Primary_Vendor,Estimated_Accounts,Estimated_Contacts,Geography,Source_Type,Confidence_Score,Last_Verified,Research_Batch
+Weights & Biases Prompts,Weights & Biases,12000,62000,Global,LLMOps Estimate,Medium,2026-05-12,23
+Helicone,Helicone,85000,420000,Global,LLM Monitoring Estimate,Low,2026-05-12,23
+Langfuse,Langfuse,120000,620000,Global,Open Source LLMOps Estimate,Low,2026-05-12,23
+PromptLayer,PromptLayer,25000,120000,Global,Prompt Management Estimate,Low,2026-05-12,23
+Portkey AI Gateway,Portkey,18000,85000,Global,AI Gateway Estimate,Low,2026-05-12,23
+Apache Iceberg,Apache,350000,1800000,Global,Lakehouse Table Format Estimate,Low,2026-05-12,23
+Delta Lake,Databricks,450000,2200000,Global,Lakehouse Infrastructure Estimate,Medium,2026-05-12,23
+Apache Hudi,Apache,180000,850000,Global,Data Lakehouse Estimate,Low,2026-05-12,23
+Starburst Galaxy,Starburst,12000,62000,Global,Lakehouse Analytics Estimate,Low,2026-05-12,23
+Onehouse,Onehouse,3500,22000,Global,Managed Hudi Estimate,Low,2026-05-12,23
+Celonis,Celonis,4500,32000,Global,Process Mining Estimate,Medium,2026-05-12,23
+ProcessMaker,ProcessMaker,12000,62000,Global,Workflow Automation Estimate,Medium,2026-05-12,23
+Camunda,Camunda,180000,850000,Global,Workflow Orchestration Estimate,Low,2026-05-12,23
+n8n,n8n,350000,1800000,Global,Automation Workflow Estimate,Low,2026-05-12,23
+Pipedream,Pipedream,85000,420000,Global,Developer Automation Estimate,Low,2026-05-12,23
+Salt Security,Salt Security,1800,12000,Global,API Security Estimate,Low,2026-05-12,23
+Noname Security,Akamai,2500,18000,Global,API Threat Protection Estimate,Low,2026-05-12,23
+Wallarm,Wallarm,12000,62000,Global,API Security Platform Estimate,Medium,2026-05-12,23
+Traceable AI,Harness,3500,22000,Global,Runtime API Security Estimate,Low,2026-05-12,23
+FullStory AI,FullStory,1800,12000,Global,Session Intelligence Estimate,Low,2026-05-12,23
+Smartlook,Smartlook,85000,420000,Global,Behavior Analytics Estimate,Low,2026-05-12,23
+Glassbox,Glassbox,3500,22000,Global,Digital Experience Estimate,Low,2026-05-12,23
+Quantum Metric,Quantum Metric,2500,18000,Global,Journey Analytics Estimate,Low,2026-05-12,23
+Sana AI,Sana,18000,85000,Global,Enterprise AI Workspace Estimate,Low,2026-05-12,23
+Hebbia,Hebbia,1200,8500,Global,AI Research Workspace Estimate,Low,2026-05-12,23
+Perplexity Enterprise,Perplexity,8500,52000,Global,Enterprise AI Search Estimate,Medium,2026-05-12,23
+You.com Enterprise,You.com,3500,22000,Global,Enterprise AI Assistant Estimate,Low,2026-05-12,23
+Factors.ai,Factors,2500,18000,Global,B2B Intent Estimate,Low,2026-05-12,23
+RB2B,RB2B,18000,85000,Global,Website Visitor ID Estimate,Low,2026-05-12,23
+Vector,Vector.co,12000,62000,Global,Pipeline Intelligence Estimate,Low,2026-05-12,23
+Default,Default,3500,22000,Global,Sales Automation Estimate,Low,2026-05-12,23
+Istio,CNCF,350000,1800000,Global,Service Mesh Estimate,Low,2026-05-12,23
+Linkerd,Buoyant,85000,420000,Global,Cloud Native Networking Estimate,Low,2026-05-12,23
+Envoy Proxy,CNCF,450000,2200000,Global,Application Networking Estimate,Low,2026-05-12,23
+Kong Mesh,Kong,12000,62000,Global,Service Mesh Estimate,Medium,2026-05-12,23
+Continue Enterprise,Continue,18000,85000,Global,Enterprise AI Coding Estimate,Low,2026-05-12,23
+Aider,Aider,120000,620000,Global,Terminal AI Coding Estimate,Low,2026-05-12,23
+Refact.ai,Refact,35000,180000,Global,Open Source AI Coding Estimate,Low,2026-05-12,23
+Warp Terminal,Warp,180000,850000,Global,AI Developer Terminal Estimate,Medium,2026-05-12,23

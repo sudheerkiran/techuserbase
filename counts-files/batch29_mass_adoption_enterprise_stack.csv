@@ -1,0 +1,45 @@
+Technology,Primary_Vendor,Estimated_Accounts,Estimated_Contacts,Geography,Source_Type,Confidence_Score,Last_Verified,Research_Batch
+Google Analytics 4,Google,5200000,24000000,Global,Web Analytics Estimate,High,2026-05-12,29
+Google Tag Manager,Google,4800000,22000000,Global,Tag Management Estimate,High,2026-05-12,29
+Ahrefs,Ahrefs,420000,2200000,Global,SEO Platform Estimate,High,2026-05-12,29
+Semrush,Semrush,650000,3200000,Global,SEO & Marketing Estimate,High,2026-05-12,29
+Hotjar,Hotjar,1200000,5200000,Global,Behavior Analytics Estimate,High,2026-05-12,29
+WordPress,Automattic,45000000,180000000,Global,CMS Estimate,High,2026-05-12,29
+Webflow,Webflow,420000,2200000,Global,No-code Web Platform Estimate,High,2026-05-12,29
+Wix,Wix,8500000,42000000,Global,Website Builder Estimate,High,2026-05-12,29
+Squarespace,Squarespace,4200000,18000000,Global,Website Platform Estimate,High,2026-05-12,29
+Framer,Framer,180000,850000,Global,Modern Website Builder Estimate,Medium,2026-05-12,29
+Mixpanel,Mixpanel,65000,420000,Global,Product Analytics Estimate,High,2026-05-12,29
+Amplitude,Amplitude,25000,180000,Global,Product Intelligence Estimate,High,2026-05-12,29
+PostHog,PostHog,180000,850000,Global,PLG Analytics Estimate,Medium,2026-05-12,29
+Pendo,Pendo,12000,85000,Global,Digital Adoption Estimate,High,2026-05-12,29
+Intercom,Intercom,180000,1200000,Global,Customer Messaging Estimate,High,2026-05-12,29
+Stripe,Stripe,4200000,18000000,Global,Payments Infrastructure Estimate,High,2026-05-12,29
+PayPal,PayPal,12000000,52000000,Global,Online Payments Estimate,High,2026-05-12,29
+Shopify,Shopify,5200000,22000000,Global,Commerce Platform Estimate,High,2026-05-12,29
+WooCommerce,Automattic,8500000,42000000,Global,Commerce Plugin Estimate,High,2026-05-12,29
+BigCommerce,BigCommerce,85000,420000,Global,Enterprise Commerce Estimate,Medium,2026-05-12,29
+Zoom,Zoom,3200000,18000000,Global,Video Conferencing Estimate,High,2026-05-12,29
+Microsoft Teams,Microsoft,4200000,22000000,Global,Workplace Collaboration Estimate,High,2026-05-12,29
+Google Meet,Google,3800000,18000000,Global,Video Meetings Estimate,High,2026-05-12,29
+Discord,Discord,2200000,12000000,Global,Community Platform Estimate,High,2026-05-12,29
+GitHub,GitHub,12000000,52000000,Global,Developer Platform Estimate,High,2026-05-12,29
+Bitbucket,Atlassian,850000,4200000,Global,Git Repository Estimate,High,2026-05-12,29
+Netlify,Netlify,450000,2200000,Global,Frontend Cloud Estimate,High,2026-05-12,29
+Vercel,Vercel,850000,4200000,Global,Frontend Deployment Estimate,High,2026-05-12,29
+Zendesk,Zendesk,180000,1200000,Global,Customer Support Estimate,High,2026-05-12,29
+Freshdesk,Freshworks,250000,1800000,Global,Helpdesk Estimate,High,2026-05-12,29
+ServiceNow ITSM,ServiceNow,18000,150000,Global,IT Service Management Estimate,High,2026-05-12,29
+Jira Service Management,Atlassian,180000,1200000,Global,ITSM Estimate,High,2026-05-12,29
+PostgreSQL,PostgreSQL,8500000,42000000,Global,Database Estimate,High,2026-05-12,29
+MySQL,Oracle,18000000,85000000,Global,Database Estimate,High,2026-05-12,29
+MongoDB,MongoDB,2500000,12000000,Global,NoSQL Database Estimate,High,2026-05-12,29
+Redis,Redis,4200000,18000000,Global,In-memory Database Estimate,High,2026-05-12,29
+Workday,Workday,18000,180000,Global,HCM Estimate,High,2026-05-12,29
+BambooHR,BambooHR,85000,520000,Global,HR Platform Estimate,High,2026-05-12,29
+Rippling,Rippling,45000,320000,Global,Workforce Platform Estimate,High,2026-05-12,29
+Greenhouse,Greenhouse,18000,120000,Global,ATS Estimate,High,2026-05-12,29
+Cloudflare WAF,Cloudflare,1200000,5200000,Global,Web Security Estimate,High,2026-05-12,29
+Datadog,Datadog,320000,2200000,Global,Observability Estimate,High,2026-05-12,29
+New Relic,New Relic,180000,1200000,Global,Application Monitoring Estimate,High,2026-05-12,29
+Splunk,Cisco,120000,850000,Global,SIEM Estimate,High,2026-05-12,29

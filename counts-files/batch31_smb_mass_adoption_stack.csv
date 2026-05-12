@@ -1,0 +1,41 @@
+Technology,Primary_Vendor,Estimated_Accounts,Estimated_Contacts,Geography,Source_Type,Confidence_Score,Last_Verified,Research_Batch
+QuickBooks Online,Intuit,7200000,32000000,Global,Accounting Software Estimate,High,2026-05-12,31
+Xero,Xero,4200000,18000000,Global,Cloud Accounting Estimate,High,2026-05-12,31
+Canva,Canva,18000000,85000000,Global,Design Collaboration Estimate,High,2026-05-12,31
+Figma,Figma,3200000,18000000,Global,Design Platform Estimate,High,2026-05-12,31
+Notion AI,Notion,850000,5200000,Global,AI Workspace Estimate,High,2026-05-12,31
+Mailchimp,Intuit,18000000,85000000,Global,Email Marketing Estimate,High,2026-05-12,31
+ActiveCampaign,ActiveCampaign,180000,1200000,Global,Marketing Automation Estimate,High,2026-05-12,31
+Constant Contact,Constant Contact,650000,3200000,Global,Email Campaign Estimate,High,2026-05-12,31
+Zoho CRM,Zoho,420000,2200000,Global,CRM Estimate,High,2026-05-12,31
+Pipedrive,Pipedrive,180000,1200000,Global,Sales CRM Estimate,High,2026-05-12,31
+Dropbox,Dropbox,18000000,85000000,Global,File Collaboration Estimate,High,2026-05-12,31
+Google Workspace,Google,12000000,52000000,Global,Business Productivity Estimate,High,2026-05-12,31
+DocuSign,DocuSign,1800000,8500000,Global,Digital Agreements Estimate,High,2026-05-12,31
+Calendly,Calendly,2500000,12000000,Global,Scheduling Platform Estimate,High,2026-05-12,31
+Airtable,Airtable,420000,2200000,Global,No-code Collaboration Estimate,High,2026-05-12,31
+Square,Block,5200000,22000000,Global,POS & Payments Estimate,High,2026-05-12,31
+Toast POS,Toast,180000,1200000,Global,Restaurant POS Estimate,High,2026-05-12,31
+Lightspeed,Lightspeed,120000,850000,Global,Retail Platform Estimate,High,2026-05-12,31
+ShipStation,Auctane,850000,4200000,Global,Shipping Software Estimate,High,2026-05-12,31
+Klaviyo SMS,Klaviyo,85000,620000,Global,SMS Marketing Estimate,High,2026-05-12,31
+Gusto,Gusto,420000,2200000,Global,Payroll Platform Estimate,High,2026-05-12,31
+Deel,Deel,180000,1200000,Global,Global Payroll Estimate,High,2026-05-12,31
+HiBob,HiBob,18000,120000,Global,HRIS Estimate,High,2026-05-12,31
+Lever,Employ,12000,85000,Global,Recruiting Platform Estimate,High,2026-05-12,31
+cPanel,WebPros,18000000,85000000,Global,Web Hosting Estimate,High,2026-05-12,31
+DigitalOcean,DigitalOcean,1200000,6200000,Global,Cloud Hosting Estimate,High,2026-05-12,31
+Linode,Akamai,420000,2200000,Global,Developer Cloud Estimate,High,2026-05-12,31
+Cloudways,DigitalOcean,180000,1200000,Global,Managed Hosting Estimate,High,2026-05-12,31
+Help Scout,Help Scout,180000,1200000,Global,Support Inbox Estimate,High,2026-05-12,31
+LiveChat,Text,420000,2200000,Global,Customer Chat Estimate,High,2026-05-12,31
+Tidio,Tidio,850000,4200000,Global,AI Customer Chat Estimate,High,2026-05-12,31
+Crisp,Crisp,180000,1200000,Global,Messaging Platform Estimate,High,2026-05-12,31
+1Password,1Password,1800000,8500000,Global,Password Management Estimate,High,2026-05-12,31
+LastPass,LastPass,1200000,6200000,Global,Identity Security Estimate,High,2026-05-12,31
+NordLayer,Nord Security,180000,1200000,Global,Business VPN Estimate,High,2026-05-12,31
+Bitwarden,Bitwarden,950000,4200000,Global,Password Security Estimate,High,2026-05-12,31
+Substack,Substack,4200000,18000000,Global,Creator Platform Estimate,High,2026-05-12,31
+Beehiiv,Beehiiv,420000,2200000,Global,Newsletter Platform Estimate,High,2026-05-12,31
+ConvertKit,Kit,650000,3200000,Global,Creator Email Estimate,High,2026-05-12,31
+Patreon,Patreon,1800000,8500000,Global,Membership Platform Estimate,High,2026-05-12,31

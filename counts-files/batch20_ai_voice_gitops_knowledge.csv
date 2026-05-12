@@ -1,0 +1,41 @@
+Technology,Primary_Vendor,Estimated_Accounts,Estimated_Contacts,Geography,Source_Type,Confidence_Score,Last_Verified,Research_Batch
+ElevenLabs,ElevenLabs,450000,2200000,Global,AI Voice Estimate,Medium,2026-05-12,20
+Deepgram,Deepgram,85000,420000,Global,Speech AI Estimate,Low,2026-05-12,20
+AssemblyAI,AssemblyAI,120000,620000,Global,Speech Recognition Estimate,Low,2026-05-12,20
+Resemble AI,Resemble AI,25000,120000,Global,Voice Cloning Estimate,Low,2026-05-12,20
+Retell AI,Retell AI,18000,85000,Global,AI Voice Agent Estimate,Low,2026-05-12,20
+Labelbox,Labelbox,3500,28000,Global,AI Labeling Estimate,Medium,2026-05-12,20
+Snorkel AI,Snorkel AI,1800,18000,Global,AI Data Ops Estimate,Low,2026-05-12,20
+Humanloop,Humanloop,1200,12000,Global,LLM Evaluation Estimate,Low,2026-05-12,20
+Arize AI,Arize,5000,32000,Global,AI Observability Estimate,Medium,2026-05-12,20
+WhyLabs,WhyLabs,2500,18000,Global,ML Monitoring Estimate,Low,2026-05-12,20
+Buildkite,Buildkite,18000,95000,Global,CI/CD Estimate,Medium,2026-05-12,20
+Semaphore,Semaphore,8500,52000,Global,Developer CI Estimate,Low,2026-05-12,20
+Octopus Deploy,Octopus,25000,120000,Global,Deployment Automation Estimate,Medium,2026-05-12,20
+ArgoCD,CNCF,220000,1200000,Global,GitOps Estimate,Low,2026-05-12,20
+FluxCD,CNCF,120000,620000,Global,GitOps Estimate,Low,2026-05-12,20
+Temporal,Temporal,45000,220000,Global,Workflow Orchestration Estimate,Medium,2026-05-12,20
+NATS,Synadia,180000,850000,Global,Messaging Infrastructure Estimate,Low,2026-05-12,20
+Airflow,Apache,850000,4200000,Global,Workflow Orchestration Estimate,Low,2026-05-12,20
+Dagster,Dagster Labs,120000,620000,Global,Data Orchestration Estimate,Low,2026-05-12,20
+Prefect,Prefect,85000,420000,Global,Workflow Automation Estimate,Low,2026-05-12,20
+Vitally,Vitally,3500,22000,Global,Customer Success Estimate,Low,2026-05-12,20
+ChurnZero,ChurnZero,2500,18000,Global,Customer Retention Estimate,Low,2026-05-12,20
+Catalyst,Catalyst Software,1800,12000,Global,CS Platform Estimate,Low,2026-05-12,20
+Planhat,Planhat,1200,8500,Global,Customer Platform Estimate,Low,2026-05-12,20
+Tenable.io,Tenable,18000,120000,Global,Exposure Management Estimate,Medium,2026-05-12,20
+Axonius,Axonius,3500,28000,Global,Cyber Asset Management Estimate,Medium,2026-05-12,20
+Armis,Armis,2500,18000,Global,Asset Security Estimate,Medium,2026-05-12,20
+Expel,Expel,1200,12000,Global,Managed Detection Estimate,Low,2026-05-12,20
+Typeform,Typeform,450000,2200000,Global,Form Platform Estimate,Medium,2026-05-12,20
+Tally,Tally,180000,850000,Global,No-code Forms Estimate,Low,2026-05-12,20
+Attentive,Attentive,18000,120000,Global,SMS Commerce Estimate,Medium,2026-05-12,20
+Postscript,Postscript,12000,72000,Global,Shopify SMS Estimate,Medium,2026-05-12,20
+Trigger.dev,Trigger.dev,45000,180000,Global,Background Jobs Estimate,Low,2026-05-12,20
+Convex,Convex,85000,420000,Global,Reactive Backend Estimate,Low,2026-05-12,20
+Encore,Encore,25000,120000,Global,Backend Framework Estimate,Low,2026-05-12,20
+Temporal Cloud,Temporal,12000,62000,Global,Workflow Cloud Estimate,Medium,2026-05-12,20
+Confluence AI,Atlassian,85000,420000,Global,Knowledge AI Estimate,Medium,2026-05-12,20
+Notion Enterprise,Notion,180000,950000,Global,Enterprise Productivity Estimate,Medium,2026-05-12,20
+Slite,Slite,18000,85000,Global,Knowledge Collaboration Estimate,Low,2026-05-12,20
+Tettra,Tettra,12000,62000,Global,Internal Wiki Estimate,Low,2026-05-12,20

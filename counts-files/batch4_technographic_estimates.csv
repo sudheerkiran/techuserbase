@@ -1,0 +1,26 @@
+Technology,Primary_Vendor,Estimated_Accounts,Estimated_Contacts,Geography,Source_Type,Confidence_Score,Last_Verified,Research_Batch
+CrowdStrike Falcon,CrowdStrike,29000,310000,Global,Public Customer Statements,High,2026-05-12,4
+Okta,Okta,19000,240000,Global,Public Customer Statements,High,2026-05-12,4
+Palo Alto Networks,Palo Alto Networks,85000,950000,Global,Public Customer Statements,High,2026-05-12,4
+Zscaler,Zscaler,8000,95000,Global,Public Customer Statements,High,2026-05-12,4
+Fortinet,Fortinet,755000,4200000,Global,Public Customer Statements,High,2026-05-12,4
+Cisco Secure,Cisco,300000,2800000,Global,Security Market Estimate,Medium,2026-05-12,4
+SentinelOne,SentinelOne,11000,120000,Global,Public Customer Statements,High,2026-05-12,4
+Trend Micro,Trend Micro,500000,2400000,Global,Public Customer Statements,Medium,2026-05-12,4
+Sophos,Sophos,600000,2900000,Global,Public Customer Statements,Medium,2026-05-12,4
+McAfee Enterprise,Trellix,300000,1800000,Global,Enterprise Security Estimate,Medium,2026-05-12,4
+Symantec Endpoint Security,Broadcom,250000,1600000,Global,Enterprise Security Estimate,Medium,2026-05-12,4
+Proofpoint,Proofpoint,12000,145000,Global,Public Customer Statements,High,2026-05-12,4
+Mimecast,Mimecast,42000,310000,Global,Public Customer Statements,Medium,2026-05-12,4
+Cloudflare,Cloudflare,190000,1200000,Global,Public Customer Statements,High,2026-05-12,4
+Akamai,Akamai,25000,260000,Global,Enterprise Security Estimate,Medium,2026-05-12,4
+Splunk,Cisco,17000,220000,Global,Public Customer Statements,High,2026-05-12,4
+Datadog,Datadog,30000,280000,Global,Public Customer Statements,High,2026-05-12,4
+New Relic,New Relic,17000,150000,Global,Observability Market Estimate,Medium,2026-05-12,4
+Elastic Stack,Elastic,50000,420000,Global,Search & Logging Estimate,Medium,2026-05-12,4
+Rapid7,Rapid7,11000,95000,Global,Public Customer Statements,Medium,2026-05-12,4
+Tenable,Tenable,44000,320000,Global,Public Customer Statements,Medium,2026-05-12,4
+Qualys,Qualys,23000,180000,Global,Public Customer Statements,Medium,2026-05-12,4
+CyberArk,CyberArk,9000,95000,Global,Identity Security Estimate,Medium,2026-05-12,4
+VMware Carbon Black,VMware,18000,130000,Global,Endpoint Security Estimate,Medium,2026-05-12,4
+Arctic Wolf,Arctic Wolf,7000,65000,Global,Managed Security Estimate,Medium,2026-05-12,4

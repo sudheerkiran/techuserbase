@@ -1,0 +1,40 @@
+Technology,Primary_Vendor,Estimated_Accounts,Estimated_Contacts,Geography,Source_Type,Confidence_Score,Last_Verified,Research_Batch
+SAP S/4HANA,SAP,38000,320000,Global,ERP Estimate,High,2026-05-12,30
+Oracle NetSuite,Oracle,42000,380000,Global,Cloud ERP Estimate,High,2026-05-12,30
+Microsoft Dynamics 365,Microsoft,180000,1200000,Global,Business Applications Estimate,High,2026-05-12,30
+Coupa,Coupa,8500,72000,Global,Spend Management Estimate,High,2026-05-12,30
+Workiva,Workiva,12000,85000,Global,Financial Compliance Estimate,High,2026-05-12,30
+Epic EHR,Epic Systems,18000,180000,Global,Healthcare Records Estimate,High,2026-05-12,30
+Cerner Millennium,Oracle Health,12000,95000,Global,Hospital IT Estimate,High,2026-05-12,30
+athenaOne,athenahealth,180000,850000,Global,Practice Management Estimate,High,2026-05-12,30
+Veeva CRM,Veeva,8500,62000,Global,Life Sciences CRM Estimate,High,2026-05-12,30
+Fortinet FortiGate,Fortinet,850000,4200000,Global,Firewall Estimate,High,2026-05-12,30
+Cisco SecureX,Cisco,120000,850000,Global,Security Platform Estimate,High,2026-05-12,30
+Proofpoint,Proofpoint,85000,620000,Global,Email Security Estimate,High,2026-05-12,30
+Mimecast,Mimecast,42000,320000,Global,Email Protection Estimate,High,2026-05-12,30
+Rapid7,Rapid7,18000,150000,Global,Security Operations Estimate,High,2026-05-12,30
+Informatica,Informatica,85000,620000,Global,Data Integration Estimate,High,2026-05-12,30
+Talend,Qlik,42000,320000,Global,ETL Estimate,High,2026-05-12,30
+Fivetran,Fivetran,18000,150000,Global,Automated Data Pipelines Estimate,High,2026-05-12,30
+Airbyte,Airbyte,180000,850000,Global,Open Source ETL Estimate,Medium,2026-05-12,30
+MuleSoft,Salesforce,12000,95000,Global,Enterprise Integration Estimate,High,2026-05-12,30
+BMC Helix,BMC,12000,85000,Global,ITSM Estimate,High,2026-05-12,30
+ManageEngine,Zoho,420000,2200000,Global,IT Operations Estimate,High,2026-05-12,30
+Ivanti,Ivanti,18000,150000,Global,Unified IT Estimate,High,2026-05-12,30
+SolarWinds,SolarWinds,85000,620000,Global,Infrastructure Monitoring Estimate,High,2026-05-12,30
+Salesloft,Salesloft,18000,150000,Global,Sales Engagement Estimate,High,2026-05-12,30
+Outreach,Outreach,12000,95000,Global,Revenue Workflow Estimate,High,2026-05-12,30
+Clari,Clari,8500,62000,Global,Revenue Forecasting Estimate,High,2026-05-12,30
+Chorus.ai,ZoomInfo,18000,150000,Global,Conversation Intelligence Estimate,High,2026-05-12,30
+Vertex AI,Google Cloud,85000,620000,Global,Enterprise AI Platform Estimate,High,2026-05-12,30
+Azure AI Studio,Microsoft,120000,850000,Global,AI Development Estimate,High,2026-05-12,30
+Amazon SageMaker,AWS,180000,1200000,Global,ML Platform Estimate,High,2026-05-12,30
+DataRobot,DataRobot,8500,62000,Global,AutoML Estimate,High,2026-05-12,30
+Asana,Asana,180000,1200000,Global,Work Management Estimate,High,2026-05-12,30
+Monday.com,Monday.com,220000,1500000,Global,Work OS Estimate,High,2026-05-12,30
+Smartsheet,Smartsheet,85000,620000,Global,Collaboration Estimate,High,2026-05-12,30
+Lucidchart,Lucid Software,420000,2200000,Global,Diagramming Estimate,High,2026-05-12,30
+VMware vSphere,VMware,850000,4200000,Global,Virtualization Estimate,High,2026-05-12,30
+Citrix,Cloud Software Group,180000,1200000,Global,Virtual Apps Estimate,High,2026-05-12,30
+Aruba Networks,HPE,120000,850000,Global,Enterprise Networking Estimate,High,2026-05-12,30
+Juniper Networks,Juniper,85000,620000,Global,Network Infrastructure Estimate,High,2026-05-12,30

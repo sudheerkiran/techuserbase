@@ -1,0 +1,41 @@
+Technology,Primary_Vendor,Estimated_Accounts,Estimated_Contacts,Geography,Source_Type,Confidence_Score,Last_Verified,Research_Batch
+Arc Browser,The Browser Company,85000,420000,Global,Modern Browser Estimate,Low,2026-05-12,27
+Dia Browser,The Browser Company,12000,62000,Global,AI Browser Estimate,Low,2026-05-12,27
+Perplexity Comet,Perplexity,3500,22000,Global,AI-native Browser Estimate,Low,2026-05-12,27
+Rabbit OS,Rabbit,18000,85000,Global,AI Agent OS Estimate,Low,2026-05-12,27
+Mosaic AI,Databricks,12000,62000,Global,Enterprise AI Platform Estimate,Medium,2026-05-12,27
+MotherDuck Cloud,MotherDuck,35000,180000,Global,Serverless Analytics Estimate,Low,2026-05-12,27
+Tabular,Databricks,2500,18000,Global,Iceberg Infrastructure Estimate,Low,2026-05-12,27
+DataFusion,Apache,85000,420000,Global,Query Engine Estimate,Low,2026-05-12,27
+Protect AI Radar,Protect AI,1800,12000,Global,AI Risk Detection Estimate,Low,2026-05-12,27
+Lakera Guard,Lakera,2500,18000,Global,Prompt Security Estimate,Low,2026-05-12,27
+Rebuff AI,Rebuff,12000,62000,Global,Prompt Injection Defense Estimate,Low,2026-05-12,27
+Invariant Labs,Invariant,3500,22000,Global,Agent Security Estimate,Low,2026-05-12,27
+Avenue,Avenue,1800,12000,Global,AI Prospecting Estimate,Low,2026-05-12,27
+Octave,Octave,2500,18000,Global,AI GTM Signals Estimate,Low,2026-05-12,27
+RevSure,RevSure,12000,62000,Global,Revenue Forecasting Estimate,Medium,2026-05-12,27
+Clari Copilot,Clari,8500,52000,Global,Revenue AI Estimate,Medium,2026-05-12,27
+Karpenter,AWS,180000,850000,Global,Kubernetes Autoscaling Estimate,Low,2026-05-12,27
+Kyverno,CNCF,120000,620000,Global,Kubernetes Policy Estimate,Low,2026-05-12,27
+Open Policy Agent,CNCF,450000,2200000,Global,Policy Engine Estimate,Low,2026-05-12,27
+Kubescape,ARMO,35000,180000,Global,Kubernetes Security Estimate,Low,2026-05-12,27
+Evidence.dev,Evidence,18000,85000,Global,Analytics as Code Estimate,Low,2026-05-12,27
+Count,Count,12000,62000,Global,Collaborative BI Estimate,Low,2026-05-12,27
+Hex Magic,Hex,3500,22000,Global,AI Analytics Estimate,Low,2026-05-12,27
+Narrative BI,Narrative BI,2500,18000,Global,AI Business Intelligence Estimate,Low,2026-05-12,27
+June.so,June,8500,52000,Global,Product Analytics Estimate,Low,2026-05-12,27
+Correlated,Correlated,3500,22000,Global,Product-led Revenue Estimate,Low,2026-05-12,27
+Endgame Signals,Endgame,1800,12000,Global,Buying Signals Estimate,Low,2026-05-12,27
+Canary Technologies,Canary,12000,62000,Global,Hospitality Engagement Estimate,Medium,2026-05-12,27
+Beam Cloud,Beam,18000,85000,Global,GPU Deployment Estimate,Low,2026-05-12,27
+Inferless,Inferless,2500,18000,Global,Serverless AI Estimate,Low,2026-05-12,27
+Banana.dev,Banana,12000,62000,Global,Inference Hosting Estimate,Low,2026-05-12,27
+Replicate Enterprise,Replicate,3500,22000,Global,Enterprise Model Hosting Estimate,Low,2026-05-12,27
+CodeSee,CodeSee,8500,52000,Global,Code Visualization Estimate,Low,2026-05-12,27
+Mergify,Mergify,35000,180000,Global,PR Automation Estimate,Low,2026-05-12,27
+Graphite,Graphite,18000,85000,Global,Stacked PR Estimate,Low,2026-05-12,27
+PullFlow,PullFlow,2500,18000,Global,Code Review Workflow Estimate,Low,2026-05-12,27
+Clerk.io,Clerk.io,12000,62000,Global,Retail Search Estimate,Low,2026-05-12,27
+Bloomreach AI,Bloomreach,3500,22000,Global,Commerce Personalization Estimate,Low,2026-05-12,27
+ViSenze,ViSenze,1800,12000,Global,Visual Search Estimate,Low,2026-05-12,27
+Coveo Commerce,Coveo,2500,18000,Global,AI Commerce Search Estimate,Low,2026-05-12,27

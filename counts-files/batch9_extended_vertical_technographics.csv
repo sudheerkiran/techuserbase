@@ -1,0 +1,39 @@
+Technology,Primary_Vendor,Estimated_Accounts,Estimated_Contacts,Geography,Source_Type,Confidence_Score,Last_Verified,Research_Batch
+Cisco Meraki,Cisco,850000,4200000,Global,Networking Estimate,Medium,2026-05-12,9
+Ubiquiti UniFi,Ubiquiti,1500000,5200000,Global,SMB Networking Estimate,Medium,2026-05-12,9
+Juniper Networks,Juniper,95000,620000,Global,Enterprise Networking Estimate,Medium,2026-05-12,9
+Aruba Networks,HPE,180000,1200000,Global,Enterprise WiFi Estimate,Medium,2026-05-12,9
+NetApp,NetApp,120000,950000,Global,Storage Infrastructure Estimate,Medium,2026-05-12,9
+Pure Storage,Pure Storage,11000,120000,Global,Enterprise Storage Estimate,Medium,2026-05-12,9
+Dell EMC,Dell,420000,3200000,Global,Infrastructure Estimate,Medium,2026-05-12,9
+Veeam,Veeam,550000,2600000,Global,Backup Platform Estimate,Medium,2026-05-12,9
+Commvault,Commvault,100000,520000,Global,Backup Platform Estimate,Medium,2026-05-12,9
+Rubrik,Rubrik,6000,75000,Global,Modern Backup Estimate,Medium,2026-05-12,9
+Google Analytics,Google,28000000,95000000,Global,Web Analytics Estimate,Low,2026-05-12,9
+Adobe Analytics,Adobe,45000,420000,Global,Enterprise Analytics Estimate,Medium,2026-05-12,9
+Braze,Braze,2200,32000,Global,Customer Engagement Estimate,Medium,2026-05-12,9
+Iterable,Iterable,1400,22000,Global,Lifecycle Marketing Estimate,Medium,2026-05-12,9
+HubSpot Marketing Hub,HubSpot,180000,1200000,Global,Public Customer Statements,High,2026-05-12,9
+Salesforce Marketing Cloud,Salesforce,18000,180000,Global,Enterprise Marketing Estimate,Medium,2026-05-12,9
+Oracle Responsys,Oracle,6000,52000,Global,Enterprise Marketing Estimate,Medium,2026-05-12,9
+Tealium,Tealium,1300,18000,Global,Customer Data Estimate,Medium,2026-05-12,9
+mParticle,Rokt,900,12000,Global,Mobile Data Platform Estimate,Low,2026-05-12,9
+Brightcove,Brightcove,3500,28000,Global,Video Platform Estimate,Medium,2026-05-12,9
+Vimeo Enterprise,Vimeo,120000,620000,Global,Video Collaboration Estimate,Medium,2026-05-12,9
+Wistia,Wistia,400000,1400000,Global,Video Marketing Estimate,Low,2026-05-12,9
+JW Player,JW Player,2000000,8500000,Global,Streaming Infrastructure Estimate,Low,2026-05-12,9
+Canvas LMS,Instructure,7000,85000,Global,Education Platform Estimate,Medium,2026-05-12,9
+Blackboard,Anthology,4500,52000,Global,Education Platform Estimate,Medium,2026-05-12,9
+Moodle,Open Source,250000,1200000,Global,Open Source LMS Estimate,Low,2026-05-12,9
+Docebo,Docebo,3500,32000,Global,Learning Platform Estimate,Medium,2026-05-12,9
+Cornerstone Learning,Cornerstone,7000,62000,Global,Enterprise Learning Estimate,Medium,2026-05-12,9
+SAP Ariba,SAP,5000000,18000000,Global,Procurement Network Estimate,High,2026-05-12,9
+Blue Yonder,Blue Yonder,3500,45000,Global,Supply Chain Estimate,Medium,2026-05-12,9
+Manhattan Associates,Manhattan Associates,4500,38000,Global,Warehouse Management Estimate,Medium,2026-05-12,9
+Kinaxis,Kinaxis,1200,18000,Global,Supply Chain Planning Estimate,Medium,2026-05-12,9
+Infor SCM,Infor,15000,85000,Global,Supply Chain Estimate,Medium,2026-05-12,9
+Procore,Procore,16000,140000,Global,Construction Platform Estimate,Medium,2026-05-12,9
+Autodesk Construction Cloud,Autodesk,25000,220000,Global,Construction Estimate,Medium,2026-05-12,9
+Yardi,Yardi,40000,320000,Global,Property Management Estimate,Medium,2026-05-12,9
+AppFolio,AppFolio,20000,120000,Global,Property Management Estimate,Medium,2026-05-12,9
+Buildium,RealPage,25000,85000,Global,Property Management Estimate,Low,2026-05-12,9

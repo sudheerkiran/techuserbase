@@ -1,0 +1,41 @@
+Technology,Primary_Vendor,Estimated_Accounts,Estimated_Contacts,Geography,Source_Type,Confidence_Score,Last_Verified,Research_Batch
+ChatGPT Enterprise,OpenAI,220000,1800000,Global,Enterprise GenAI Estimate,High,2026-05-12,28
+Gemini for Workspace,Google,180000,1500000,Global,AI Productivity Estimate,High,2026-05-12,28
+Claude for Enterprise,Anthropic,85000,620000,Global,Enterprise AI Assistant Estimate,Medium,2026-05-12,28
+Microsoft 365 Copilot,Microsoft,950000,7200000,Global,Enterprise AI Productivity Estimate,High,2026-05-12,28
+Zoom AI Companion,Zoom,350000,2200000,Global,Meeting AI Estimate,High,2026-05-12,28
+GitLab,GitLab,450000,3200000,Global,DevOps Platform Estimate,High,2026-05-12,28
+Jenkins,Jenkins,2500000,12000000,Global,CI/CD Estimate,Medium,2026-05-12,28
+Docker,Docker,4200000,18000000,Global,Container Platform Estimate,High,2026-05-12,28
+Kubernetes,CNCF,1800000,9500000,Global,Container Orchestration Estimate,High,2026-05-12,28
+Terraform,HashiCorp,1200000,6200000,Global,Infrastructure as Code Estimate,High,2026-05-12,28
+Snowflake,Snowflake,45000,420000,Global,Cloud Data Warehouse Estimate,High,2026-05-12,28
+Databricks Lakehouse,Databricks,35000,320000,Global,Lakehouse Platform Estimate,High,2026-05-12,28
+dbt Cloud,dbt Labs,120000,850000,Global,Data Transformation Estimate,High,2026-05-12,28
+Power BI,Microsoft,2500000,15000000,Global,Business Intelligence Estimate,High,2026-05-12,28
+Tableau,Salesforce,850000,5200000,Global,Analytics Platform Estimate,High,2026-05-12,28
+CrowdStrike Falcon,CrowdStrike,42000,380000,Global,Endpoint Security Estimate,High,2026-05-12,28
+Okta Workforce Identity,Okta,18000,180000,Global,Identity Platform Estimate,High,2026-05-12,28
+Palo Alto Prisma Cloud,Palo Alto Networks,18000,150000,Global,Cloud Security Estimate,High,2026-05-12,28
+Zscaler Internet Access,Zscaler,12000,95000,Global,SASE Estimate,High,2026-05-12,28
+SentinelOne Singularity,SentinelOne,12000,85000,Global,XDR Platform Estimate,Medium,2026-05-12,28
+Salesforce Sales Cloud,Salesforce,320000,2800000,Global,CRM Estimate,High,2026-05-12,28
+HubSpot CRM,HubSpot,250000,1800000,Global,CRM Platform Estimate,High,2026-05-12,28
+Gong Revenue Intelligence,Gong,8500,72000,Global,Revenue Intelligence Estimate,High,2026-05-12,28
+Apollo.io,Apollo,650000,4200000,Global,Sales Intelligence Estimate,High,2026-05-12,28
+ZoomInfo,ZoomInfo,38000,320000,Global,B2B Intelligence Estimate,High,2026-05-12,28
+Slack Enterprise Grid,Salesforce,180000,2200000,Global,Collaboration Estimate,High,2026-05-12,28
+Notion,Notion,1800000,8500000,Global,Knowledge Workspace Estimate,High,2026-05-12,28
+Atlassian Jira,Atlassian,950000,6200000,Global,Project Management Estimate,High,2026-05-12,28
+Confluence,Atlassian,850000,5200000,Global,Knowledge Management Estimate,High,2026-05-12,28
+Miro Enterprise,Miro,120000,850000,Global,Visual Collaboration Estimate,High,2026-05-12,28
+Shopify Plus,Shopify,48000,320000,Global,Enterprise Ecommerce Estimate,High,2026-05-12,28
+Klaviyo,Klaviyo,180000,1200000,Global,Marketing Automation Estimate,High,2026-05-12,28
+Braze,Braze,8500,72000,Global,Customer Engagement Estimate,High,2026-05-12,28
+Segment,Twilio,45000,320000,Global,Customer Data Platform Estimate,High,2026-05-12,28
+Adobe Experience Cloud,Adobe,18000,150000,Global,Digital Experience Estimate,High,2026-05-12,28
+AWS,Amazon Web Services,4500000,22000000,Global,Cloud Infrastructure Estimate,High,2026-05-12,28
+Microsoft Azure,Microsoft,3200000,18000000,Global,Cloud Platform Estimate,High,2026-05-12,28
+Google Cloud Platform,Google,1800000,9500000,Global,Cloud Platform Estimate,High,2026-05-12,28
+Cloudflare,Cloudflare,4200000,18000000,Global,Edge Network Estimate,High,2026-05-12,28
+Vercel Enterprise,Vercel,18000,120000,Global,Frontend Cloud Estimate,Medium,2026-05-12,28

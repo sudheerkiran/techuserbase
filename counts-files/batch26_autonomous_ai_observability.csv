@@ -1,0 +1,43 @@
+Technology,Primary_Vendor,Estimated_Accounts,Estimated_Contacts,Geography,Source_Type,Confidence_Score,Last_Verified,Research_Batch
+Cognition Devin Enterprise,Cognition,1800,12000,Global,Enterprise AI Engineer Estimate,Low,2026-05-12,26
+OpenHands,All Hands AI,85000,420000,Global,Open Source Agent Estimate,Low,2026-05-12,26
+Sweep AI,Sweep,35000,180000,Global,AI Code Maintenance Estimate,Low,2026-05-12,26
+Factory AI,Factory,12000,62000,Global,AI Engineering Ops Estimate,Low,2026-05-12,26
+Magic.dev,Magic,2500,18000,Global,Autonomous Coding Estimate,Low,2026-05-12,26
+pgvector,PostgreSQL,450000,2200000,Global,Vector Extension Estimate,Low,2026-05-12,26
+LanceDB,LanceDB,120000,620000,Global,Multimodal Database Estimate,Low,2026-05-12,26
+Turbopuffer,Turbopuffer,18000,85000,Global,Serverless Vector Estimate,Low,2026-05-12,26
+Epsilla,Epsilla,8500,52000,Global,Private Vector DB Estimate,Low,2026-05-12,26
+Nightfall AI,Nightfall,3500,22000,Global,Data Leak Prevention Estimate,Low,2026-05-12,26
+Symmetry Systems,Symmetry,1800,12000,Global,DSPM Estimate,Low,2026-05-12,26
+Veza,Veza,1200,8500,Global,Authorization Security Estimate,Low,2026-05-12,26
+Astrix Security,Astrix,2500,18000,Global,Non-human Identity Estimate,Low,2026-05-12,26
+Copy.ai GTM AI,Copy.ai,12000,62000,Global,AI GTM Estimate,Medium,2026-05-12,26
+11x.ai,11x,3500,22000,Global,AI SDR Estimate,Low,2026-05-12,26
+Artisan AI,Artisan,1800,12000,Global,Autonomous Sales Estimate,Low,2026-05-12,26
+Pocus,Pocus,8500,52000,Global,Product-led Sales Estimate,Medium,2026-05-12,26
+Endgame,Endgame,1200,8500,Global,Signal Intelligence Estimate,Low,2026-05-12,26
+OpenTelemetry Collector,CNCF,350000,1800000,Global,Telemetry Pipeline Estimate,Low,2026-05-12,26
+Vector.dev,Datadog,180000,850000,Global,Observability Pipeline Estimate,Low,2026-05-12,26
+Fluent Bit,Chronosphere,450000,2200000,Global,Log Processing Estimate,Low,2026-05-12,26
+eBPF,Linux Foundation,850000,4200000,Global,Kernel Observability Estimate,Low,2026-05-12,26
+Decagon,Decagon,2500,18000,Global,AI Support Agent Estimate,Low,2026-05-12,26
+Maven AI Support,Maven,1200,8500,Global,AI Customer Experience Estimate,Low,2026-05-12,26
+Forethought Autoflows,Forethought,3500,22000,Global,AI Ticket Automation Estimate,Low,2026-05-12,26
+Kapa AI,Kapa,18000,85000,Global,Developer AI Support Estimate,Low,2026-05-12,26
+Estuary,Estuary,12000,62000,Global,Realtime ETL Estimate,Low,2026-05-12,26
+Tinybird,Tinybird,35000,180000,Global,Realtime Analytics APIs Estimate,Low,2026-05-12,26
+WarpStream,WarpStream,1800,12000,Global,Kafka-compatible Streaming Estimate,Low,2026-05-12,26
+Hydrolix,Hydrolix,2500,18000,Global,Log Data Lake Estimate,Low,2026-05-12,26
+CodeRabbit,CodeRabbit,85000,420000,Global,AI Code Review Estimate,Low,2026-05-12,26
+Qodo,Qodo,12000,62000,Global,AI Testing Estimate,Low,2026-05-12,26
+Mintlify,Mintlify,35000,180000,Global,AI Documentation Estimate,Low,2026-05-12,26
+Docusaurus,Meta,180000,850000,Global,Developer Documentation Estimate,Low,2026-05-12,26
+Superhuman,Superhuman,85000,420000,Global,AI Email Productivity Estimate,Medium,2026-05-12,26
+Shortwave,Shortwave,18000,85000,Global,AI Inbox Estimate,Low,2026-05-12,26
+SaneBox,SaneBox,120000,620000,Global,Email Intelligence Estimate,Low,2026-05-12,26
+Akiflow,Akiflow,35000,180000,Global,Productivity Orchestration Estimate,Low,2026-05-12,26
+Constructor AI,Constructor,2500,18000,Global,Commerce AI Search Estimate,Low,2026-05-12,26
+Syte,Syte,1800,12000,Global,Visual Commerce Estimate,Low,2026-05-12,26
+Vue.ai,Mad Street Den,1200,8500,Global,Retail AI Estimate,Low,2026-05-12,26
+Searchspring AI,Searchspring,3500,22000,Global,Ecommerce Search AI Estimate,Low,2026-05-12,26

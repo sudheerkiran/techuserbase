@@ -1,0 +1,43 @@
+Technology,Primary_Vendor,Estimated_Accounts,Estimated_Contacts,Geography,Source_Type,Confidence_Score,Last_Verified,Research_Batch
+Attention,Attention,12000,62000,Global,AI Sales Assistant Estimate,Low,2026-05-12,25
+Scratchpad,Scratchpad,18000,85000,Global,Revenue Workspace Estimate,Medium,2026-05-12,25
+Day.ai,Day.ai,2500,18000,Global,AI CRM Estimate,Low,2026-05-12,25
+PeopleGlass,PeopleGlass,3500,22000,Global,Pipeline Governance Estimate,Low,2026-05-12,25
+Momentum,Momentum,8500,52000,Global,Revenue AI Estimate,Medium,2026-05-12,25
+Vespa,Yahoo,85000,420000,Global,Search Platform Estimate,Low,2026-05-12,25
+Meilisearch,Meilisearch,180000,850000,Global,Search Infrastructure Estimate,Low,2026-05-12,25
+Typesense,Typesense,120000,620000,Global,Open Source Search Estimate,Low,2026-05-12,25
+Jina AI,Jina AI,35000,180000,Global,Multimodal Search Estimate,Low,2026-05-12,25
+Marqo,Marqo,18000,85000,Global,Vector Search Estimate,Low,2026-05-12,25
+KubeRay,Anyscale,120000,620000,Global,Distributed AI Runtime Estimate,Low,2026-05-12,25
+SkyPilot,SkyPilot,85000,420000,Global,GPU Orchestration Estimate,Low,2026-05-12,25
+Run:ai,NVIDIA,18000,95000,Global,GPU Virtualization Estimate,Medium,2026-05-12,25
+Modal GPU,Modal Labs,12000,62000,Global,Serverless GPU Estimate,Low,2026-05-12,25
+Push Security,Push Security,3500,22000,Global,Identity Threat Estimate,Low,2026-05-12,25
+Grip Security,Grip,2500,18000,Global,SaaS Identity Estimate,Low,2026-05-12,25
+Obsidian Security,Obsidian,1800,12000,Global,SaaS Security Estimate,Low,2026-05-12,25
+Valence Security,Valence,1200,8500,Global,SaaS Exposure Estimate,Low,2026-05-12,25
+Mutiny AI,Mutiny,2500,18000,Global,AI Personalization Estimate,Low,2026-05-12,25
+Qualified,Qualified,8500,52000,Global,Pipeline Generation Estimate,Medium,2026-05-12,25
+Drift,Salesloft,35000,180000,Global,Conversational Marketing Estimate,Medium,2026-05-12,25
+Navattic,Navattic,12000,62000,Global,Interactive Demo Estimate,Medium,2026-05-12,25
+OpenMetadata,OpenMetadata,85000,420000,Global,Metadata Platform Estimate,Low,2026-05-12,25
+Amundsen,LF AI & Data,180000,850000,Global,Data Discovery Estimate,Low,2026-05-12,25
+Marquez,Marquez,35000,180000,Global,Data Lineage Estimate,Low,2026-05-12,25
+Unity Catalog,Databricks,12000,62000,Global,Data Governance Estimate,Medium,2026-05-12,25
+Caddy,Caddy,250000,1200000,Global,Web Server Estimate,Low,2026-05-12,25
+Traefik,Traefik Labs,180000,850000,Global,Ingress Controller Estimate,Low,2026-05-12,25
+NGINX Gateway Fabric,F5,85000,420000,Global,Gateway API Estimate,Low,2026-05-12,25
+KEDA,CNCF,120000,620000,Global,Event-driven Autoscaling Estimate,Low,2026-05-12,25
+Swarmia,Swarmia,12000,62000,Global,Engineering Analytics Estimate,Low,2026-05-12,25
+DX,DX,8500,52000,Global,Developer Experience Estimate,Low,2026-05-12,25
+Haystack Engineering,Haystack,3500,22000,Global,Engineering Metrics Estimate,Low,2026-05-12,25
+Sleuth,Sleuth,2500,18000,Global,DevOps Metrics Estimate,Low,2026-05-12,25
+Slite AI,Slite,12000,62000,Global,AI Knowledge Estimate,Low,2026-05-12,25
+Taskade AI,Taskade,85000,420000,Global,AI Productivity Estimate,Low,2026-05-12,25
+ClickUp AI,ClickUp,180000,850000,Global,AI Work Management Estimate,Medium,2026-05-12,25
+Fibery,Fibery,35000,180000,Global,Connected Workspace Estimate,Low,2026-05-12,25
+Nosto AI,Nosto,2500,18000,Global,Commerce Personalization Estimate,Low,2026-05-12,25
+Daasity,Daasity,12000,62000,Global,Retail Analytics Estimate,Low,2026-05-12,25
+Polar Analytics,Polar,8500,52000,Global,Ecommerce BI Estimate,Low,2026-05-12,25
+Triple Whale AI,Triple Whale,3500,22000,Global,AI Attribution Estimate,Low,2026-05-12,25

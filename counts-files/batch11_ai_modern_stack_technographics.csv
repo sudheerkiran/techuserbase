@@ -1,0 +1,41 @@
+Technology,Primary_Vendor,Estimated_Accounts,Estimated_Contacts,Geography,Source_Type,Confidence_Score,Last_Verified,Research_Batch
+Anthropic Claude API,Anthropic,180000,1200000,Global,AI API Estimate,Medium,2026-05-12,11
+Cohere,Cohere,25000,180000,Global,Enterprise AI Estimate,Medium,2026-05-12,11
+Perplexity API,Perplexity,12000,85000,Global,AI Search Estimate,Low,2026-05-12,11
+Pinecone,Pinecone,35000,220000,Global,Vector Database Estimate,Medium,2026-05-12,11
+Weaviate,Weaviate,120000,620000,Global,Open Source Vector Estimate,Low,2026-05-12,11
+Milvus,Zilliz,180000,850000,Global,Vector Database Estimate,Low,2026-05-12,11
+Scale AI,Scale AI,5000,52000,Global,AI Infrastructure Estimate,Medium,2026-05-12,11
+Weights & Biases,W&B,25000,180000,Global,ML Ops Estimate,Medium,2026-05-12,11
+MLflow,Databricks,350000,1800000,Global,Open Source MLOps Estimate,Low,2026-05-12,11
+Kubeflow,Kubernetes,220000,950000,Global,Open Source MLOps Estimate,Low,2026-05-12,11
+Hightouch,Hightouch,2500,18000,Global,Reverse ETL Estimate,Medium,2026-05-12,11
+Census,Census,1500,12000,Global,Reverse ETL Estimate,Low,2026-05-12,11
+dbt,dbt Labs,350000,2200000,Global,Analytics Engineering Estimate,Medium,2026-05-12,11
+Matillion,Matillion,6000,52000,Global,Cloud ETL Estimate,Medium,2026-05-12,11
+Hevo Data,Hevo,25000,120000,Global,Data Pipeline Estimate,Medium,2026-05-12,11
+Clari,Clari,1500,22000,Global,Revenue Intelligence Estimate,Medium,2026-05-12,11
+People.ai,People.ai,1200,18000,Global,Revenue Intelligence Estimate,Low,2026-05-12,11
+Gong,Gong,4500,65000,Global,Conversation Intelligence Estimate,Medium,2026-05-12,11
+Chorus.ai,ZoomInfo,3000,32000,Global,Conversation Intelligence Estimate,Medium,2026-05-12,11
+Aviso,Aviso,900,8500,Global,Revenue AI Estimate,Low,2026-05-12,11
+Airbase,Airbase,4000,28000,Global,Spend Management Estimate,Medium,2026-05-12,11
+Ramp,Ramp,35000,180000,Global,Corporate Spend Estimate,Medium,2026-05-12,11
+Brex,Brex,30000,160000,Global,Fintech Spend Estimate,Medium,2026-05-12,11
+Tipalti,Tipalti,5000,42000,Global,AP Automation Estimate,Medium,2026-05-12,11
+Zip,Zip,2500,22000,Global,Procurement Intake Estimate,Low,2026-05-12,11
+Wiz,Wiz,7000,85000,Global,Cloud Security Estimate,Medium,2026-05-12,11
+Lacework,Fortinet,4500,38000,Global,Cloud Security Estimate,Medium,2026-05-12,11
+Orca Security,Orca Security,3000,28000,Global,Cloud Security Estimate,Medium,2026-05-12,11
+Abnormal Security,Abnormal,2800,25000,Global,Email Security Estimate,Medium,2026-05-12,11
+Darktrace,Darktrace,8500,62000,Global,AI Security Estimate,Medium,2026-05-12,11
+Klaviyo SMS,Klaviyo,85000,420000,Global,SMS Marketing Estimate,Medium,2026-05-12,11
+Recharge,Recharge,25000,120000,Global,Subscription Commerce Estimate,Medium,2026-05-12,11
+Yotpo,Yotpo,18000,85000,Global,Ecommerce Retention Estimate,Medium,2026-05-12,11
+Gorgias,Gorgias,15000,72000,Global,Ecommerce Support Estimate,Medium,2026-05-12,11
+ShipStation,Auctane,130000,520000,Global,Shipping Platform Estimate,Medium,2026-05-12,11
+Postman,Postman,500000,6200000,Global,API Platform Estimate,Medium,2026-05-12,11
+Kong Gateway,Kong,120000,620000,Global,API Gateway Estimate,Medium,2026-05-12,11
+Apigee,Google Cloud,8000,85000,Global,API Management Estimate,Medium,2026-05-12,11
+Tyk,Tyk,18000,85000,Global,Open Source API Estimate,Low,2026-05-12,11
+Hasura,Hasura,90000,420000,Global,GraphQL Platform Estimate,Low,2026-05-12,11

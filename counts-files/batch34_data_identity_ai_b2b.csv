@@ -1,0 +1,43 @@
+Technology,Primary_Vendor,Estimated_Accounts,Estimated_Contacts,Geography,Source_Type,Confidence_Score,Last_Verified,Research_Batch
+Apache Spark,Apache,4200000,18000000,Global,Big Data Processing Estimate,High,2026-05-12,34
+Kafka,Apache,1800000,8500000,Global,Streaming Platform Estimate,High,2026-05-12,34
+Confluent Cloud,Confluent,85000,620000,Global,Managed Kafka Estimate,High,2026-05-12,34
+Matillion,Matillion,18000,150000,Global,Cloud ETL Estimate,High,2026-05-12,34
+Alteryx,Alteryx,42000,320000,Global,Analytics Automation Estimate,High,2026-05-12,34
+Sitecore,Sitecore,85000,620000,Global,Digital Experience Platform Estimate,High,2026-05-12,34
+Contentful,Contentful,180000,1200000,Global,Headless CMS Estimate,High,2026-05-12,34
+Contentstack,Contentstack,18000,150000,Global,Composable CMS Estimate,High,2026-05-12,34
+Drupal,Drupal,1800000,8500000,Global,Open Source CMS Estimate,High,2026-05-12,34
+Adobe Experience Manager,Adobe,85000,620000,Global,Enterprise CMS Estimate,High,2026-05-12,34
+Ping Identity,Ping Identity,18000,150000,Global,Identity Management Estimate,High,2026-05-12,34
+CyberArk,CyberArk,12000,95000,Global,Privileged Access Estimate,High,2026-05-12,34
+Duo Security,Cisco,850000,4200000,Global,MFA Estimate,High,2026-05-12,34
+Auth0,Okta,420000,2200000,Global,Customer Identity Estimate,High,2026-05-12,34
+F5 BIG-IP,F5,180000,1200000,Global,Application Delivery Estimate,High,2026-05-12,34
+Citrix ADC,Cloud Software Group,85000,620000,Global,Load Balancing Estimate,High,2026-05-12,34
+NGINX,F5,8500000,42000000,Global,Web Server Estimate,High,2026-05-12,34
+HAProxy,HAProxy Technologies,1800000,8500000,Global,Proxy Infrastructure Estimate,High,2026-05-12,34
+Google Gemini,Google,3200000,18000000,Global,AI Productivity Estimate,High,2026-05-12,34
+Microsoft Copilot,Microsoft,1800000,8500000,Global,AI Office Estimate,High,2026-05-12,34
+Adobe Firefly,Adobe,850000,4200000,Global,Generative Design Estimate,High,2026-05-12,34
+Canva AI,Canva,1800000,8500000,Global,AI Creative Estimate,High,2026-05-12,34
+Bill.com,Bill,420000,2200000,Global,AP Automation Estimate,High,2026-05-12,34
+Brex,Brex,180000,1200000,Global,Spend Management Estimate,High,2026-05-12,34
+Ramp,Ramp,120000,850000,Global,Corporate Cards Estimate,High,2026-05-12,34
+Expensify,Expensify,850000,4200000,Global,Expense Management Estimate,High,2026-05-12,34
+PagerDuty,PagerDuty,180000,1200000,Global,Incident Response Estimate,High,2026-05-12,34
+Opsgenie,Atlassian,85000,620000,Global,Alerting Platform Estimate,High,2026-05-12,34
+Dynatrace,Dynatrace,42000,320000,Global,Application Performance Estimate,High,2026-05-12,34
+AppDynamics,Cisco,18000,150000,Global,APM Estimate,High,2026-05-12,34
+Docebo,Docebo,18000,150000,Global,Learning Platform Estimate,High,2026-05-12,34
+TalentLMS,Epignosis,85000,620000,Global,Training Platform Estimate,High,2026-05-12,34
+Lessonly,Seismic,12000,95000,Global,Sales Training Estimate,High,2026-05-12,34
+Moodle,Moodle,1800000,8500000,Global,Learning Management Estimate,High,2026-05-12,34
+Lovable,Lovable,85000,620000,Global,AI App Builder Estimate,High,2026-05-12,34
+Bubble,Bubble,850000,4200000,Global,No-code Development Estimate,High,2026-05-12,34
+Retool,Retool,180000,1200000,Global,Internal Tools Estimate,High,2026-05-12,34
+OutSystems,OutSystems,18000,150000,Global,Low-code Platform Estimate,High,2026-05-12,34
+Lusha,Lusha,850000,4200000,Global,B2B Prospecting Estimate,High,2026-05-12,34
+Clearbit,HubSpot,180000,1200000,Global,Data Enrichment Estimate,High,2026-05-12,34
+LeadIQ,LeadIQ,85000,620000,Global,Prospecting Platform Estimate,High,2026-05-12,34
+RocketReach,RocketReach,420000,2200000,Global,Contact Intelligence Estimate,High,2026-05-12,34

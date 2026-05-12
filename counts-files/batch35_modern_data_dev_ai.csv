@@ -1,0 +1,43 @@
+Technology,Primary_Vendor,Estimated_Accounts,Estimated_Contacts,Geography,Source_Type,Confidence_Score,Last_Verified,Research_Batch
+dbt Core,dbt Labs,1800000,8500000,Global,Analytics Engineering Estimate,High,2026-05-12,35
+ClickHouse,ClickHouse,850000,4200000,Global,Columnar Database Estimate,High,2026-05-12,35
+DuckDB,DuckDB Labs,1200000,6200000,Global,Embedded Analytics Estimate,High,2026-05-12,35
+Apache Airflow,Apache,2500000,12000000,Global,Workflow Orchestration Estimate,High,2026-05-12,35
+Snowplow,Snowplow,180000,1200000,Global,Behavioral Data Estimate,High,2026-05-12,35
+Postman,Postman,4200000,18000000,Global,API Platform Estimate,High,2026-05-12,35
+Insomnia,Kong,850000,4200000,Global,API Client Estimate,High,2026-05-12,35
+Swagger,SmartBear,1800000,8500000,Global,API Documentation Estimate,High,2026-05-12,35
+FastAPI,FastAPI,2500000,12000000,Global,Python API Framework Estimate,High,2026-05-12,35
+Node.js,OpenJS Foundation,18000000,85000000,Global,JavaScript Runtime Estimate,High,2026-05-12,35
+React Native,Meta,4200000,18000000,Global,Mobile Framework Estimate,High,2026-05-12,35
+Flutter,Google,3200000,15000000,Global,Cross-platform Framework Estimate,High,2026-05-12,35
+Expo,Expo,850000,4200000,Global,React Native Platform Estimate,High,2026-05-12,35
+SwiftUI,Apple,1200000,6200000,Global,iOS UI Framework Estimate,High,2026-05-12,35
+Pinecone,Pinecone,180000,1200000,Global,Vector Database Estimate,High,2026-05-12,35
+Weaviate,Weaviate,85000,620000,Global,AI Search Database Estimate,High,2026-05-12,35
+Milvus,Zilliz,420000,2200000,Global,Vector Search Estimate,High,2026-05-12,35
+Elasticsearch,Elastic,4200000,18000000,Global,Search Infrastructure Estimate,High,2026-05-12,35
+Helm,CNCF,1800000,8500000,Global,Kubernetes Packaging Estimate,High,2026-05-12,35
+Argo Workflows,CNCF,420000,2200000,Global,Cloud-native Workflow Estimate,High,2026-05-12,35
+Istio Service Mesh,CNCF,350000,1800000,Global,Service Mesh Estimate,High,2026-05-12,35
+OpenShift,Red Hat,180000,1200000,Global,Enterprise Kubernetes Estimate,High,2026-05-12,35
+Midjourney,Midjourney,1800000,8500000,Global,Generative Image Estimate,High,2026-05-12,35
+Runway,Runway,420000,2200000,Global,AI Video Estimate,High,2026-05-12,35
+Descript,Descript,850000,4200000,Global,AI Media Editing Estimate,High,2026-05-12,35
+Synthesia,Synthesia,180000,1200000,Global,AI Video Platform Estimate,High,2026-05-12,35
+FullStory,FullStory,85000,620000,Global,Digital Experience Estimate,High,2026-05-12,35
+Crazy Egg,Crazy Egg,420000,2200000,Global,Heatmap Analytics Estimate,High,2026-05-12,35
+Heap Analytics,Contentsquare,18000,150000,Global,Product Analytics Estimate,High,2026-05-12,35
+Mouseflow,Mouseflow,180000,1200000,Global,Session Replay Estimate,High,2026-05-12,35
+Grammarly,Grammarly,4200000,18000000,Global,AI Writing Estimate,High,2026-05-12,35
+Otter AI,Otter,1800000,8500000,Global,Meeting Intelligence Estimate,High,2026-05-12,35
+Read AI,Read AI,180000,1200000,Global,Meeting Analytics Estimate,High,2026-05-12,35
+Gamma,Gamma,850000,4200000,Global,AI Presentation Estimate,High,2026-05-12,35
+CircleCI,CircleCI,420000,2200000,Global,CI/CD Estimate,High,2026-05-12,35
+Travis CI,Travis CI,850000,4200000,Global,Continuous Integration Estimate,High,2026-05-12,35
+TeamCity,JetBrains,180000,1200000,Global,Build Automation Estimate,High,2026-05-12,35
+Bitrise,Bitrise,85000,620000,Global,Mobile CI/CD Estimate,High,2026-05-12,35
+Optimizely,Optimizely,85000,620000,Global,Experimentation Platform Estimate,High,2026-05-12,35
+VWO,Wingify,420000,2200000,Global,Conversion Optimization Estimate,High,2026-05-12,35
+Dynamic Yield,Mastercard,18000,150000,Global,Personalization Estimate,High,2026-05-12,35
+Ninetailed,Contentful,12000,95000,Global,Composable Personalization Estimate,High,2026-05-12,35

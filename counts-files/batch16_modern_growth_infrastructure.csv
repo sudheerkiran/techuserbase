@@ -1,0 +1,40 @@
+Technology,Primary_Vendor,Estimated_Accounts,Estimated_Contacts,Geography,Source_Type,Confidence_Score,Last_Verified,Research_Batch
+Fastly,Fastly,12000,85000,Global,CDN Estimate,Medium,2026-05-12,16
+Akamai CDN,Akamai,180000,1200000,Global,Web Infrastructure Estimate,Medium,2026-05-12,16
+CloudFront,AWS,950000,6200000,Global,Cloud CDN Estimate,Medium,2026-05-12,16
+Netlify,Netlify,450000,2200000,Global,Frontend Platform Estimate,Low,2026-05-12,16
+Vercel,Vercel,850000,4200000,Global,Frontend Cloud Estimate,Medium,2026-05-12,16
+Sentry,Sentry,250000,1200000,Global,Developer Monitoring Estimate,Medium,2026-05-12,16
+LaunchDarkly,LaunchDarkly,12000,85000,Global,Feature Flagging Estimate,Medium,2026-05-12,16
+PostHog,PostHog,180000,850000,Global,Product Analytics Estimate,Low,2026-05-12,16
+Amplitude,Amplitude,25000,180000,Global,Product Analytics Estimate,Medium,2026-05-12,16
+Mixpanel,Mixpanel,65000,420000,Global,Analytics Estimate,Medium,2026-05-12,16
+Braze SMS,Braze,1800,18000,Global,Mobile Engagement Estimate,Low,2026-05-12,16
+Leanplum,CleverTap,3500,28000,Global,Mobile Marketing Estimate,Low,2026-05-12,16
+CleverTap,CleverTap,12000,85000,Global,Retention Marketing Estimate,Medium,2026-05-12,16
+Airship,Airship,5000,32000,Global,Mobile Messaging Estimate,Medium,2026-05-12,16
+ChannelAdvisor,Rithum,18000,120000,Global,Marketplace Ops Estimate,Medium,2026-05-12,16
+Feedonomics,BigCommerce,8500,52000,Global,Commerce Feed Estimate,Medium,2026-05-12,16
+Linnworks,Linnworks,12000,72000,Global,Inventory Automation Estimate,Medium,2026-05-12,16
+ShipBob,ShipBob,25000,120000,Global,Fulfillment Estimate,Medium,2026-05-12,16
+Shippo,Shippo,180000,850000,Global,Shipping API Estimate,Medium,2026-05-12,16
+Ada,Ada,2500,22000,Global,AI Support Estimate,Low,2026-05-12,16
+Forethought,Forethought,1200,12000,Global,AI CX Estimate,Low,2026-05-12,16
+Kustomer,Meta,3500,28000,Global,CRM Support Estimate,Medium,2026-05-12,16
+Gladly,Gladly,1800,18000,Global,Customer Service Estimate,Low,2026-05-12,16
+Sentra,Sentra,600,6500,Global,DSPM Estimate,Low,2026-05-12,16
+Cyera,Cyera,1200,12000,Global,Data Security Estimate,Low,2026-05-12,16
+Normalyze,Normalyze,900,8500,Global,Cloud DSPM Estimate,Low,2026-05-12,16
+Securiti,Securiti,2500,18000,Global,Data Privacy Estimate,Medium,2026-05-12,16
+OpenTelemetry,CNCF,850000,4200000,Global,Open Source Observability Estimate,Low,2026-05-12,16
+Grafana Cloud,Grafana Labs,180000,850000,Global,Cloud Monitoring Estimate,Medium,2026-05-12,16
+Lightstep,ServiceNow,2500,18000,Global,Distributed Tracing Estimate,Low,2026-05-12,16
+Cribl,Cribl,3500,28000,Global,Telemetry Pipeline Estimate,Medium,2026-05-12,16
+MotherDuck,MotherDuck,25000,120000,Global,Cloud Analytics Estimate,Low,2026-05-12,16
+DuckDB,DuckDB Labs,650000,2800000,Global,Embedded Analytics Estimate,Low,2026-05-12,16
+StarRocks,StarRocks,45000,180000,Global,Lakehouse Estimate,Low,2026-05-12,16
+Snowplow,Snowplow,120000,620000,Global,Behavioral Data Estimate,Low,2026-05-12,16
+Chili Piper,Chili Piper,18000,95000,Global,Revenue Ops Estimate,Medium,2026-05-12,16
+Calendly,Calendly,2500000,12000000,Global,Scheduling Platform Estimate,Medium,2026-05-12,16
+HubSpot Sales Hub,HubSpot,180000,1200000,Global,Sales Platform Estimate,High,2026-05-12,16
+Outreach Engage,Outreach,5000,42000,Global,Sales Engagement Estimate,Medium,2026-05-12,16

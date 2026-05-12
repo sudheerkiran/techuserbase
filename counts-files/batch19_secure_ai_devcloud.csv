@@ -1,0 +1,40 @@
+Technology,Primary_Vendor,Estimated_Accounts,Estimated_Contacts,Geography,Source_Type,Confidence_Score,Last_Verified,Research_Batch
+Island Browser,Island,2500,18000,Global,Enterprise Browser Estimate,Low,2026-05-12,19
+Talon Security,Palo Alto Networks,1800,12000,Global,Secure Browser Estimate,Low,2026-05-12,19
+Netskope,Netskope,4500,42000,Global,SASE Estimate,Medium,2026-05-12,19
+ZPA,Zscaler,12000,85000,Global,Zero Trust Access Estimate,Medium,2026-05-12,19
+Prisma Access,Palo Alto Networks,8500,62000,Global,SASE Estimate,Medium,2026-05-12,19
+NVIDIA AI Enterprise,NVIDIA,18000,120000,Global,Enterprise AI Infrastructure Estimate,Medium,2026-05-12,19
+RunPod,RunPod,85000,420000,Global,GPU Cloud Estimate,Low,2026-05-12,19
+Modal,Modal Labs,25000,120000,Global,Serverless AI Estimate,Low,2026-05-12,19
+Replicate,Replicate,120000,620000,Global,AI Model Hosting Estimate,Low,2026-05-12,19
+Together AI,Together AI,35000,180000,Global,Open AI Infrastructure Estimate,Low,2026-05-12,19
+CockroachDB,Cockroach Labs,85000,420000,Global,Distributed Database Estimate,Medium,2026-05-12,19
+TimescaleDB,TigerData,180000,850000,Global,Time-series Database Estimate,Low,2026-05-12,19
+ScyllaDB,ScyllaDB,25000,120000,Global,High-performance Database Estimate,Low,2026-05-12,19
+Fauna,Fauna,18000,85000,Global,Serverless Database Estimate,Low,2026-05-12,19
+Nhost,Nhost,45000,180000,Global,Backend Platform Estimate,Low,2026-05-12,19
+LiveRamp,LiveRamp,18000,120000,Global,Identity Resolution Estimate,Medium,2026-05-12,19
+BlueConic,BlueConic,3500,22000,Global,Customer Data Estimate,Low,2026-05-12,19
+Tealium AudienceStream,Tealium,2500,18000,Global,Realtime CDP Estimate,Low,2026-05-12,19
+Zeta CDP,Zeta Global,1200,12000,Global,Marketing Data Estimate,Low,2026-05-12,19
+Proofpoint TAP,Proofpoint,8500,62000,Global,Threat Protection Estimate,Medium,2026-05-12,19
+Mimecast Email Security,Mimecast,42000,280000,Global,Email Security Estimate,Medium,2026-05-12,19
+Abnormal AI,Abnormal,2500,18000,Global,AI Email Security Estimate,Medium,2026-05-12,19
+Cofense,Cofense,1800,12000,Global,Phishing Defense Estimate,Low,2026-05-12,19
+Highspot,Highspot,4500,32000,Global,Sales Enablement Estimate,Medium,2026-05-12,19
+Seismic,Seismic,3500,28000,Global,Enablement Platform Estimate,Medium,2026-05-12,19
+Mindtickle,Mindtickle,1800,18000,Global,Sales Readiness Estimate,Low,2026-05-12,19
+Allego,Allego,1200,8500,Global,Revenue Enablement Estimate,Low,2026-05-12,19
+Nabla,Nabla,1800,12000,Global,Clinical AI Estimate,Low,2026-05-12,19
+Abridge,Abridge,2500,18000,Global,Medical AI Estimate,Low,2026-05-12,19
+Suki AI,Suki,1200,8500,Global,Healthcare AI Assistant Estimate,Low,2026-05-12,19
+Olive AI,Olive,3500,22000,Global,Healthcare Automation Estimate,Low,2026-05-12,19
+Render,Render,180000,850000,Global,Cloud Deployment Estimate,Low,2026-05-12,19
+Fly.io,Fly.io,85000,420000,Global,Edge Deployment Estimate,Low,2026-05-12,19
+Railway Cloud,Railway,120000,620000,Global,Developer Deployment Estimate,Low,2026-05-12,19
+Heroku,Salesforce,450000,2200000,Global,PaaS Estimate,Medium,2026-05-12,19
+Coda,Coda,85000,420000,Global,Collaborative Docs Estimate,Low,2026-05-12,19
+Slab,Slab,18000,85000,Global,Knowledge Base Estimate,Low,2026-05-12,19
+Guru,Guru,12000,62000,Global,Knowledge Management Estimate,Medium,2026-05-12,19
+ReadMe,ReadMe,25000,120000,Global,Developer Docs Estimate,Medium,2026-05-12,19

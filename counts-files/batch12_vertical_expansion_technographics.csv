@@ -1,0 +1,39 @@
+Technology,Primary_Vendor,Estimated_Accounts,Estimated_Contacts,Geography,Source_Type,Confidence_Score,Last_Verified,Research_Batch
+Epic MyChart,Epic Systems,4500,120000,Global,Patient Engagement Estimate,Medium,2026-05-12,12
+Epic Beacon,Epic Systems,1800,42000,Global,Oncology Platform Estimate,Low,2026-05-12,12
+Epic Cadence,Epic Systems,3000,85000,Global,Scheduling Platform Estimate,Medium,2026-05-12,12
+Redox,Redox,2500,18000,Global,Healthcare Interoperability Estimate,Medium,2026-05-12,12
+Innovaccer,Innovaccer,1800,22000,Global,Healthcare Data Platform Estimate,Medium,2026-05-12,12
+Komodo Health,Komodo Health,900,12000,Global,Healthcare Analytics Estimate,Low,2026-05-12,12
+Health Catalyst,Health Catalyst,1200,18000,Global,Healthcare Analytics Estimate,Medium,2026-05-12,12
+Surescripts,Surescripts,250000,950000,Global,Healthcare Network Estimate,Medium,2026-05-12,12
+Veeva Vault,Veeva,1500,22000,Global,Life Sciences Platform Estimate,Medium,2026-05-12,12
+Medidata,Dassault Systèmes,2200,32000,Global,Clinical Trials Estimate,Medium,2026-05-12,12
+LabVantage,LabVantage,1800,18000,Global,LIMS Estimate,Low,2026-05-12,12
+Benchling,Benchling,1400,22000,Global,Biotech R&D Estimate,Medium,2026-05-12,12
+Dotmatics,Insightful Science,900,12000,Global,Scientific Platform Estimate,Low,2026-05-12,12
+Tyler Technologies,Tyler Technologies,15000,120000,Global,GovTech Estimate,Medium,2026-05-12,12
+OpenGov,OpenGov,2500,18000,Global,Government ERP Estimate,Medium,2026-05-12,12
+Granicus,Granicus,6000,42000,Global,Citizen Engagement Estimate,Medium,2026-05-12,12
+Accela,Accela,4500,28000,Global,Permitting Platform Estimate,Medium,2026-05-12,12
+Check Point,Check Point,100000,850000,Global,Network Security Estimate,Medium,2026-05-12,12
+Imperva,Thales,18000,120000,Global,Application Security Estimate,Medium,2026-05-12,12
+Barracuda,Barracuda,200000,950000,Global,Email Security Estimate,Medium,2026-05-12,12
+KnowBe4,KnowBe4,65000,420000,Global,Security Awareness Estimate,Medium,2026-05-12,12
+Tanium,Tanium,3500,45000,Global,Endpoint Management Estimate,Medium,2026-05-12,12
+Varonis,Varonis,7500,62000,Global,Data Security Estimate,Medium,2026-05-12,12
+Salesforce Service Cloud,Salesforce,85000,620000,Global,Customer Service Estimate,Medium,2026-05-12,12
+Salesforce CPQ,Salesforce,18000,120000,Global,Revenue Platform Estimate,Medium,2026-05-12,12
+NetSuite SuiteCommerce,Oracle NetSuite,8500,52000,Global,Commerce ERP Estimate,Medium,2026-05-12,12
+VTEX,VTEX,2500,22000,Global,Enterprise Ecommerce Estimate,Low,2026-05-12,12
+Mirakl,Mirakl,1200,18000,Global,Marketplace Platform Estimate,Low,2026-05-12,12
+Canva Teams,Canva,3500000,12000000,Global,Design Collaboration Estimate,High,2026-05-12,12
+Figma,Figma,4000000,18000000,Global,Design Platform Estimate,High,2026-05-12,12
+Miro,Miro,250000,2200000,Global,Collaboration Estimate,Medium,2026-05-12,12
+Loom,Atlassian,180000,1200000,Global,Video Collaboration Estimate,Medium,2026-05-12,12
+Canva Enterprise,Canva,120000,850000,Global,Enterprise Design Estimate,Medium,2026-05-12,12
+Firebase,Google,3500000,22000000,Global,Developer Platform Estimate,Low,2026-05-12,12
+RevenueCat,RevenueCat,45000,180000,Global,Mobile Subscription Estimate,Medium,2026-05-12,12
+Appsflyer,AppsFlyer,12000,85000,Global,Mobile Attribution Estimate,Medium,2026-05-12,12
+Branch,Branch,18000,120000,Global,Mobile Engagement Estimate,Medium,2026-05-12,12
+OneSignal,OneSignal,950000,4200000,Global,Push Notification Estimate,Low,2026-05-12,12

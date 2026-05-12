@@ -1,0 +1,41 @@
+Technology,Primary_Vendor,Estimated_Accounts,Estimated_Contacts,Geography,Source_Type,Confidence_Score,Last_Verified,Research_Batch
+Microsoft Copilot,Microsoft,850000,6200000,Global,AI Productivity Estimate,Medium,2026-05-12,15
+GitHub Copilot,GitHub,2200000,12000000,Global,Developer AI Estimate,Medium,2026-05-12,15
+Notion AI,Notion,450000,3200000,Global,Productivity AI Estimate,Medium,2026-05-12,15
+Jasper,Jasper,120000,850000,Global,AI Content Estimate,Medium,2026-05-12,15
+Writer,Writer,25000,180000,Global,Enterprise AI Writing Estimate,Medium,2026-05-12,15
+Synthesia,Synthesia,50000,280000,Global,AI Video Estimate,Medium,2026-05-12,15
+Sigma Computing,Sigma,2500,22000,Global,Cloud BI Estimate,Low,2026-05-12,15
+Hex,Hex,1800,18000,Global,Collaborative Analytics Estimate,Low,2026-05-12,15
+ThoughtSpot,ThoughtSpot,4500,38000,Global,Search Analytics Estimate,Medium,2026-05-12,15
+Sisense,Sisense,6000,52000,Global,Embedded Analytics Estimate,Medium,2026-05-12,15
+Mode Analytics,Mode,8500,62000,Global,Analytics Platform Estimate,Medium,2026-05-12,15
+RudderStack,RudderStack,120000,620000,Global,Open Source CDP Estimate,Low,2026-05-12,15
+Treasure Data,Treasure Data,1800,18000,Global,Enterprise CDP Estimate,Low,2026-05-12,15
+Simon Data,Simon Data,1200,12000,Global,Customer Data Estimate,Low,2026-05-12,15
+ActionIQ,Uniphore,900,8500,Global,CDP Estimate,Low,2026-05-12,15
+Checkmarx,Checkmarx,18000,120000,Global,Application Security Estimate,Medium,2026-05-12,15
+Veracode,Veracode,25000,180000,Global,AppSec Estimate,Medium,2026-05-12,15
+Aqua Security,Aqua,4500,32000,Global,Container Security Estimate,Medium,2026-05-12,15
+Sysdig,Sysdig,3500,28000,Global,Cloud Security Estimate,Medium,2026-05-12,15
+Prisma Cloud,Palo Alto Networks,12000,85000,Global,Cloud Security Estimate,Medium,2026-05-12,15
+Oracle SCM Cloud,Oracle,8500,62000,Global,Supply Chain Estimate,Medium,2026-05-12,15
+Kinaxis RapidResponse,Kinaxis,1500,18000,Global,Supply Chain Planning Estimate,Low,2026-05-12,15
+E2open,E2open,5000,38000,Global,Supply Chain Network Estimate,Medium,2026-05-12,15
+QAD,QAD,4500,32000,Global,Manufacturing ERP Estimate,Medium,2026-05-12,15
+DocuSign CLM,DocuSign,25000,180000,Global,Contract Lifecycle Estimate,Medium,2026-05-12,15
+Ironclad,Ironclad,3500,22000,Global,Legal Workflow Estimate,Medium,2026-05-12,15
+Onit,Onit,1800,12000,Global,Legal Ops Estimate,Low,2026-05-12,15
+Evisort,Workday,1200,8500,Global,AI Contract Estimate,Low,2026-05-12,15
+The Trade Desk,The Trade Desk,25000,220000,Global,Advertising Platform Estimate,Medium,2026-05-12,15
+Criteo,Criteo,18000,120000,Global,Retail Advertising Estimate,Medium,2026-05-12,15
+Moloco,Moloco,8500,52000,Global,AI Advertising Estimate,Medium,2026-05-12,15
+Skai,Skai,4500,32000,Global,Retail Media Estimate,Low,2026-05-12,15
+CloudHealth,VMware,12000,85000,Global,Cloud Cost Estimate,Medium,2026-05-12,15
+Apptio,IBM,18000,120000,Global,FinOps Estimate,Medium,2026-05-12,15
+Flexera,Flexera,45000,320000,Global,IT Asset Estimate,Medium,2026-05-12,15
+Spot by NetApp,NetApp,6000,42000,Global,Cloud Optimization Estimate,Medium,2026-05-12,15
+Supabase,Supabase,450000,2200000,Global,Developer Backend Estimate,Low,2026-05-12,15
+PlanetScale,PlanetScale,35000,180000,Global,Serverless Database Estimate,Medium,2026-05-12,15
+Neon,Neon,85000,420000,Global,Serverless Postgres Estimate,Low,2026-05-12,15
+Railway,Railway,180000,850000,Global,Developer Platform Estimate,Low,2026-05-12,15

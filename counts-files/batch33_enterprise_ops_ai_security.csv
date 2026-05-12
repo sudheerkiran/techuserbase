@@ -1,0 +1,41 @@
+Technology,Primary_Vendor,Estimated_Accounts,Estimated_Contacts,Geography,Source_Type,Confidence_Score,Last_Verified,Research_Batch
+NetApp,NetApp,180000,1200000,Global,Enterprise Storage Estimate,High,2026-05-12,33
+Pure Storage,Pure Storage,18000,150000,Global,Flash Storage Estimate,High,2026-05-12,33
+Dell EMC,Dell Technologies,420000,2200000,Global,Enterprise Infrastructure Estimate,High,2026-05-12,33
+Hitachi Vantara,Hitachi,12000,95000,Global,Data Infrastructure Estimate,High,2026-05-12,33
+Sage Intacct,Sage,85000,620000,Global,Financial Management Estimate,High,2026-05-12,33
+Acumatica,Acumatica,18000,120000,Global,Cloud ERP Estimate,High,2026-05-12,33
+IFS Cloud,IFS,12000,95000,Global,Enterprise Asset Management Estimate,High,2026-05-12,33
+Infor CloudSuite,Infor,18000,150000,Global,Industry ERP Estimate,High,2026-05-12,33
+Talkdesk,Talkdesk,18000,150000,Global,Cloud Contact Center Estimate,High,2026-05-12,33
+Aircall,Aircall,85000,620000,Global,Business Calling Estimate,High,2026-05-12,33
+Vonage Business,Vonage,120000,850000,Global,Unified Communications Estimate,High,2026-05-12,33
+Twilio Flex,Twilio,18000,120000,Global,Programmable Contact Center Estimate,High,2026-05-12,33
+UiPath,UiPath,42000,380000,Global,RPA Estimate,High,2026-05-12,33
+Automation Anywhere,Automation Anywhere,18000,150000,Global,Enterprise Automation Estimate,High,2026-05-12,33
+Blue Prism,SS&C,12000,95000,Global,Robotic Process Automation Estimate,High,2026-05-12,33
+Power Automate,Microsoft,1800000,8500000,Global,Workflow Automation Estimate,High,2026-05-12,33
+Elastic Cloud,Elastic,180000,1200000,Global,Search Platform Estimate,High,2026-05-12,33
+Algolia,Algolia,120000,850000,Global,Search-as-a-Service Estimate,High,2026-05-12,33
+Lucidworks,Lucidworks,12000,95000,Global,Enterprise Search Estimate,High,2026-05-12,33
+Coveo,Coveo,18000,120000,Global,AI Search Estimate,High,2026-05-12,33
+Teradata,Teradata,12000,95000,Global,Enterprise Data Warehouse Estimate,High,2026-05-12,33
+Qlik Sense,Qlik,180000,1200000,Global,Analytics Platform Estimate,High,2026-05-12,33
+Looker,Google Cloud,85000,620000,Global,Business Intelligence Estimate,High,2026-05-12,33
+Sisense,Sisense,18000,150000,Global,Embedded Analytics Estimate,High,2026-05-12,33
+SonarQube,Sonar,1200000,6200000,Global,Code Quality Estimate,High,2026-05-12,33
+Snyk,Snyk,180000,1200000,Global,Developer Security Estimate,High,2026-05-12,33
+Checkmarx,Checkmarx,18000,150000,Global,Application Security Estimate,High,2026-05-12,33
+Veracode,Veracode,12000,95000,Global,Software Security Estimate,High,2026-05-12,33
+Akamai CDN,Akamai,850000,4200000,Global,Content Delivery Estimate,High,2026-05-12,33
+Fastly,Fastly,85000,620000,Global,Edge Cloud Estimate,High,2026-05-12,33
+Imperva,Thales,120000,850000,Global,Application Security Estimate,High,2026-05-12,33
+Sucuri,GoDaddy,420000,2200000,Global,Website Security Estimate,High,2026-05-12,33
+AppsFlyer,AppsFlyer,180000,1200000,Global,Mobile Attribution Estimate,High,2026-05-12,33
+Branch,Branch,120000,850000,Global,Mobile Linking Estimate,High,2026-05-12,33
+Firebase Analytics,Google,1800000,8500000,Global,Mobile Analytics Estimate,High,2026-05-12,33
+RevenueCat,RevenueCat,85000,620000,Global,Subscription Infrastructure Estimate,High,2026-05-12,33
+Coda AI,Coda,85000,620000,Global,AI Docs Estimate,High,2026-05-12,33
+ClickUp Brain,ClickUp,120000,850000,Global,AI Productivity Estimate,High,2026-05-12,33
+Miro AI,Miro,85000,620000,Global,AI Collaboration Estimate,High,2026-05-12,33
+Slack AI,Salesforce,180000,1200000,Global,AI Workplace Estimate,High,2026-05-12,33

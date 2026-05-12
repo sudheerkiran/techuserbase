@@ -1,0 +1,41 @@
+Technology,Primary_Vendor,Estimated_Accounts,Estimated_Contacts,Geography,Source_Type,Confidence_Score,Last_Verified,Research_Batch
+LangGraph,LangChain,120000,620000,Global,AI Agent Framework Estimate,Low,2026-05-12,18
+CrewAI,CrewAI,85000,420000,Global,AI Multi-Agent Estimate,Low,2026-05-12,18
+AutoGen,Microsoft,180000,850000,Global,Open Source Agent Estimate,Low,2026-05-12,18
+Haystack,deepset,45000,180000,Global,RAG Framework Estimate,Low,2026-05-12,18
+LlamaIndex,LlamaIndex,220000,1200000,Global,AI Retrieval Estimate,Low,2026-05-12,18
+Qdrant,Qdrant,85000,420000,Global,Vector Database Estimate,Low,2026-05-12,18
+ChromaDB,Chroma,180000,850000,Global,Open Source Vector Estimate,Low,2026-05-12,18
+Redis Vector Search,Redis,120000,620000,Global,AI Search Estimate,Low,2026-05-12,18
+OpenSearch,OpenSearch,650000,3200000,Global,Search Infrastructure Estimate,Low,2026-05-12,18
+Neo4j,Neo4j,180000,950000,Global,Graph Database Estimate,Medium,2026-05-12,18
+Cursor,Anysphere,350000,1800000,Global,AI Coding Assistant Estimate,Medium,2026-05-12,18
+Codeium,Windsurf,250000,1200000,Global,AI Coding Estimate,Medium,2026-05-12,18
+Tabnine,Tabnine,120000,620000,Global,AI Dev Productivity Estimate,Medium,2026-05-12,18
+Sourcegraph Cody,Sourcegraph,45000,220000,Global,Code Intelligence Estimate,Medium,2026-05-12,18
+Continue.dev,Continue,85000,420000,Global,Open Source AI Coding Estimate,Low,2026-05-12,18
+Kubecost,Kubecost,180000,850000,Global,Kubernetes FinOps Estimate,Low,2026-05-12,18
+Harness,Harness,12000,85000,Global,DevOps Platform Estimate,Medium,2026-05-12,18
+Cast AI,Cast AI,3500,22000,Global,Cloud Optimization Estimate,Low,2026-05-12,18
+Finout,Finout,1800,12000,Global,FinOps Platform Estimate,Low,2026-05-12,18
+Tailscale,Tailscale,450000,2200000,Global,Zero Trust Networking Estimate,Medium,2026-05-12,18
+Teleport,Teleport,85000,420000,Global,Infrastructure Access Estimate,Low,2026-05-12,18
+StrongDM,StrongDM,12000,62000,Global,Infrastructure Identity Estimate,Medium,2026-05-12,18
+Drata,Drata,18000,95000,Global,Compliance Automation Estimate,Medium,2026-05-12,18
+Vanta,Vanta,35000,180000,Global,Security Compliance Estimate,Medium,2026-05-12,18
+Pendo,Pendo,12000,85000,Global,Product Experience Estimate,Medium,2026-05-12,18
+Heap,Contentsquare,18000,120000,Global,Digital Analytics Estimate,Medium,2026-05-12,18
+LogRocket,LogRocket,85000,420000,Global,Frontend Monitoring Estimate,Low,2026-05-12,18
+Hotjar,Hotjar,1200000,5200000,Global,UX Analytics Estimate,Low,2026-05-12,18
+Moveworks,Moveworks,1800,18000,Global,Enterprise AI Assistant Estimate,Medium,2026-05-12,18
+Kore.ai,Kore.ai,3500,22000,Global,Conversational AI Estimate,Medium,2026-05-12,18
+Writer AI Studio,Writer,5000,32000,Global,Enterprise GenAI Estimate,Medium,2026-05-12,18
+Harvey AI,Harvey,1200,12000,Global,Legal AI Estimate,Low,2026-05-12,18
+Ordergroove,Ordergroove,1800,12000,Global,Subscription Commerce Estimate,Low,2026-05-12,18
+Bold Commerce,Bold,8500,52000,Global,Checkout Infrastructure Estimate,Medium,2026-05-12,18
+Rokt,Rokt,5000,32000,Global,Ecommerce Monetization Estimate,Medium,2026-05-12,18
+Constructor,Constructor,2500,18000,Global,AI Search Commerce Estimate,Low,2026-05-12,18
+Humanitec,Humanitec,1200,8500,Global,Platform Orchestration Estimate,Low,2026-05-12,18
+Port,Port,3500,22000,Global,Developer Portal Estimate,Low,2026-05-12,18
+Qovery,Qovery,18000,85000,Global,Platform Engineering Estimate,Low,2026-05-12,18
+Env0,env0,5000,32000,Global,Infrastructure Automation Estimate,Medium,2026-05-12,18

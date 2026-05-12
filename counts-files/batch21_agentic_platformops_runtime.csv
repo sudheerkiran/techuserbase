@@ -1,0 +1,41 @@
+Technology,Primary_Vendor,Estimated_Accounts,Estimated_Contacts,Geography,Source_Type,Confidence_Score,Last_Verified,Research_Batch
+CrewAI Enterprise,CrewAI,12000,62000,Global,Agentic AI Estimate,Medium,2026-05-12,21
+LangSmith,LangChain,85000,420000,Global,LLM Observability Estimate,Low,2026-05-12,21
+AgentOps,AgentOps,25000,120000,Global,AI Agent Monitoring Estimate,Low,2026-05-12,21
+Dust,Dust,1800,12000,Global,Enterprise AI Workspace Estimate,Low,2026-05-12,21
+Relevance AI,Relevance AI,35000,180000,Global,AI Workflow Estimate,Low,2026-05-12,21
+Lakera,Lakera,2500,18000,Global,AI Security Estimate,Low,2026-05-12,21
+Protect AI,Protect AI,1800,12000,Global,ML Security Estimate,Low,2026-05-12,21
+HiddenLayer,HiddenLayer,1200,8500,Global,AI Threat Defense Estimate,Low,2026-05-12,21
+CalypsoAI,CalypsoAI,900,6500,Global,AI Governance Estimate,Low,2026-05-12,21
+Robust Intelligence,Cisco,1800,12000,Global,AI Validation Estimate,Low,2026-05-12,21
+Kafka Connect,Apache,450000,2200000,Global,Streaming Connectors Estimate,Low,2026-05-12,21
+Debezium,Red Hat,180000,850000,Global,CDC Infrastructure Estimate,Low,2026-05-12,21
+Apache Flink,Apache,250000,1200000,Global,Stream Processing Estimate,Low,2026-05-12,21
+Materialize,Materialize,18000,85000,Global,Streaming Database Estimate,Low,2026-05-12,21
+RisingWave,RisingWave,12000,62000,Global,Realtime Analytics Estimate,Low,2026-05-12,21
+OpsLevel,OpsLevel,3500,22000,Global,Internal Developer Platform Estimate,Low,2026-05-12,21
+Cortex,Cortex,2500,18000,Global,Developer Portal Estimate,Low,2026-05-12,21
+Roadie,Roadie,1800,12000,Global,Backstage Platform Estimate,Low,2026-05-12,21
+Portainer,Portainer,120000,620000,Global,Container Management Estimate,Medium,2026-05-12,21
+Rancher,SUSE,180000,850000,Global,Kubernetes Management Estimate,Low,2026-05-12,21
+Userpilot,Userpilot,18000,85000,Global,PLG Adoption Estimate,Medium,2026-05-12,21
+Appcues,Appcues,12000,62000,Global,User Onboarding Estimate,Medium,2026-05-12,21
+WalkMe,WalkMe,4500,32000,Global,Digital Adoption Estimate,Medium,2026-05-12,21
+Pecan AI,Pecan,1200,8500,Global,Predictive Analytics Estimate,Low,2026-05-12,21
+YugabyteDB,Yugabyte,45000,220000,Global,Distributed SQL Estimate,Low,2026-05-12,21
+TiDB,PingCAP,120000,620000,Global,Cloud Native Database Estimate,Low,2026-05-12,21
+QuestDB,QuestDB,35000,180000,Global,Time-series DB Estimate,Low,2026-05-12,21
+InfluxDB,InfluxData,850000,4200000,Global,Time-series Infrastructure Estimate,Low,2026-05-12,21
+Pinecone Assistant,Pinecone,12000,62000,Global,Knowledge AI Estimate,Low,2026-05-12,21
+GraphRAG,Microsoft,180000,850000,Global,Graph Retrieval Estimate,Low,2026-05-12,21
+Stardog,Stardog,1800,12000,Global,Knowledge Graph Estimate,Low,2026-05-12,21
+DataHub,Acryl,85000,420000,Global,Metadata Platform Estimate,Low,2026-05-12,21
+Modern Treasury,Modern Treasury,5000,32000,Global,Payment Ops Estimate,Medium,2026-05-12,21
+Airwallex,Airwallex,45000,220000,Global,Global Payments Estimate,Medium,2026-05-12,21
+Mercury,Mercury,180000,850000,Global,Startup Banking Estimate,Medium,2026-05-12,21
+Wise Platform,Wise,18000,95000,Global,Cross-border Payments Estimate,Medium,2026-05-12,21
+Falco,CNCF,180000,850000,Global,Runtime Security Estimate,Low,2026-05-12,21
+Tetragon,Isovalent,35000,180000,Global,eBPF Security Estimate,Low,2026-05-12,21
+Cilium,Isovalent,250000,1200000,Global,Cloud Networking Estimate,Low,2026-05-12,21
+StackRox,Red Hat,12000,62000,Global,Kubernetes Security Estimate,Medium,2026-05-12,21

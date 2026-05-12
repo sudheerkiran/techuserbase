@@ -1,0 +1,39 @@
+Technology,Primary_Vendor,Estimated_Accounts,Estimated_Contacts,Geography,Source_Type,Confidence_Score,Last_Verified,Research_Batch
+Splunk Observability,Cisco,12000,95000,Global,Observability Estimate,Medium,2026-05-12,14
+Honeycomb,Honeycomb,2500,18000,Global,Observability Estimate,Low,2026-05-12,14
+Chronosphere,Chronosphere,1200,12000,Global,Cloud Native Monitoring Estimate,Low,2026-05-12,14
+Coralogix,Coralogix,3500,28000,Global,Logging Platform Estimate,Medium,2026-05-12,14
+PagerTree,PagerTree,1800,8500,Global,Incident Ops Estimate,Low,2026-05-12,14
+Opsgenie,Atlassian,18000,120000,Global,Incident Management Estimate,Medium,2026-05-12,14
+CyberArk PAM,CyberArk,7000,62000,Global,Privileged Access Estimate,Medium,2026-05-12,14
+BeyondTrust,BeyondTrust,8500,72000,Global,Identity Security Estimate,Medium,2026-05-12,14
+Saviynt,Saviynt,2500,22000,Global,Identity Governance Estimate,Low,2026-05-12,14
+Keeper Security,Keeper,180000,850000,Global,Password Management Estimate,Medium,2026-05-12,14
+1Password Business,1Password,150000,720000,Global,Password Platform Estimate,Medium,2026-05-12,14
+Bitwarden,Bitwarden,950000,4200000,Global,Open Source Security Estimate,Low,2026-05-12,14
+OpenShift,Red Hat,40000,320000,Global,Enterprise Kubernetes Estimate,Medium,2026-05-12,14
+Cloud Foundry,Cloud Foundry Foundation,60000,420000,Global,PaaS Estimate,Low,2026-05-12,14
+HashiCorp Vault,HashiCorp,220000,1200000,Global,Secrets Management Estimate,Medium,2026-05-12,14
+Consul,HashiCorp,180000,950000,Global,Service Networking Estimate,Low,2026-05-12,14
+Pulumi,Pulumi,45000,220000,Global,Infrastructure as Code Estimate,Medium,2026-05-12,14
+Crossplane,CNCF,85000,380000,Global,Platform Engineering Estimate,Low,2026-05-12,14
+Apache Kafka,Open Source,2500000,12000000,Global,Streaming Infrastructure Estimate,Low,2026-05-12,14
+Confluent,Confluent,50000,420000,Global,Streaming Platform Estimate,Medium,2026-05-12,14
+RabbitMQ,VMware,850000,4200000,Global,Messaging Platform Estimate,Low,2026-05-12,14
+Apache Pulsar,StreamNative,120000,620000,Global,Event Streaming Estimate,Low,2026-05-12,14
+Redpanda,Redpanda,18000,85000,Global,Streaming Infrastructure Estimate,Low,2026-05-12,14
+Nosto,Nosto,2500,18000,Global,Commerce Personalization Estimate,Low,2026-05-12,14
+Searchspring,Searchspring,4500,32000,Global,Ecommerce Search Estimate,Low,2026-05-12,14
+CommerceTools,CommerceTools,1800,18000,Global,Headless Commerce Estimate,Medium,2026-05-12,14
+Fabric,Fabric,1200,12000,Global,Composable Commerce Estimate,Low,2026-05-12,14
+Contentstack,Contentstack,3500,22000,Global,Headless CMS Estimate,Medium,2026-05-12,14
+Degreed,Degreed,2500,22000,Global,Learning Experience Estimate,Low,2026-05-12,14
+Eightfold AI,Eightfold,1800,18000,Global,Talent Intelligence Estimate,Medium,2026-05-12,14
+SeekOut,SeekOut,4500,32000,Global,Talent Intelligence Estimate,Medium,2026-05-12,14
+Lattice,Lattice,15000,85000,Global,People Management Estimate,Medium,2026-05-12,14
+Culture Amp,Culture Amp,7500,52000,Global,Employee Experience Estimate,Medium,2026-05-12,14
+Apollo Sales Intelligence,Apollo,600000,3200000,Global,Prospecting Estimate,Medium,2026-05-12,14
+LeadIQ,LeadIQ,25000,120000,Global,Sales Prospecting Estimate,Medium,2026-05-12,14
+Cognism,Cognism,18000,95000,Global,B2B Data Estimate,Medium,2026-05-12,14
+Lusha,Lusha,350000,1800000,Global,Contact Intelligence Estimate,Medium,2026-05-12,14
+Seamless.AI,Seamless.AI,220000,1200000,Global,Prospecting Estimate,Low,2026-05-12,14
