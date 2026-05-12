@@ -1,0 +1,105 @@
+{
+  "ERP, Finance & Accounting": [
+    "Core ERP",
+    "Accounting & SMB Finance",
+    "Financial Management Suites",
+    "ERP (Popular Additions)",
+    "Billing & Subscription Management",
+    "Regional & Mid-Market ERP"
+  ],
+  "CRM & Sales Stack": [
+    "Enterprise CRM",
+    "Mid-market & Niche CRM",
+    "Sales Cloud & CPQ",
+    "CRM (Popular Additions)",
+    "Sales Engagement & RevOps Platforms",
+    "CRM (Additional Popular)",
+    "Sales Intelligence & Data Providers"
+  ],
+  "Marketing Automation, CX & Commerce": [
+    "Marketing Automation",
+    "E-commerce Platforms",
+    "Marketing Automation (Popular Additions)",
+    "E-commerce & SaaS Commerce (Popular Additions)",
+    "Retail & POS Platforms",
+    "Customer Engagement & Messaging Platforms",
+    "Email & Lifecycle Marketing Platforms",
+    "Web & Product Experience",
+    "E-commerce Platforms (Additional)"
+  ],
+  "HR, HCM, HRMS & Workforce": [
+    "HRMS Suites",
+    "HR Point Solutions",
+    "Payroll & Workforce",
+    "HR & HCM (Popular Additions)",
+    "People Ops & Engagement Platforms",
+    "Applicant Tracking & Recruiting",
+    "Scheduling & Workforce Management"
+  ],
+  "Cloud Infrastructure & IaaS/PaaS": [
+    "Hyperscaler Platforms",
+    "AWS Services",
+    "Other Cloud Infra"
+  ],
+  "Data, BI, Big Data & Analytics": [
+    "BI & Analytics",
+    "Big Data & Platforms",
+    "Integration & ETL",
+    "Cloud Data Warehouses",
+    "Customer Data & Analytics Platforms",
+    "BI & Analytics (Popular Additions)",
+    "Product Analytics & Experimentation",
+    "Reverse ETL & Modern Data Stack",
+    "Data Orchestration & Workflow",
+    "Customer Data Platforms (CDP)",
+    "Digital Analytics & Tag Management"
+  ],
+  "Databases & Data Management": [
+    "Relational DBMS",
+    "NoSQL & New-gen",
+    "Mainframe & Legacy Data"
+  ],
+  "Cybersecurity, Network & Infrastructure Management": [
+    "Security Software",
+    "Network & Systems Management",
+    "Cybersecurity Platforms (Popular Additions)",
+    "Identity, SSO & Zero Trust",
+    "Cloud Security & DSPM",
+    "AppSec & DevSecOps",
+    "Email Security & Phishing Protection",
+    "Endpoint & XDR (Additional)"
+  ],
+  "Collaboration, UC & Productivity": [
+    "Collaboration & UC",
+    "Conferencing & Contact Center",
+    "Office & Productivity Suites",
+    "Collaboration & Productivity (Popular Additions)",
+    "Online Collaboration Tools (Popular Additions)",
+    "Project & Work Management Platforms",
+    "Trending SaaS Productivity Tools",
+    "Meetings & Web Conferencing",
+    "Team Chat & Communities"
+  ],
+  "Industry & Line-of-Business Applications": [
+    "Healthcare IT",
+    "GIS & Spatial",
+    "CAD, Design & 3D",
+    "Supply Chain & Logistics",
+    "Vertical SaaS (Selected)"
+  ],
+  "Middleware, Integration & Developer Stack": [
+    "Middleware & Integration",
+    "Dev Platforms & Frameworks",
+    "Monitoring & ITSM",
+    "ITSM & Helpdesk (Popular Additions)",
+    "DevOps & Cloud Management",
+    "iPaaS & Integration Platforms",
+    "AI Developer Productivity Tools",
+    "Monitoring, APM & Logging",
+    "Feature Flags & Release Management"
+  ],
+  "Emerging & Meta Categories": [
+    "Emerging Technologies",
+    "AI & ML Platforms"
+  ]
+}

@@ -1,0 +1,72 @@
+@import "tailwindcss";
+
+@theme {
+  --color-background: hsl(0 0% 3%);
+  --color-foreground: hsl(0 0% 98%);
+  --color-card: hsl(0 0% 7%);
+  --color-card-foreground: hsl(0 0% 98%);
+  --color-popover: hsl(0 0% 7%);
+  --color-popover-foreground: hsl(0 0% 98%);
+  --color-primary: hsl(217 91% 60%);
+  --color-primary-foreground: hsl(0 0% 100%);
+  --color-secondary: hsl(240 5% 15%);
+  --color-secondary-foreground: hsl(0 0% 98%);
+  --color-muted: hsl(240 5% 15%);
+  --color-muted-foreground: hsl(240 5% 65%);
+  --color-accent: hsl(217 91% 60%);
+  --color-accent-foreground: hsl(0 0% 98%);
+  --color-destructive: hsl(0 62% 30%);
+  --color-destructive-foreground: hsl(0 0% 98%);
+  --color-border: hsl(240 5% 15%);
+  --color-input: hsl(240 5% 15%);
+  --color-ring: hsl(217 91% 60%);
+  
+  --radius-xl: 0.75rem;
+  --radius-2xl: 1rem;
+  --radius-3xl: 1.5rem;
+
+  --animate-glow: glow 4s ease-in-out infinite alternate;
+
+  @keyframes glow {
+    from {
+      box-shadow: 0 0 20px -10px rgba(59, 130, 246, 0.3);
+    }
+    to {
+      box-shadow: 0 0 30px 0px rgba(59, 130, 246, 0.5);
+    }
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+  body {
+    @apply bg-background text-foreground antialiased;
+    font-feature-settings: "rlig" 1, "calt" 1;
+  }
+}
+
+@layer components {
+  .bento-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 1.5rem;
+  }
+
+  .bento-card {
+    @apply relative overflow-hidden rounded-3xl border border-white/10 bg-white/[0.03] p-8 backdrop-blur-sm transition-all duration-500 hover:bg-white/[0.06] hover:shadow-2xl hover:shadow-primary/20;
+  }
+
+  .glass-panel {
+    @apply rounded-3xl border border-white/10 bg-white/[0.02] backdrop-blur-md;
+  }
+
+  .hero-gradient {
+    background: radial-gradient(circle at 50% 50%, rgba(59, 130, 246, 0.1) 0%, transparent 70%);
+  }
+  
+  .text-gradient {
+    @apply bg-gradient-to-br from-white via-white to-white/40 bg-clip-text text-transparent;
+  }
+}

@@ -1,0 +1,440 @@
+Category,Sub-Category,Product
+"ERP, Finance & Accounting",Core ERP,SAP ERP
+"ERP, Finance & Accounting",Core ERP,SAP ECC
+"ERP, Finance & Accounting",Core ERP,SAP R/3
+"ERP, Finance & Accounting",Core ERP,SAP Business One
+"ERP, Finance & Accounting",Core ERP,Oracle ERP
+"ERP, Finance & Accounting",Core ERP,JD Edwards
+"ERP, Finance & Accounting",Core ERP,Epicor ERP
+"ERP, Finance & Accounting",Core ERP,Sage ERP
+"ERP, Finance & Accounting",Core ERP,Infor ERP
+"ERP, Finance & Accounting",Core ERP,Microsoft Dynamics 365 ERP
+"ERP, Finance & Accounting",Core ERP,Microsoft Dynamics AX
+"ERP, Finance & Accounting",Core ERP,Microsoft Dynamics NAV
+"ERP, Finance & Accounting",Accounting & SMB Finance,QuickBooks
+"ERP, Finance & Accounting",Accounting & SMB Finance,QuickBooks Online
+"ERP, Finance & Accounting",Accounting & SMB Finance,QuickBooks Payments
+"ERP, Finance & Accounting",Accounting & SMB Finance,Xero
+"ERP, Finance & Accounting",Accounting & SMB Finance,FreshBooks
+"ERP, Finance & Accounting",Accounting & SMB Finance,Sage Intacct
+"ERP, Finance & Accounting",Accounting & SMB Finance,Sage Peachtree Quantum
+"ERP, Finance & Accounting",Financial Management Suites,NetSuite
+"ERP, Finance & Accounting",Financial Management Suites,BlackLine
+CRM & Sales Stack,Enterprise CRM,Salesforce CRM
+CRM & Sales Stack,Enterprise CRM,Microsoft Dynamics CRM
+CRM & Sales Stack,Enterprise CRM,Oracle CRM
+CRM & Sales Stack,Enterprise CRM,SAP CRM
+CRM & Sales Stack,Enterprise CRM,Siebel CRM
+CRM & Sales Stack,Enterprise CRM,PeopleSoft CRM
+CRM & Sales Stack,Enterprise CRM,Amdocs CRM
+CRM & Sales Stack,Enterprise CRM,NetSuite CRM
+CRM & Sales Stack,Enterprise CRM,Workbooks CRM
+CRM & Sales Stack,Enterprise CRM,Onyx CRM
+CRM & Sales Stack,Mid-market & Niche CRM,Zoho CRM
+CRM & Sales Stack,Mid-market & Niche CRM,SugarCRM
+CRM & Sales Stack,Mid-market & Niche CRM,GoldMine CRM
+CRM & Sales Stack,Mid-market & Niche CRM,ACT CRM
+CRM & Sales Stack,Mid-market & Niche CRM,OnContact CRM
+CRM & Sales Stack,Mid-market & Niche CRM,HubSpot CRM
+CRM & Sales Stack,Mid-market & Niche CRM,Pivotal CRM
+CRM & Sales Stack,Mid-market & Niche CRM,SalesNexus CRM
+CRM & Sales Stack,Mid-market & Niche CRM,Prophet CRM
+CRM & Sales Stack,Mid-market & Niche CRM,TeamWox CRM
+CRM & Sales Stack,Mid-market & Niche CRM,Insightly CRM
+CRM & Sales Stack,Sales Cloud & CPQ,Salesforce Sales Cloud
+CRM & Sales Stack,Sales Cloud & CPQ,Salesforce CPQ
+CRM & Sales Stack,Sales Cloud & CPQ,Salesforce Pardot
+CRM & Sales Stack,Sales Cloud & CPQ,Salesforce Heroku
+"Marketing Automation, CX & Commerce",Marketing Automation,Marketo
+"Marketing Automation, CX & Commerce",Marketing Automation,Eloqua
+"Marketing Automation, CX & Commerce",Marketing Automation,Salesforce Marketing Cloud
+"Marketing Automation, CX & Commerce",Marketing Automation,HubSpot Marketing Hub
+"Marketing Automation, CX & Commerce",Marketing Automation,Drift
+"Marketing Automation, CX & Commerce",E-commerce Platforms,Shopify
+"Marketing Automation, CX & Commerce",E-commerce Platforms,Magento
+"Marketing Automation, CX & Commerce",E-commerce Platforms,WooCommerce
+"Marketing Automation, CX & Commerce",E-commerce Platforms,Stripe
+"Marketing Automation, CX & Commerce",E-commerce Platforms,PayPal
+"HR, HCM, HRMS & Workforce",HRMS Suites,SAP SuccessFactors
+"HR, HCM, HRMS & Workforce",HRMS Suites,Workday
+"HR, HCM, HRMS & Workforce",HRMS Suites,Infor HCM
+"HR, HCM, HRMS & Workforce",HR Point Solutions,BambooHR
+"HR, HCM, HRMS & Workforce",HR Point Solutions,Kronos
+"HR, HCM, HRMS & Workforce",Payroll & Workforce,ADP
+Cloud Infrastructure & IaaS/PaaS,Hyperscaler Platforms,AWS
+Cloud Infrastructure & IaaS/PaaS,Hyperscaler Platforms,Microsoft Azure
+Cloud Infrastructure & IaaS/PaaS,Hyperscaler Platforms,Google Cloud
+Cloud Infrastructure & IaaS/PaaS,AWS Services,Amazon EC2
+Cloud Infrastructure & IaaS/PaaS,AWS Services,Amazon S3
+Cloud Infrastructure & IaaS/PaaS,AWS Services,Amazon RDS
+Cloud Infrastructure & IaaS/PaaS,AWS Services,Amazon Redshift
+Cloud Infrastructure & IaaS/PaaS,AWS Services,Amazon ElastiCache
+Cloud Infrastructure & IaaS/PaaS,AWS Services,Amazon Glacier
+Cloud Infrastructure & IaaS/PaaS,AWS Services,Amazon Elastic Beanstalk
+Cloud Infrastructure & IaaS/PaaS,AWS Services,Amazon Elastic Load Balancing
+Cloud Infrastructure & IaaS/PaaS,AWS Services,Amazon SimpleDB
+Cloud Infrastructure & IaaS/PaaS,Other Cloud Infra,Oracle Cloud
+Cloud Infrastructure & IaaS/PaaS,Other Cloud Infra,Microsoft RDS
+Cloud Infrastructure & IaaS/PaaS,Other Cloud Infra,Operating Systems
+Cloud Infrastructure & IaaS/PaaS,Other Cloud Infra,Virtualization Software
+"Data, BI, Big Data & Analytics",BI & Analytics,Microsoft Power BI
+"Data, BI, Big Data & Analytics",BI & Analytics,QlikView
+"Data, BI, Big Data & Analytics",BI & Analytics,IBM SPSS
+"Data, BI, Big Data & Analytics",BI & Analytics,SAP BusinessObjects BI
+"Data, BI, Big Data & Analytics",BI & Analytics,SAP Crystal Server
+"Data, BI, Big Data & Analytics",Big Data & Platforms,Hadoop
+"Data, BI, Big Data & Analytics",Big Data & Platforms,Apache Spark
+"Data, BI, Big Data & Analytics",Integration & ETL,Informatica
+Databases & Data Management,Relational DBMS,Microsoft SQL Server
+Databases & Data Management,Relational DBMS,IBM DB2 (DBMS)
+Databases & Data Management,Relational DBMS,Oracle Database
+Databases & Data Management,Relational DBMS,Sybase DBMS
+Databases & Data Management,Relational DBMS,SAP Sybase ASE
+Databases & Data Management,Relational DBMS,Microsoft Access
+Databases & Data Management,NoSQL & New-gen,MongoDB
+Databases & Data Management,Mainframe & Legacy Data,IBM Mainframe
+Databases & Data Management,Mainframe & Legacy Data,AS/400 & iSeries
+"Cybersecurity, Network & Infrastructure Management",Security Software,Websense
+"Cybersecurity, Network & Infrastructure Management",Security Software,McAfee
+"Cybersecurity, Network & Infrastructure Management",Security Software,Symantec
+"Cybersecurity, Network & Infrastructure Management",Security Software,Tenable
+"Cybersecurity, Network & Infrastructure Management",Security Software,Veracode
+"Cybersecurity, Network & Infrastructure Management",Security Software,Network Security Software
+"Cybersecurity, Network & Infrastructure Management",Network & Systems Management,Cisco
+"Cybersecurity, Network & Infrastructure Management",Network & Systems Management,NetApp
+"Cybersecurity, Network & Infrastructure Management",Network & Systems Management,SolarWinds MSP
+"Cybersecurity, Network & Infrastructure Management",Network & Systems Management,IBM Tivoli
+"Cybersecurity, Network & Infrastructure Management",Network & Systems Management,Microsoft SCCM
+"Collaboration, UC & Productivity",Collaboration & UC,Microsoft SharePoint
+"Collaboration, UC & Productivity",Collaboration & UC,Slack
+"Collaboration, UC & Productivity",Collaboration & UC,Cisco Acano
+"Collaboration, UC & Productivity",Collaboration & UC,Mitel
+"Collaboration, UC & Productivity",Collaboration & UC,InterCall
+"Collaboration, UC & Productivity",Conferencing & Contact Center,Genesys
+"Collaboration, UC & Productivity",Conferencing & Contact Center,Avaya
+"Collaboration, UC & Productivity",Conferencing & Contact Center,Polycom
+"Collaboration, UC & Productivity",Conferencing & Contact Center,Customer Service Management Software
+"Collaboration, UC & Productivity",Office & Productivity Suites,Microsoft
+"Collaboration, UC & Productivity",Office & Productivity Suites,Adobe
+"Collaboration, UC & Productivity",Office & Productivity Suites,HP
+Industry & Line-of-Business Applications,Healthcare IT,Electronic Health Records Software
+Industry & Line-of-Business Applications,Healthcare IT,Athenahealth
+Industry & Line-of-Business Applications,GIS & Spatial,Esri
+Industry & Line-of-Business Applications,GIS & Spatial,GIS Software
+Industry & Line-of-Business Applications,"CAD, Design & 3D",AutoCAD
+Industry & Line-of-Business Applications,"CAD, Design & 3D",Autodesk Civil 3D
+Industry & Line-of-Business Applications,"CAD, Design & 3D",Autodesk Revit
+Industry & Line-of-Business Applications,"CAD, Design & 3D",CAD Software
+Industry & Line-of-Business Applications,"CAD, Design & 3D",3D Software
+Industry & Line-of-Business Applications,Supply Chain & Logistics,Supply Chain Management Software
+"Middleware, Integration & Developer Stack",Middleware & Integration,Oracle Fusion Middleware
+"Middleware, Integration & Developer Stack",Middleware & Integration,IBM Gentran
+"Middleware, Integration & Developer Stack",Middleware & Integration,Middleware Software
+"Middleware, Integration & Developer Stack",Dev Platforms & Frameworks,Java
+"Middleware, Integration & Developer Stack",Dev Platforms & Frameworks,.NET
+"Middleware, Integration & Developer Stack",Dev Platforms & Frameworks,Apache
+"Middleware, Integration & Developer Stack",Monitoring & ITSM,ServiceNow
+"Middleware, Integration & Developer Stack",Monitoring & ITSM,CA Nimsoft
+Emerging & Meta Categories,Emerging Technologies,Artificial Intelligence Software
+Emerging & Meta Categories,Emerging Technologies,IoT Platforms
+CRM & Sales Stack,CRM (Popular Additions),Pipedrive
+CRM & Sales Stack,CRM (Popular Additions),Freshsales
+CRM & Sales Stack,CRM (Popular Additions),Apptivo
+CRM & Sales Stack,CRM (Popular Additions),Nimble CRM
+CRM & Sales Stack,CRM (Popular Additions),Agile CRM
+CRM & Sales Stack,CRM (Popular Additions),monday.com CRM
+CRM & Sales Stack,CRM (Popular Additions),Zendesk Sell
+CRM & Sales Stack,CRM (Popular Additions),Insightly
+CRM & Sales Stack,CRM (Popular Additions),Close CRM
+"ERP, Finance & Accounting",ERP (Popular Additions),SAP S/4HANA
+"ERP, Finance & Accounting",ERP (Popular Additions),Oracle NetSuite
+"ERP, Finance & Accounting",ERP (Popular Additions),Acumatica Cloud ERP
+"ERP, Finance & Accounting",ERP (Popular Additions),IFS Cloud
+"ERP, Finance & Accounting",ERP (Popular Additions),Sage X3
+"ERP, Finance & Accounting",ERP (Popular Additions),DELMIAWorks
+"ERP, Finance & Accounting",ERP (Popular Additions),Odoo ERP
+"ERP, Finance & Accounting",ERP (Popular Additions),Tally ERP
+"ERP, Finance & Accounting",ERP (Popular Additions),Zoho ERP
+"Marketing Automation, CX & Commerce",Marketing Automation (Popular Additions),ActiveCampaign
+"Marketing Automation, CX & Commerce",Marketing Automation (Popular Additions),Klaviyo
+"Marketing Automation, CX & Commerce",Marketing Automation (Popular Additions),Omnisend
+"Marketing Automation, CX & Commerce",Marketing Automation (Popular Additions),Customer.io
+"Marketing Automation, CX & Commerce",Marketing Automation (Popular Additions),Beehiiv
+"Marketing Automation, CX & Commerce",Marketing Automation (Popular Additions),Mailchimp
+"Marketing Automation, CX & Commerce",Marketing Automation (Popular Additions),Iterable
+"Marketing Automation, CX & Commerce",Marketing Automation (Popular Additions),Customer.io
+"Marketing Automation, CX & Commerce",Marketing Automation (Popular Additions),Braze
+"Marketing Automation, CX & Commerce",E-commerce & SaaS Commerce (Popular Additions),BigCommerce
+"Marketing Automation, CX & Commerce",E-commerce & SaaS Commerce (Popular Additions),Squarespace Commerce
+"Marketing Automation, CX & Commerce",E-commerce & SaaS Commerce (Popular Additions),Wix eCommerce
+"Marketing Automation, CX & Commerce",E-commerce & SaaS Commerce (Popular Additions),Shopify Plus
+"Collaboration, UC & Productivity",Collaboration & Productivity (Popular Additions),Google Workspace
+"Collaboration, UC & Productivity",Collaboration & Productivity (Popular Additions),Zoom
+"Collaboration, UC & Productivity",Collaboration & Productivity (Popular Additions),Microsoft Teams
+"Collaboration, UC & Productivity",Collaboration & Productivity (Popular Additions),Notion
+"Collaboration, UC & Productivity",Collaboration & Productivity (Popular Additions),Asana
+"Collaboration, UC & Productivity",Collaboration & Productivity (Popular Additions),Trello
+"Collaboration, UC & Productivity",Collaboration & Productivity (Popular Additions),Monday.com Work Management
+"Data, BI, Big Data & Analytics",Cloud Data Warehouses,Snowflake
+"Data, BI, Big Data & Analytics",Cloud Data Warehouses,Google BigQuery
+"Data, BI, Big Data & Analytics",Cloud Data Warehouses,Amazon Redshift
+"Data, BI, Big Data & Analytics",Cloud Data Warehouses,Databricks SQL
+"Data, BI, Big Data & Analytics",Customer Data & Analytics Platforms,Segment
+"Data, BI, Big Data & Analytics",Customer Data & Analytics Platforms,mParticle
+"Data, BI, Big Data & Analytics",Customer Data & Analytics Platforms,Amplitude
+"Data, BI, Big Data & Analytics",Customer Data & Analytics Platforms,Mixpanel
+"Middleware, Integration & Developer Stack",ITSM & Helpdesk (Popular Additions),Jira Service Management
+"Middleware, Integration & Developer Stack",ITSM & Helpdesk (Popular Additions),Zendesk Support
+"Middleware, Integration & Developer Stack",ITSM & Helpdesk (Popular Additions),Freshservice
+"Middleware, Integration & Developer Stack",ITSM & Helpdesk (Popular Additions),BMC Helix ITSM
+"HR, HCM, HRMS & Workforce",HR & HCM (Popular Additions),Rippling
+"HR, HCM, HRMS & Workforce",HR & HCM (Popular Additions),Gusto
+"HR, HCM, HRMS & Workforce",HR & HCM (Popular Additions),Paycor
+"HR, HCM, HRMS & Workforce",HR & HCM (Popular Additions),Paylocity
+"HR, HCM, HRMS & Workforce",HR & HCM (Popular Additions),UKG Pro
+"HR, HCM, HRMS & Workforce",HR & HCM (Popular Additions),Namely
+"HR, HCM, HRMS & Workforce",HR & HCM (Popular Additions),Zenefits
+"HR, HCM, HRMS & Workforce",HR & HCM (Popular Additions),TriNet
+"HR, HCM, HRMS & Workforce",HR & HCM (Popular Additions),HiBob
+"HR, HCM, HRMS & Workforce",HR & HCM (Popular Additions),Workable
+"Cybersecurity, Network & Infrastructure Management",Cybersecurity Platforms (Popular Additions),CrowdStrike Falcon
+"Cybersecurity, Network & Infrastructure Management",Cybersecurity Platforms (Popular Additions),Palo Alto Networks Prisma Cloud
+"Cybersecurity, Network & Infrastructure Management",Cybersecurity Platforms (Popular Additions),SentinelOne
+"Cybersecurity, Network & Infrastructure Management",Cybersecurity Platforms (Popular Additions),Zscaler
+"Cybersecurity, Network & Infrastructure Management",Cybersecurity Platforms (Popular Additions),Netskope
+"Cybersecurity, Network & Infrastructure Management",Cybersecurity Platforms (Popular Additions),Fortinet FortiGate
+"Cybersecurity, Network & Infrastructure Management",Cybersecurity Platforms (Popular Additions),Okta
+"Cybersecurity, Network & Infrastructure Management",Cybersecurity Platforms (Popular Additions),Duo Security
+"Cybersecurity, Network & Infrastructure Management",Cybersecurity Platforms (Popular Additions),Cisco Secure
+"Cybersecurity, Network & Infrastructure Management",Cybersecurity Platforms (Popular Additions),Microsoft Defender for Endpoint
+"Collaboration, UC & Productivity",Online Collaboration Tools (Popular Additions),Miro
+"Collaboration, UC & Productivity",Online Collaboration Tools (Popular Additions),FigJam
+"Collaboration, UC & Productivity",Online Collaboration Tools (Popular Additions),Smartsheet
+"Collaboration, UC & Productivity",Online Collaboration Tools (Popular Additions),Confluence
+"Collaboration, UC & Productivity",Online Collaboration Tools (Popular Additions),Evernote Business
+"Collaboration, UC & Productivity",Online Collaboration Tools (Popular Additions),Teamwork.com
+"Collaboration, UC & Productivity",Online Collaboration Tools (Popular Additions),Asana (Projects)
+"Collaboration, UC & Productivity",Online Collaboration Tools (Popular Additions),Basecamp
+"Collaboration, UC & Productivity",Online Collaboration Tools (Popular Additions),ClickUp
+"Collaboration, UC & Productivity",Online Collaboration Tools (Popular Additions),Notion (Team)
+"Collaboration, UC & Productivity",Project & Work Management Platforms,Wrike
+"Collaboration, UC & Productivity",Project & Work Management Platforms,Jira Software
+"Collaboration, UC & Productivity",Project & Work Management Platforms,Zoho Projects
+"Collaboration, UC & Productivity",Project & Work Management Platforms,LiquidPlanner
+"Collaboration, UC & Productivity",Project & Work Management Platforms,Shortcut (formerly Clubhouse)
+"Collaboration, UC & Productivity",Project & Work Management Platforms,Rally Software
+"Middleware, Integration & Developer Stack",DevOps & Cloud Management,GitHub Enterprise
+"Middleware, Integration & Developer Stack",DevOps & Cloud Management,GitLab
+"Middleware, Integration & Developer Stack",DevOps & Cloud Management,Bitbucket
+"Middleware, Integration & Developer Stack",DevOps & Cloud Management,CircleCI
+"Middleware, Integration & Developer Stack",DevOps & Cloud Management,Jenkins
+"Middleware, Integration & Developer Stack",DevOps & Cloud Management,Terraform
+"Middleware, Integration & Developer Stack",DevOps & Cloud Management,Ansible
+"Middleware, Integration & Developer Stack",DevOps & Cloud Management,Chef
+"Middleware, Integration & Developer Stack",DevOps & Cloud Management,Puppet
+"Middleware, Integration & Developer Stack",iPaaS & Integration Platforms,MuleSoft Anypoint Platform
+"Middleware, Integration & Developer Stack",iPaaS & Integration Platforms,Boomi
+"Middleware, Integration & Developer Stack",iPaaS & Integration Platforms,Workato
+"Middleware, Integration & Developer Stack",iPaaS & Integration Platforms,Zapier
+"Middleware, Integration & Developer Stack",iPaaS & Integration Platforms,Make (Integromat)
+"Middleware, Integration & Developer Stack",iPaaS & Integration Platforms,Tray.io
+"Data, BI, Big Data & Analytics",BI & Analytics (Popular Additions),Looker
+"Data, BI, Big Data & Analytics",BI & Analytics (Popular Additions),Tableau
+"Data, BI, Big Data & Analytics",BI & Analytics (Popular Additions),Domo
+"Data, BI, Big Data & Analytics",BI & Analytics (Popular Additions),Sisense
+"Data, BI, Big Data & Analytics",BI & Analytics (Popular Additions),Mode Analytics
+"Data, BI, Big Data & Analytics",BI & Analytics (Popular Additions),Sigma Computing
+"Marketing Automation, CX & Commerce",Retail & POS Platforms,Lightspeed POS
+"Marketing Automation, CX & Commerce",Retail & POS Platforms,Square POS
+"Marketing Automation, CX & Commerce",Retail & POS Platforms,Toast POS
+"Marketing Automation, CX & Commerce",Retail & POS Platforms,Revel Systems
+"Marketing Automation, CX & Commerce",Retail & POS Platforms,Shopify POS
+"Collaboration, UC & Productivity",Trending SaaS Productivity Tools,Notion AI
+"Collaboration, UC & Productivity",Trending SaaS Productivity Tools,ClickUp
+"Collaboration, UC & Productivity",Trending SaaS Productivity Tools,Linear
+"Collaboration, UC & Productivity",Trending SaaS Productivity Tools,Canva
+"Collaboration, UC & Productivity",Trending SaaS Productivity Tools,Trello
+"Collaboration, UC & Productivity",Trending SaaS Productivity Tools,Airtable
+"Collaboration, UC & Productivity",Trending SaaS Productivity Tools,Milanote
+"Collaboration, UC & Productivity",Trending SaaS Productivity Tools,Obsidian Publish
+"Collaboration, UC & Productivity",Trending SaaS Productivity Tools,Craft Docs
+"Collaboration, UC & Productivity",Trending SaaS Productivity Tools,Loop (Microsoft Loop)
+"Middleware, Integration & Developer Stack",AI Developer Productivity Tools,GitHub Copilot
+"Middleware, Integration & Developer Stack",AI Developer Productivity Tools,Sourcegraph Cody
+"Middleware, Integration & Developer Stack",AI Developer Productivity Tools,Cursor IDE
+"Middleware, Integration & Developer Stack",AI Developer Productivity Tools,Codeium
+"Middleware, Integration & Developer Stack",AI Developer Productivity Tools,Tabnine
+"Middleware, Integration & Developer Stack",AI Developer Productivity Tools,Greptile
+"Middleware, Integration & Developer Stack",AI Developer Productivity Tools,DeepCode AI
+"Middleware, Integration & Developer Stack",AI Developer Productivity Tools,Supermaven
+"Data, BI, Big Data & Analytics",Product Analytics & Experimentation,PostHog
+"Data, BI, Big Data & Analytics",Product Analytics & Experimentation,Heap Analytics
+"Data, BI, Big Data & Analytics",Product Analytics & Experimentation,FullStory
+"Data, BI, Big Data & Analytics",Product Analytics & Experimentation,Hotjar
+"Data, BI, Big Data & Analytics",Product Analytics & Experimentation,Optimizely
+"Data, BI, Big Data & Analytics",Product Analytics & Experimentation,VWO
+"Marketing Automation, CX & Commerce",Customer Engagement & Messaging Platforms,Intercom
+"Marketing Automation, CX & Commerce",Customer Engagement & Messaging Platforms,Drift
+"Marketing Automation, CX & Commerce",Customer Engagement & Messaging Platforms,Crisp
+"Marketing Automation, CX & Commerce",Customer Engagement & Messaging Platforms,Twilio Flex
+"Marketing Automation, CX & Commerce",Customer Engagement & Messaging Platforms,Twilio SendGrid
+"Marketing Automation, CX & Commerce",Customer Engagement & Messaging Platforms,MessageBird
+"Marketing Automation, CX & Commerce",Customer Engagement & Messaging Platforms,Braze
+"Marketing Automation, CX & Commerce",Customer Engagement & Messaging Platforms,OneSignal
+CRM & Sales Stack,Sales Engagement & RevOps Platforms,Outreach
+CRM & Sales Stack,Sales Engagement & RevOps Platforms,Salesloft
+CRM & Sales Stack,Sales Engagement & RevOps Platforms,Apollo.io
+CRM & Sales Stack,Sales Engagement & RevOps Platforms,ZoomInfo SalesOS
+CRM & Sales Stack,Sales Engagement & RevOps Platforms,Clari
+CRM & Sales Stack,Sales Engagement & RevOps Platforms,Gong
+CRM & Sales Stack,Sales Engagement & RevOps Platforms,Groove
+CRM & Sales Stack,Sales Engagement & RevOps Platforms,Freshsales Suite
+"Data, BI, Big Data & Analytics",Reverse ETL & Modern Data Stack,Hightouch
+"Data, BI, Big Data & Analytics",Reverse ETL & Modern Data Stack,RudderStack
+"Data, BI, Big Data & Analytics",Reverse ETL & Modern Data Stack,Census
+"Data, BI, Big Data & Analytics",Reverse ETL & Modern Data Stack,Airbyte
+"Data, BI, Big Data & Analytics",Reverse ETL & Modern Data Stack,Fivetran
+"Data, BI, Big Data & Analytics",Reverse ETL & Modern Data Stack,Stitch Data
+Emerging & Meta Categories,AI & ML Platforms,Databricks Lakehouse Platform
+Emerging & Meta Categories,AI & ML Platforms,AWS SageMaker
+Emerging & Meta Categories,AI & ML Platforms,Google Vertex AI
+Emerging & Meta Categories,AI & ML Platforms,Azure Machine Learning
+Emerging & Meta Categories,AI & ML Platforms,DataRobot
+Emerging & Meta Categories,AI & ML Platforms,H2O.ai
+"Cybersecurity, Network & Infrastructure Management","Identity, SSO & Zero Trust",Azure Active Directory (Entra ID)
+"Cybersecurity, Network & Infrastructure Management","Identity, SSO & Zero Trust",Google Workspace Identity
+"Cybersecurity, Network & Infrastructure Management","Identity, SSO & Zero Trust",Ping Identity
+"Cybersecurity, Network & Infrastructure Management","Identity, SSO & Zero Trust",Auth0
+"Cybersecurity, Network & Infrastructure Management","Identity, SSO & Zero Trust",CyberArk
+"Cybersecurity, Network & Infrastructure Management","Identity, SSO & Zero Trust",BeyondTrust
+"Cybersecurity, Network & Infrastructure Management",Cloud Security & DSPM,Wiz
+"Cybersecurity, Network & Infrastructure Management",Cloud Security & DSPM,Lacework
+"Cybersecurity, Network & Infrastructure Management",Cloud Security & DSPM,Palo Alto Prisma Cloud
+"Cybersecurity, Network & Infrastructure Management",Cloud Security & DSPM,Skyhawk Security
+"Cybersecurity, Network & Infrastructure Management",Cloud Security & DSPM,Cyera
+"HR, HCM, HRMS & Workforce",People Ops & Engagement Platforms,Lattice
+"HR, HCM, HRMS & Workforce",People Ops & Engagement Platforms,Culture Amp
+"HR, HCM, HRMS & Workforce",People Ops & Engagement Platforms,15Five
+"HR, HCM, HRMS & Workforce",People Ops & Engagement Platforms,Leapsome
+"HR, HCM, HRMS & Workforce",People Ops & Engagement Platforms,Peakon
+"HR, HCM, HRMS & Workforce",People Ops & Engagement Platforms,Glint
+CRM & Sales Stack,CRM (Additional Popular),Keap (Infusionsoft)
+CRM & Sales Stack,CRM (Additional Popular),Capsule CRM
+CRM & Sales Stack,CRM (Additional Popular),Bitrix24 CRM
+CRM & Sales Stack,CRM (Additional Popular),Vtiger CRM
+CRM & Sales Stack,CRM (Additional Popular),Zoho One
+CRM & Sales Stack,CRM (Additional Popular),SAP Sales Cloud
+CRM & Sales Stack,CRM (Additional Popular),Oracle CX Sales
+CRM & Sales Stack,CRM (Additional Popular),Nutshell CRM
+CRM & Sales Stack,CRM (Additional Popular),Pipeline CRM
+CRM & Sales Stack,CRM (Additional Popular),Pega CRM
+CRM & Sales Stack,Sales Intelligence & Data Providers,Lusha
+CRM & Sales Stack,Sales Intelligence & Data Providers,Cognism
+CRM & Sales Stack,Sales Intelligence & Data Providers,LeadIQ
+CRM & Sales Stack,Sales Intelligence & Data Providers,Seamless.AI
+CRM & Sales Stack,Sales Intelligence & Data Providers,Leadfeeder
+CRM & Sales Stack,Sales Intelligence & Data Providers,Clearbit
+CRM & Sales Stack,Sales Intelligence & Data Providers,ZoomInfo MarketingOS
+"ERP, Finance & Accounting",Billing & Subscription Management,Chargebee
+"ERP, Finance & Accounting",Billing & Subscription Management,Recurly
+"ERP, Finance & Accounting",Billing & Subscription Management,Zuora
+"ERP, Finance & Accounting",Billing & Subscription Management,Stripe Billing
+"ERP, Finance & Accounting",Billing & Subscription Management,Paddle
+"ERP, Finance & Accounting",Billing & Subscription Management,Chargify
+"ERP, Finance & Accounting",Billing & Subscription Management,SaaSOptics
+"ERP, Finance & Accounting",Regional & Mid-Market ERP,TallyPrime
+"ERP, Finance & Accounting",Regional & Mid-Market ERP,Focus ERP
+"ERP, Finance & Accounting",Regional & Mid-Market ERP,SAP Business ByDesign
+"ERP, Finance & Accounting",Regional & Mid-Market ERP,Microsoft Dynamics 365 Business Central
+"ERP, Finance & Accounting",Regional & Mid-Market ERP,Infor CloudSuite Industrial (SyteLine)
+"ERP, Finance & Accounting",Regional & Mid-Market ERP,Priority ERP
+"Marketing Automation, CX & Commerce",Email & Lifecycle Marketing Platforms,ConvertKit
+"Marketing Automation, CX & Commerce",Email & Lifecycle Marketing Platforms,GetResponse
+"Marketing Automation, CX & Commerce",Email & Lifecycle Marketing Platforms,Sendinblue (Brevo)
+"Marketing Automation, CX & Commerce",Email & Lifecycle Marketing Platforms,Campaign Monitor
+"Marketing Automation, CX & Commerce",Email & Lifecycle Marketing Platforms,AWeber
+"Marketing Automation, CX & Commerce",Email & Lifecycle Marketing Platforms,MoEngage
+"Marketing Automation, CX & Commerce",Email & Lifecycle Marketing Platforms,WebEngage
+"Marketing Automation, CX & Commerce",Email & Lifecycle Marketing Platforms,CleverTap
+"Marketing Automation, CX & Commerce",Web & Product Experience,Pendo
+"Marketing Automation, CX & Commerce",Web & Product Experience,Appcues
+"Marketing Automation, CX & Commerce",Web & Product Experience,Userpilot
+"Marketing Automation, CX & Commerce",Web & Product Experience,WalkMe
+"Marketing Automation, CX & Commerce",Web & Product Experience,Whatfix
+"Marketing Automation, CX & Commerce",E-commerce Platforms (Additional),PrestaShop
+"Marketing Automation, CX & Commerce",E-commerce Platforms (Additional),OpenCart
+"Marketing Automation, CX & Commerce",E-commerce Platforms (Additional),SAP Commerce Cloud
+"Marketing Automation, CX & Commerce",E-commerce Platforms (Additional),Salesforce Commerce Cloud
+"Marketing Automation, CX & Commerce",E-commerce Platforms (Additional),VTEX
+"Marketing Automation, CX & Commerce",E-commerce Platforms (Additional),Adobe Commerce (Magento Commerce)
+"Marketing Automation, CX & Commerce",E-commerce Platforms (Additional),BigCartel
+"HR, HCM, HRMS & Workforce",Applicant Tracking & Recruiting,Greenhouse
+"HR, HCM, HRMS & Workforce",Applicant Tracking & Recruiting,Lever
+"HR, HCM, HRMS & Workforce",Applicant Tracking & Recruiting,SmartRecruiters
+"HR, HCM, HRMS & Workforce",Applicant Tracking & Recruiting,iCIMS
+"HR, HCM, HRMS & Workforce",Applicant Tracking & Recruiting,JazzHR
+"HR, HCM, HRMS & Workforce",Applicant Tracking & Recruiting,BambooHR ATS
+"HR, HCM, HRMS & Workforce",Applicant Tracking & Recruiting,Workday Recruiting
+"HR, HCM, HRMS & Workforce",Scheduling & Workforce Management,Deputy
+"HR, HCM, HRMS & Workforce",Scheduling & Workforce Management,When I Work
+"HR, HCM, HRMS & Workforce",Scheduling & Workforce Management,7shifts
+"HR, HCM, HRMS & Workforce",Scheduling & Workforce Management,Homebase
+"HR, HCM, HRMS & Workforce",Scheduling & Workforce Management,HotSchedules
+"Collaboration, UC & Productivity",Meetings & Web Conferencing,Cisco Webex
+"Collaboration, UC & Productivity",Meetings & Web Conferencing,GoTo Meeting
+"Collaboration, UC & Productivity",Meetings & Web Conferencing,Google Meet
+"Collaboration, UC & Productivity",Meetings & Web Conferencing,BlueJeans
+"Collaboration, UC & Productivity",Meetings & Web Conferencing,Whereby
+"Collaboration, UC & Productivity",Team Chat & Communities,Discord
+"Collaboration, UC & Productivity",Team Chat & Communities,Mattermost
+"Collaboration, UC & Productivity",Team Chat & Communities,Rocket.Chat
+"Collaboration, UC & Productivity",Team Chat & Communities,Twist
+"Collaboration, UC & Productivity",Team Chat & Communities,Flock
+"Middleware, Integration & Developer Stack","Monitoring, APM & Logging",Datadog
+"Middleware, Integration & Developer Stack","Monitoring, APM & Logging",New Relic
+"Middleware, Integration & Developer Stack","Monitoring, APM & Logging",Dynatrace
+"Middleware, Integration & Developer Stack","Monitoring, APM & Logging",Splunk Observability Cloud
+"Middleware, Integration & Developer Stack","Monitoring, APM & Logging",Grafana Cloud
+"Middleware, Integration & Developer Stack","Monitoring, APM & Logging",Logz.io
+"Middleware, Integration & Developer Stack","Monitoring, APM & Logging",Sumo Logic
+"Middleware, Integration & Developer Stack",Feature Flags & Release Management,LaunchDarkly
+"Middleware, Integration & Developer Stack",Feature Flags & Release Management,ConfigCat
+"Middleware, Integration & Developer Stack",Feature Flags & Release Management,CloudBees Feature Management
+"Middleware, Integration & Developer Stack",Feature Flags & Release Management,Split.io
+"Data, BI, Big Data & Analytics",Data Orchestration & Workflow,Dagster
+"Data, BI, Big Data & Analytics",Data Orchestration & Workflow,Prefect
+"Data, BI, Big Data & Analytics",Data Orchestration & Workflow,Apache Airflow (Astronomer)
+"Data, BI, Big Data & Analytics",Data Orchestration & Workflow,dbt Cloud
+"Data, BI, Big Data & Analytics",Customer Data Platforms (CDP),Salesforce Data Cloud
+"Data, BI, Big Data & Analytics",Customer Data Platforms (CDP),Tealium AudienceStream
+"Data, BI, Big Data & Analytics",Customer Data Platforms (CDP),BlueConic
+"Data, BI, Big Data & Analytics",Customer Data Platforms (CDP),Zeotap CDP
+"Data, BI, Big Data & Analytics",Customer Data Platforms (CDP),Segment CDP (extended)
+"Data, BI, Big Data & Analytics",Digital Analytics & Tag Management,Google Analytics 4
+"Data, BI, Big Data & Analytics",Digital Analytics & Tag Management,Adobe Analytics
+"Data, BI, Big Data & Analytics",Digital Analytics & Tag Management,Piwik PRO
+"Data, BI, Big Data & Analytics",Digital Analytics & Tag Management,Matomo
+"Data, BI, Big Data & Analytics",Digital Analytics & Tag Management,Tealium iQ Tag Management
+"Cybersecurity, Network & Infrastructure Management",AppSec & DevSecOps,Snyk
+"Cybersecurity, Network & Infrastructure Management",AppSec & DevSecOps,Veracode (extended)
+"Cybersecurity, Network & Infrastructure Management",AppSec & DevSecOps,Checkmarx
+"Cybersecurity, Network & Infrastructure Management",AppSec & DevSecOps,SonarQube
+"Cybersecurity, Network & Infrastructure Management",AppSec & DevSecOps,GitGuardian
+"Cybersecurity, Network & Infrastructure Management",AppSec & DevSecOps,Aqua Security
+"Cybersecurity, Network & Infrastructure Management",AppSec & DevSecOps,Sysdig Secure
+"Cybersecurity, Network & Infrastructure Management",Email Security & Phishing Protection,Proofpoint
+"Cybersecurity, Network & Infrastructure Management",Email Security & Phishing Protection,Mimecast
+"Cybersecurity, Network & Infrastructure Management",Email Security & Phishing Protection,Barracuda Email Protection
+"Cybersecurity, Network & Infrastructure Management",Email Security & Phishing Protection,IRONSCALES
+"Cybersecurity, Network & Infrastructure Management",Endpoint & XDR (Additional),Microsoft Defender XDR
+"Cybersecurity, Network & Infrastructure Management",Endpoint & XDR (Additional),CrowdStrike Falcon Insight XDR
+"Cybersecurity, Network & Infrastructure Management",Endpoint & XDR (Additional),SentinelOne Singularity XDR
+"Cybersecurity, Network & Infrastructure Management",Endpoint & XDR (Additional),Sophos Intercept X
+Industry & Line-of-Business Applications,Vertical SaaS (Selected),Procore (Construction Management)
+Industry & Line-of-Business Applications,Vertical SaaS (Selected),ServiceTitan (Home Services)
+Industry & Line-of-Business Applications,Vertical SaaS (Selected),Toast POS (Restaurants)
+Industry & Line-of-Business Applications,Vertical SaaS (Selected),Mindbody (Wellness & Fitness)
+Industry & Line-of-Business Applications,Vertical SaaS (Selected),Shopmonkey (Auto Repair)
+Industry & Line-of-Business Applications,Vertical SaaS (Selected),Clio (Legal Practice Management)
+Industry & Line-of-Business Applications,Vertical SaaS (Selected),SimplePractice (Therapy & Counseling)
+Industry & Line-of-Business Applications,Vertical SaaS (Selected),Athenahealth (extended)
