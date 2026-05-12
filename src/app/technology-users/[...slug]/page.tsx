@@ -2,8 +2,10 @@ import React from 'react';
 import Header from '@/components/layout/Header';
 import Footer from '@/components/layout/Footer';
 import { notFound } from 'next/navigation';
-import { Check, Users, Database, TrendingUp, Download, ShieldCheck, Mail } from 'lucide-react';
+import { Check, Users, Database, TrendingUp, Download, ShieldCheck, Mail, Globe } from 'lucide-react';
 import { supabase } from '@/lib/supabase';
+import { getTechLogo } from '@/lib/logos';
+import Image from 'next/image';
 
 interface PageProps {
   params: {
@@ -13,7 +15,7 @@ interface PageProps {
 
 export default async function TechnologyPage({ params }: PageProps) {
   const { slug } = await params;
-  const techSlug = slug[slug.length - 1]; // Assume the last part of the slug is the tech or category
+  const techSlug = slug[slug.length - 1]; 
 
   // Fetch product data from Supabase
   const { data: product, error } = await supabase
@@ -22,13 +24,8 @@ export default async function TechnologyPage({ params }: PageProps) {
     .eq('slug', techSlug)
     .single();
 
-  if (error || !product) {
-    // Try fetching as category or sub-category if not a product
-    // For now, if not found, we'll use placeholder or notFound()
-    // For this demo, I'll fallback to the placeholder if not in DB yet
-  }
-
   const displayName = product?.name || techSlug.split('-').map(w => w.charAt(0).toUpperCase() + w.slice(1)).join(' ');
+  const logoUrl = product?.logo_url || getTechLogo(displayName);
   
   const techData = {
     name: displayName,
@@ -56,9 +53,20 @@ export default async function TechnologyPage({ params }: PageProps) {
         <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-16 items-center">
             <div>
-              <div className="inline-flex items-center space-x-2 rounded-full bg-primary/10 px-4 py-1 mb-6">
-                <ShieldCheck className="h-4 w-4 text-primary" />
-                <span className="text-xs font-semibold text-primary uppercase tracking-wider">Verified Installbase</span>
+              <div className="flex items-center space-x-4 mb-6">
+                {logoUrl ? (
+                  <div className="relative h-16 w-16 overflow-hidden rounded-2xl bg-white p-2">
+                    <img src={logoUrl} alt={techData.name} className="h-full w-full object-contain" />
+                  </div>
+                ) : (
+                  <div className="flex h-16 w-16 items-center justify-center rounded-2xl bg-primary/10 text-primary">
+                    <Database className="h-8 w-8" />
+                  </div>
+                )}
+                <div className="inline-flex items-center space-x-2 rounded-full bg-primary/10 px-4 py-1">
+                  <ShieldCheck className="h-4 w-4 text-primary" />
+                  <span className="text-xs font-semibold text-primary uppercase tracking-wider">Verified Installbase</span>
+                </div>
               </div>
               <h1 className="text-4xl font-bold tracking-tight text-white sm:text-6xl mb-6">
                 {techData.name} <br />
@@ -181,5 +189,24 @@ export default async function TechnologyPage({ params }: PageProps) {
 
       <Footer />
     </main>
+  );
+}
+
+function ShieldCheck({ className }: { className?: string }) {
+  return (
+    <svg 
+      className={className} 
+      xmlns="http://www.w3.org/2000/svg" 
+      width="24" height="24" 
+      viewBox="0 0 24 24" 
+      fill="none" 
+      stroke="currentColor" 
+      strokeWidth="2" 
+      strokeLinecap="round" 
+      strokeLinejoin="round"
+    >
+      <path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z" />
+      <path d="m9 12 2 2 4-4" />
+    </svg>
   );
 }
