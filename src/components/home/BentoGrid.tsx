@@ -2,7 +2,7 @@
 
 import React from 'react';
 import { motion } from 'framer-motion';
-import { Database, BarChart3, Users, Globe, Briefcase, Rocket } from 'lucide-react';
+import { Database, BarChart3, Users, Globe, Briefcase, ArrowRight } from 'lucide-react';
 import Link from 'next/link';
 
 const features = [
@@ -61,34 +61,37 @@ const BentoGrid = () => {
               whileInView={{ opacity: 1, y: 0 }}
               viewport={{ once: true }}
               transition={{ delay: index * 0.1 }}
-              className={`bento-card ${feature.size} group`}
+              className={`bento-card ${feature.size} group relative overflow-hidden`}
             >
-              <div className="flex flex-col h-full justify-between">
+              {/* Background Glow */}
+              <div className="absolute -inset-px bg-gradient-to-br from-primary/20 via-transparent to-transparent opacity-0 transition-opacity duration-500 group-hover:opacity-100" />
+              
+              <div className="relative flex flex-col h-full justify-between z-10">
                 <div>
-                  <div className={`mb-6 inline-flex h-12 w-12 items-center justify-center rounded-2xl bg-white/5 transition-colors group-hover:bg-primary/20`}>
+                  <div className={`mb-6 inline-flex h-12 w-12 items-center justify-center rounded-2xl bg-white/5 shadow-inner transition-all duration-500 group-hover:bg-primary/20 group-hover:scale-110 group-hover:rotate-3`}>
                     <feature.icon className={`h-6 w-6 ${feature.color}`} />
                   </div>
-                  <h3 className="text-xl font-bold text-white mb-2">{feature.title}</h3>
+                  <h3 className="text-xl font-bold text-white mb-3 group-hover:text-primary transition-colors">{feature.title}</h3>
                   <p className="text-sm text-muted-foreground leading-relaxed">
                     {feature.description}
                   </p>
                 </div>
                 
-                <div className="mt-8 flex items-center justify-between">
-                  <span className="text-xs font-semibold uppercase tracking-wider text-primary/80">
-                    {feature.count}
-                  </span>
+                <div className="mt-10 flex items-center justify-between">
+                  <div className="flex flex-col">
+                    <span className="text-[10px] font-bold uppercase tracking-widest text-muted-foreground/60 mb-1">Available Lists</span>
+                    <span className="text-sm font-bold text-white tracking-tight">
+                      {feature.count}
+                    </span>
+                  </div>
                   <Link 
                     href={feature.href}
-                    className="flex h-10 w-10 items-center justify-center rounded-full bg-white/5 text-white transition-all hover:bg-primary group-hover:translate-x-1"
+                    className="flex h-12 w-12 items-center justify-center rounded-full bg-white/5 border border-white/10 text-white transition-all hover:bg-primary hover:border-primary group-hover:shadow-[0_0_20px_rgba(59,130,246,0.3)]"
                   >
-                    <Rocket className="h-4 w-4" />
+                    <ArrowRight className="h-5 w-5 transition-transform group-hover:translate-x-1" />
                   </Link>
                 </div>
               </div>
-
-              {/* Decorative Background Element */}
-              <div className="absolute -right-10 -bottom-10 h-32 w-32 rounded-full bg-primary/5 blur-3xl transition-opacity group-hover:opacity-100 opacity-0" />
             </motion.div>
           ))}
         </div>

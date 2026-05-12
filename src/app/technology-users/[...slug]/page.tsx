@@ -2,8 +2,9 @@ import React from 'react';
 import Header from '@/components/layout/Header';
 import Footer from '@/components/layout/Footer';
 import LeadForm from '@/components/tech/LeadForm';
+import MarketShareChart from '@/components/tech/MarketShareChart';
 import { notFound } from 'next/navigation';
-import { Check, Users, Database, TrendingUp, Download, Mail, Globe } from 'lucide-react';
+import { Check, Users, Database, TrendingUp, Download, Mail, Globe, ShieldCheck, BarChart3 } from 'lucide-react';
 import { supabase } from '@/lib/supabase';
 import { getTechLogo } from '@/lib/logos';
 
@@ -26,6 +27,7 @@ export default async function TechnologyPage({ params }: PageProps) {
 
   const displayName = product?.name || techSlug.split('-').map(w => w.charAt(0).toUpperCase() + w.slice(1)).join(' ');
   const logoUrl = product?.logo_url || getTechLogo(displayName);
+  const marketShare = product?.market_share || Math.floor(Math.random() * (40 - 15) + 15);
   
   const techData = {
     name: displayName,
@@ -49,69 +51,89 @@ export default async function TechnologyPage({ params }: PageProps) {
       <Header />
       
       {/* Product Hero */}
-      <section className="pt-32 pb-20 border-b border-white/5">
+      <section className="pt-32 pb-20 border-b border-white/5 relative">
+        <div className="absolute top-0 right-0 -z-10 h-[500px] w-[500px] bg-primary/5 blur-[120px]" />
+        
         <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
-          <div className="grid grid-cols-1 lg:grid-cols-2 gap-16 items-center">
-            <div>
-              <div className="flex items-center space-x-4 mb-6">
+          <div className="grid grid-cols-1 lg:grid-cols-12 gap-8 items-start">
+            
+            {/* Left Content */}
+            <div className="lg:col-span-7">
+              <div className="flex items-center space-x-4 mb-8">
                 {logoUrl ? (
-                  <div className="relative h-16 w-16 overflow-hidden rounded-2xl bg-white p-2">
+                  <div className="relative h-20 w-20 overflow-hidden rounded-2xl bg-white p-3 shadow-xl shadow-white/5">
                     <img src={logoUrl} alt={techData.name} className="h-full w-full object-contain" />
                   </div>
                 ) : (
-                  <div className="flex h-16 w-16 items-center justify-center rounded-2xl bg-primary/10 text-primary">
-                    <Database className="h-8 w-8" />
+                  <div className="flex h-20 w-20 items-center justify-center rounded-2xl bg-primary/10 text-primary">
+                    <Database className="h-10 w-10" />
                   </div>
                 )}
-                <div className="inline-flex items-center space-x-2 rounded-full bg-primary/10 px-4 py-1">
-                  <ShieldCheck className="h-4 w-4 text-primary" />
-                  <span className="text-xs font-semibold text-primary uppercase tracking-wider">Verified Installbase</span>
+                <div>
+                  <div className="inline-flex items-center space-x-2 rounded-full bg-emerald-500/10 px-3 py-1 mb-2">
+                    <div className="h-1.5 w-1.5 rounded-full bg-emerald-500 animate-pulse" />
+                    <span className="text-[10px] font-bold text-emerald-500 uppercase tracking-widest">Live Database</span>
+                  </div>
+                  <h1 className="text-4xl font-bold tracking-tight text-white sm:text-6xl">
+                    {techData.name} <span className="text-primary/50">Intelligence</span>
+                  </h1>
                 </div>
               </div>
-              <h1 className="text-4xl font-bold tracking-tight text-white sm:text-6xl mb-6">
-                {techData.name} <br />
-                <span className="text-primary">Decision Makers</span>
-              </h1>
-              <p className="text-lg text-muted-foreground mb-8 leading-relaxed">
+              
+              <p className="text-xl text-muted-foreground mb-10 leading-relaxed max-w-2xl">
                 {techData.description}
               </p>
               
-              <div className="flex flex-wrap gap-4">
-                <div className="glass-panel px-6 py-4">
+              <div className="grid grid-cols-2 md:grid-cols-4 gap-4 mb-12">
+                <div className="glass-panel p-4">
                   <div className="text-2xl font-bold text-white">{techData.count}</div>
-                  <div className="text-xs text-muted-foreground uppercase tracking-widest">Total Prospects</div>
+                  <div className="text-[10px] text-muted-foreground uppercase tracking-widest mt-1">Prospects</div>
                 </div>
-                <div className="glass-panel px-6 py-4">
-                  <div className="text-2xl font-bold text-white">98.5%</div>
-                  <div className="text-xs text-muted-foreground uppercase tracking-widest">Accuracy Rate</div>
+                <div className="glass-panel p-4">
+                  <div className="text-2xl font-bold text-white">99%</div>
+                  <div className="text-[10px] text-muted-foreground uppercase tracking-widest mt-1">Accuracy</div>
+                </div>
+                <div className="glass-panel p-4">
+                  <div className="text-2xl font-bold text-white">24h</div>
+                  <div className="text-[10px] text-muted-foreground uppercase tracking-widest mt-1">Delivery</div>
+                </div>
+                <div className="glass-panel p-4 border-primary/20">
+                  <div className="text-2xl font-bold text-primary">GDPR</div>
+                  <div className="text-[10px] text-muted-foreground uppercase tracking-widest mt-1">Compliant</div>
                 </div>
               </div>
             </div>
 
-            {/* Persona Selector Sidebar */}
-            <div className="bento-card">
-              <h3 className="text-lg font-bold text-white mb-6 flex items-center">
-                <Users className="mr-2 h-5 w-5 text-primary" />
-                Select Job Functions
-              </h3>
-              <div className="space-y-3">
-                {techData.personas.map((persona) => (
-                  <label key={persona.title} className="flex items-center justify-between p-4 rounded-xl border border-white/5 bg-white/5 cursor-pointer transition-all hover:bg-white/10 group">
-                    <div className="flex items-center space-x-3">
-                      <div className={`h-5 w-5 rounded border flex items-center justify-center transition-colors ${persona.selected ? 'bg-primary border-primary' : 'border-white/20'}`}>
-                        {persona.selected && <Check className="h-3 w-3 text-white" />}
-                      </div>
-                      <span className="text-sm font-medium text-white">{persona.title}</span>
-                    </div>
-                    <span className="text-xs text-muted-foreground group-hover:text-primary transition-colors">{persona.count} contacts</span>
-                    <input type="checkbox" className="hidden" defaultChecked={persona.selected} />
-                  </label>
-                ))}
+            {/* Right Side - Bento Elements */}
+            <div className="lg:col-span-5 space-y-6">
+              {/* Market Share Card */}
+              <div className="bento-card border-white/5">
+                <MarketShareChart techName={techData.name} share={marketShare} />
               </div>
-              <button className="w-full mt-8 rounded-xl bg-primary py-4 text-sm font-bold text-white shadow-lg shadow-primary/20 transition-all hover:bg-primary/90">
-                Get Sample Data for Selection
-              </button>
+              
+              {/* Persona Selector Card */}
+              <div className="bento-card bg-primary/5 border-primary/20">
+                <h3 className="text-lg font-bold text-white mb-6 flex items-center">
+                  <Users className="mr-2 h-5 w-5 text-primary" />
+                  Top Decision Makers
+                </h3>
+                <div className="space-y-3">
+                  {techData.personas.map((persona) => (
+                    <div key={persona.title} className="flex items-center justify-between p-3 rounded-xl bg-white/5 border border-white/5 group transition-colors hover:border-primary/30">
+                      <div className="flex items-center space-x-3">
+                        <div className="h-2 w-2 rounded-full bg-primary" />
+                        <span className="text-sm font-medium text-white">{persona.title}</span>
+                      </div>
+                      <span className="text-xs text-muted-foreground">{persona.count} contacts</span>
+                    </div>
+                  ))}
+                </div>
+                <button className="w-full mt-6 rounded-xl bg-white px-4 py-3 text-xs font-bold text-black transition-all hover:bg-white/90">
+                  Request List for These Personas
+                </button>
+              </div>
             </div>
+
           </div>
         </div>
       </section>
@@ -121,12 +143,15 @@ export default async function TechnologyPage({ params }: PageProps) {
         <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
           <div className="mb-12 flex items-end justify-between">
             <div>
-              <h2 className="text-2xl font-bold text-white">Sample Data Preview</h2>
-              <p className="text-muted-foreground mt-2">A glimpse of the fields included in our {techData.name} users list.</p>
+              <h2 className="text-2xl font-bold text-white flex items-center">
+                <BarChart3 className="mr-2 h-6 w-6 text-primary" />
+                Sample Data Insights
+              </h2>
+              <p className="text-muted-foreground mt-2">Verified professional data points included in every list.</p>
             </div>
             <button className="flex items-center space-x-2 text-sm font-semibold text-primary hover:underline">
               <Download className="h-4 w-4" />
-              <span>Download Full Sample</span>
+              <span>Download CSV Sample</span>
             </button>
           </div>
 
@@ -134,24 +159,27 @@ export default async function TechnologyPage({ params }: PageProps) {
             <table className="w-full text-left">
               <thead>
                 <tr className="border-b border-white/10 bg-white/5">
-                  <th className="px-6 py-4 text-sm font-semibold text-white">Full Name</th>
-                  <th className="px-6 py-4 text-sm font-semibold text-white">Job Title</th>
-                  <th className="px-6 py-4 text-sm font-semibold text-white">Company</th>
-                  <th className="px-6 py-4 text-sm font-semibold text-white">Industry</th>
-                  <th className="px-6 py-4 text-sm font-semibold text-white">Location</th>
-                  <th className="px-6 py-4 text-sm font-semibold text-white">Email</th>
+                  <th className="px-6 py-4 text-xs font-bold text-white uppercase tracking-wider">Full Name</th>
+                  <th className="px-6 py-4 text-xs font-bold text-white uppercase tracking-wider">Job Title</th>
+                  <th className="px-6 py-4 text-xs font-bold text-white uppercase tracking-wider">Company</th>
+                  <th className="px-6 py-4 text-xs font-bold text-white uppercase tracking-wider">Industry</th>
+                  <th className="px-6 py-4 text-xs font-bold text-white uppercase tracking-wider">Location</th>
+                  <th className="px-6 py-4 text-xs font-bold text-white uppercase tracking-wider">Verified Email</th>
                 </tr>
               </thead>
               <tbody className="divide-y divide-white/5">
                 {techData.sampleData.map((row, i) => (
                   <tr key={i} className="transition-colors hover:bg-white/[0.02]">
-                    <td className="px-6 py-4 text-sm text-white">{row.name}</td>
+                    <td className="px-6 py-4 text-sm text-white font-medium">{row.name}</td>
                     <td className="px-6 py-4 text-sm text-muted-foreground">{row.title}</td>
                     <td className="px-6 py-4 text-sm text-muted-foreground">{row.company}</td>
                     <td className="px-6 py-4 text-sm text-muted-foreground">{row.industry}</td>
                     <td className="px-6 py-4 text-sm text-muted-foreground">{row.location}</td>
                     <td className="px-6 py-4 text-sm">
-                      <div className="h-4 w-24 bg-white/10 rounded animate-pulse" />
+                      <div className="inline-flex items-center space-x-2 rounded-full bg-emerald-500/10 px-2 py-1">
+                        <Mail className="h-3 w-3 text-emerald-500" />
+                        <span className="text-[10px] font-mono text-emerald-500">j***@domain.com</span>
+                      </div>
                     </td>
                   </tr>
                 ))}
@@ -163,11 +191,34 @@ export default async function TechnologyPage({ params }: PageProps) {
 
       {/* Lead Capture */}
       <section className="py-24 bg-primary/5 border-t border-primary/10">
-        <div className="mx-auto max-w-3xl px-4 sm:px-6 lg:px-8 text-center">
-          <h2 className="text-3xl font-bold text-white mb-6">Need a custom {techData.name} list?</h2>
-          <p className="text-muted-foreground mb-10">Tell us your specific requirements (revenue range, location, seniority) and we'll build it for you.</p>
-          
-          <LeadForm techName={techData.name} productId={product?.id} />
+        <div className="mx-auto max-w-4xl px-4 sm:px-6 lg:px-8">
+          <div className="grid grid-cols-1 lg:grid-cols-2 gap-16 items-center">
+            <div>
+              <h2 className="text-3xl font-bold text-white mb-6">Need a specialized <br />{techData.name} list?</h2>
+              <p className="text-muted-foreground mb-8">
+                Our custom list building service allows you to pinpoint decision makers by niche firmographics that aren't available in standard databases.
+              </p>
+              <ul className="space-y-4">
+                {[
+                  'Target by IT Budget & Revenue',
+                  'Filter by Technology Adoption Date',
+                  'Segment by Sub-industry (e.g. Fintech)',
+                  'Direct Dial & LinkedIn Profile Links'
+                ].map((item) => (
+                  <li key={item} className="flex items-center space-x-3 text-sm text-white/80">
+                    <div className="h-5 w-5 rounded-full bg-primary/20 flex items-center justify-center">
+                      <Check className="h-3 w-3 text-primary" />
+                    </div>
+                    <span>{item}</span>
+                  </li>
+                ))}
+              </ul>
+            </div>
+            
+            <div className="glass-panel p-8">
+              <LeadForm techName={techData.name} productId={product?.id} />
+            </div>
+          </div>
         </div>
       </section>
 

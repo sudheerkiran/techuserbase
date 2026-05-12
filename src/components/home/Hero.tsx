@@ -130,17 +130,33 @@ const Hero = () => {
               )}
             </AnimatePresence>
             
-            {/* Quick Suggestions */}
-            <div className="mt-4 flex flex-wrap justify-center gap-2">
-              {['Salesforce', 'QuickBooks', 'AWS', 'Oracle'].map((tech) => (
-                <button 
-                  key={tech}
-                  onClick={() => setQuery(tech)}
-                  className="rounded-full border border-white/10 bg-white/5 px-4 py-1.5 text-xs text-muted-foreground transition-all hover:border-primary/30 hover:text-white"
-                >
-                  {tech}
-                </button>
-              ))}
+            {/* Trending Technologies */}
+            <div className="mt-12 flex flex-col items-center space-y-4">
+              <span className="text-xs font-semibold uppercase tracking-widest text-muted-foreground/60">Trending Tech Installbases</span>
+              <div className="flex flex-wrap justify-center gap-6">
+                {[
+                  { name: 'Salesforce', domain: 'salesforce.com' },
+                  { name: 'AWS', domain: 'aws.amazon.com' },
+                  { name: 'QuickBooks', domain: 'quickbooks.intuit.com' },
+                  { name: 'Hubspot', domain: 'hubspot.com' },
+                  { name: 'Oracle', domain: 'oracle.com' }
+                ].map((tech) => (
+                  <Link 
+                    key={tech.name}
+                    href={`/technology-users/${tech.name.toLowerCase()}`}
+                    className="group flex flex-col items-center space-y-2 grayscale transition-all hover:grayscale-0"
+                  >
+                    <div className="flex h-12 w-12 items-center justify-center rounded-xl bg-white/5 p-2 transition-colors group-hover:bg-white/10">
+                      <img 
+                        src={`https://img.logo.dev/${tech.domain}?token=${process.env.NEXT_PUBLIC_LOGODEV_PUBLISHABLE_KEY}&size=64`} 
+                        alt={tech.name}
+                        className="h-full w-full object-contain"
+                      />
+                    </div>
+                    <span className="text-[10px] font-medium text-muted-foreground group-hover:text-white">{tech.name}</span>
+                  </Link>
+                ))}
+              </div>
             </div>
           </motion.div>
         </div>
