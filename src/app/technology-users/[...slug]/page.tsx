@@ -3,6 +3,7 @@ import Header from '@/components/layout/Header';
 import Footer from '@/components/layout/Footer';
 import { notFound } from 'next/navigation';
 import { Check, Users, Database, TrendingUp, Download, ShieldCheck, Mail } from 'lucide-react';
+import { supabase } from '@/lib/supabase';
 
 interface PageProps {
   params: {
@@ -11,20 +12,28 @@ interface PageProps {
 }
 
 export default async function TechnologyPage({ params }: PageProps) {
-  const { slug } = params;
-  
-  // Basic Logic for parsing slug
-  // Level 1: Category or Tech
-  // Level 2: Tech or Persona
-  
-  const mainSlug = slug[0];
-  const subSlug = slug[1];
+  const { slug } = await params;
+  const techSlug = slug[slug.length - 1]; // Assume the last part of the slug is the tech or category
 
-  // Placeholder data - In production, fetch from Supabase
+  // Fetch product data from Supabase
+  const { data: product, error } = await supabase
+    .from('products')
+    .select('*, sub_categories(*, categories(*))')
+    .eq('slug', techSlug)
+    .single();
+
+  if (error || !product) {
+    // Try fetching as category or sub-category if not a product
+    // For now, if not found, we'll use placeholder or notFound()
+    // For this demo, I'll fallback to the placeholder if not in DB yet
+  }
+
+  const displayName = product?.name || techSlug.split('-').map(w => w.charAt(0).toUpperCase() + w.slice(1)).join(' ');
+  
   const techData = {
-    name: mainSlug.split('-').map(w => w.charAt(0).toUpperCase() + w.slice(1)).join(' '),
-    count: "52,400+",
-    description: `Target high-value decision makers using ${mainSlug.replace(/-/g, ' ')} across various industries. Our list is verified every 30 days for maximum deliverability.`,
+    name: displayName,
+    count: product?.verified_users_count ? product.verified_users_count.toLocaleString() : "5,000+",
+    description: product?.description || `Target high-value decision makers using ${displayName} across various industries. Our list is verified every 30 days for maximum deliverability.`,
     personas: [
       { title: "VP of Sales", count: "1,200", selected: true },
       { title: "Marketing Manager", count: "3,500", selected: true },

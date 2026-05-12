@@ -1,12 +1,38 @@
 "use client";
 
 import React, { useState, useEffect } from 'react';
-import { Search, ArrowRight, Zap, Shield, Database } from 'lucide-react';
-import { motion } from 'framer-motion';
+import { Search, ArrowRight, Zap, Shield, Database, Loader2 } from 'lucide-react';
+import { motion, AnimatePresence } from 'framer-motion';
+import { supabase } from '@/lib/supabase';
+import Link from 'next/link';
 
 const Hero = () => {
   const [query, setQuery] = useState('');
   const [isFocused, setIsFocused] = useState(false);
+  const [suggestions, setSuggestions] = useState<any[]>([]);
+  const [isLoading, setIsLoading] = useState(false);
+
+  useEffect(() => {
+    const fetchSuggestions = async () => {
+      if (query.length < 2) {
+        setSuggestions([]);
+        return;
+      }
+
+      setIsLoading(true);
+      const { data } = await supabase
+        .from('products')
+        .select('name, slug')
+        .ilike('name', `%${query}%`)
+        .limit(5);
+
+      if (data) setSuggestions(data);
+      setIsLoading(false);
+    };
+
+    const debounce = setTimeout(fetchSuggestions, 300);
+    return () => clearTimeout(debounce);
+  }, [query]);
 
   return (
     <section className="relative overflow-hidden pt-32 pb-20 lg:pt-48 lg:pb-32">
@@ -49,18 +75,22 @@ const Hero = () => {
             initial={{ opacity: 0, y: 20 }}
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.5, delay: 0.3 }}
-            className="mx-auto mt-12 max-w-2xl"
+            className="mx-auto mt-12 max-w-2xl relative"
           >
             <div className={`relative transition-all duration-300 ${isFocused ? 'scale-105' : 'scale-100'}`}>
               <div className="absolute inset-y-0 left-0 flex items-center pl-6 pointer-events-none">
-                <Search className={`h-6 w-6 transition-colors ${isFocused ? 'text-primary' : 'text-muted-foreground'}`} />
+                {isLoading ? (
+                  <Loader2 className="h-6 w-6 text-primary animate-spin" />
+                ) : (
+                  <Search className={`h-6 w-6 transition-colors ${isFocused ? 'text-primary' : 'text-muted-foreground'}`} />
+                )}
               </div>
               <input
                 type="text"
                 value={query}
                 onChange={(e) => setQuery(e.target.value)}
                 onFocus={() => setIsFocused(true)}
-                onBlur={() => setIsFocused(false)}
+                onBlur={() => setTimeout(() => setIsFocused(false), 200)}
                 placeholder="Search technologies (e.g. Salesforce, AWS, QuickBooks...)"
                 className="block w-full rounded-2xl border border-white/10 bg-white/5 py-6 pl-16 pr-32 text-lg text-white placeholder:text-muted-foreground focus:border-primary/50 focus:bg-white/10 focus:outline-none focus:ring-4 focus:ring-primary/10 transition-all backdrop-blur-md"
               />
@@ -71,6 +101,34 @@ const Hero = () => {
                 </button>
               </div>
             </div>
+
+            {/* Suggestions Dropdown */}
+            <AnimatePresence>
+              {isFocused && suggestions.length > 0 && (
+                <motion.div
+                  initial={{ opacity: 0, y: 10 }}
+                  animate={{ opacity: 1, y: 0 }}
+                  exit={{ opacity: 0, y: 10 }}
+                  className="absolute z-50 mt-2 w-full overflow-hidden rounded-2xl border border-white/10 bg-card/95 p-2 shadow-2xl backdrop-blur-xl"
+                >
+                  {suggestions.map((item) => (
+                    <Link
+                      key={item.slug}
+                      href={`/technology-users/${item.slug}`}
+                      className="flex items-center space-x-3 rounded-xl px-4 py-3 text-left transition-colors hover:bg-white/5 group"
+                    >
+                      <div className="flex h-10 w-10 shrink-0 items-center justify-center rounded-lg bg-white/5 group-hover:bg-primary/20">
+                        <Database className="h-5 w-5 text-muted-foreground group-hover:text-primary" />
+                      </div>
+                      <div>
+                        <div className="text-sm font-semibold text-white">{item.name}</div>
+                        <div className="text-xs text-muted-foreground">Technology Users List</div>
+                      </div>
+                    </Link>
+                  ))}
+                </motion.div>
+              )}
+            </AnimatePresence>
             
             {/* Quick Suggestions */}
             <div className="mt-4 flex flex-wrap justify-center gap-2">
