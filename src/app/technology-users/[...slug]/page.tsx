@@ -75,6 +75,11 @@ export default async function TechnologyPage({ params }: PageProps) {
                     <div className="h-1.5 w-1.5 rounded-full bg-emerald-500 animate-pulse" />
                     <span className="text-[10px] font-bold text-emerald-500 uppercase tracking-widest">Live Database</span>
                   </div>
+                  {product?.vendor && (
+                    <div className="ml-2 inline-flex items-center space-x-2 rounded-full bg-primary/10 px-3 py-1 mb-2">
+                      <span className="text-[10px] font-bold text-primary uppercase tracking-widest">Vendor: {product.vendor}</span>
+                    </div>
+                  )}
                   <h1 className="text-4xl font-bold tracking-tight text-white sm:text-6xl">
                     {techData.name} <span className="text-primary/50">Intelligence</span>
                   </h1>

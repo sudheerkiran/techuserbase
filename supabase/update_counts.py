@@ -24,6 +24,7 @@ for filename in os.listdir(counts_dir):
             for row in reader:
                 name = row['Technology']
                 slug = slugify(name)
+                vendor = row.get('Primary_Vendor', '')
                 
                 try:
                     accounts = int(row['Estimated_Accounts'])
@@ -38,19 +39,17 @@ for filename in os.listdir(counts_dir):
                 if slug not in tech_data:
                     tech_data[slug] = {
                         'name': name,
+                        'vendor': vendor,
                         'accounts': accounts,
                         'contacts': contacts
                     }
                 else:
-                    # If duplicate, take the max counts or update
                     tech_data[slug]['accounts'] = max(tech_data[slug]['accounts'], accounts)
                     tech_data[slug]['contacts'] = max(tech_data[slug]['contacts'], contacts)
+                    if not tech_data[slug]['vendor'] and vendor:
+                        tech_data[slug]['vendor'] = vendor
 
 # Generate UPSERT statements
-# We don't have sub_category_id here, so we'll only update existing products 
-# OR we need to create a "General" category/sub-category for these.
-
-# Let's create a "General" sub-category for orphans
 sql_statements.append("""
 DO $$
 DECLARE
@@ -68,10 +67,12 @@ BEGIN
 
 for slug, data in tech_data.items():
     name_esc = data['name'].replace("'", "''")
+    vendor_esc = data['vendor'].replace("'", "''")
     sql_statements.append(f"""
-    INSERT INTO products (name, slug, estimated_accounts, estimated_contacts, sub_category_id)
-    VALUES ('{name_esc}', '{slug}', {data['accounts']}, {data['contacts']}, gen_sub_id)
+    INSERT INTO products (name, slug, vendor, estimated_accounts, estimated_contacts, sub_category_id)
+    VALUES ('{name_esc}', '{slug}', '{vendor_esc}', {data['accounts']}, {data['contacts']}, gen_sub_id)
     ON CONFLICT (slug) DO UPDATE SET 
+        vendor = EXCLUDED.vendor,
         estimated_accounts = EXCLUDED.estimated_accounts,
         estimated_contacts = EXCLUDED.estimated_contacts;
     """)
